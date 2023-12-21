@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1332" height="774.67" viewBox="0 0 1332 774.67">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.669" y1="0.079" x2="0.383" y2="0.792" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fceade"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-0.127" y1="0.154" x2="0.786" y2="1.259" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="0.693" y1="0.256" x2="0.352" y2="0.687" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="0.22" y1="-0.266" x2="1.133" y2="0.84" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.999" stop-color="#fceade"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_56863" data-name="Grupo 56863" transform="translate(-132 -1977)">
+    <g id="Grupo_56454" data-name="Grupo 56454" transform="translate(132 -994.044)">
+      <g id="Grupo_56444" data-name="Grupo 56444" transform="translate(0 2971.044)">
+        <path id="Trazado_105238" data-name="Trazado 105238" d="M573.634,3265.395c-30.252-7-62.252-10.078-93.863-15.714-68.816-12.276-125.978,38.225-173.853-122.607-35.582-119.55-116.281-148.858-155.363-156.029h242.8C390.818,3137.63,541.287,3141.679,573.634,3265.395Z" transform="translate(0.589 -2971.044)" fill="url(#linear-gradient)"/>
+        <path id="Trazado_105239" data-name="Trazado 105239" d="M938.052,3745.714H0v-774.67H151.144c39.082,7.171,119.782,36.479,155.363,156.029C354.383,3287.905,411.544,3237.4,480.36,3249.68c31.611,5.636,63.611,8.713,93.863,15.714a182.255,182.255,0,0,1,4.869,26.868c13.7,128.119,66.934,122.614,130.659,90.871,11.982,30.995,21.034,70.158,26.354,119.9C752.245,3653.812,940.764,3567.848,938.052,3745.714Z" transform="translate(0 -2971.044)" fill="url(#linear-gradient-2)"/>
+        <path id="Trazado_105240" data-name="Trazado 105240" d="M935.815,3744.567c2.712-177.866-185.808-91.9-201.948-242.682-5.32-49.74-14.372-88.9-26.354-119.9,58.431-29.1,125.687-80.262,179.384-70.682,68.822,12.276,134.532,101.677,182.408,262.51,35.583,119.55,70.232,163.588,109.319,170.753ZM571.986,3264.248a182.255,182.255,0,0,1,4.869,26.868c13.7,128.119,66.934,122.614,130.659,90.871C676.986,3303.024,627.421,3277.062,571.986,3264.248Z" transform="translate(2.237 -2969.897)" fill="url(#linear-gradient-3)"/>
+        <path id="Trazado_105241" data-name="Trazado 105241" d="M1330.465,2971.044v774.67H1179.327c-39.087-7.165-73.736-51.2-109.319-170.753-47.875-160.833-113.586-250.234-182.408-262.51-53.7-9.579-120.953,41.578-179.384,70.682-30.528-78.963-80.093-104.925-135.528-117.739-32.347-123.716-182.816-127.765-180.276-294.351Z" transform="translate(1.534 -2971.044)" fill="url(#linear-gradient-4)"/>
+      </g>
+      <g id="Grupo_56449" data-name="Grupo 56449" transform="translate(52.378 3095.864)">
+        <g id="Grupo_56445" data-name="Grupo 56445">
+          <rect id="Rectángulo_5545" data-name="Rectángulo 5545" width="260.398" height="525.03" rx="24.441" fill="#ffcd91"/>
+          <rect id="Rectángulo_5546" data-name="Rectángulo 5546" width="249.813" height="512.328" rx="18.552" transform="translate(5.293 6.351)" fill="#fff"/>
+          <path id="Trazado_105242" data-name="Trazado 105242" d="M205.049,3117.993H158.887a3.175,3.175,0,1,1,0-6.351h46.162a3.175,3.175,0,1,1,0,6.351Z" transform="translate(-51.769 -3095.314)" fill="#fceade"/>
+        </g>
+        <g id="Grupo_56446" data-name="Grupo 56446" transform="translate(322.282)">
+          <rect id="Rectángulo_5547" data-name="Rectángulo 5547" width="260.398" height="525.03" rx="24.441" fill="#ffcd91"/>
+          <rect id="Rectángulo_5548" data-name="Rectángulo 5548" width="249.813" height="512.328" rx="18.552" transform="translate(5.293 6.351)" fill="#fff"/>
+          <path id="Trazado_105243" data-name="Trazado 105243" d="M526.075,3117.993H479.913a3.175,3.175,0,1,1,0-6.351h46.162a3.175,3.175,0,1,1,0,6.351Z" transform="translate(-372.795 -3095.314)" fill="#fceade"/>
+        </g>
+        <g id="Grupo_56447" data-name="Grupo 56447" transform="translate(644.564)">
+          <rect id="Rectángulo_5549" data-name="Rectángulo 5549" width="260.398" height="525.03" rx="24.441" fill="#ffcd91"/>
+          <rect id="Rectángulo_5550" data-name="Rectángulo 5550" width="249.813" height="512.328" rx="18.552" transform="translate(5.293 6.351)" fill="#fff"/>
+          <path id="Trazado_105244" data-name="Trazado 105244" d="M847.1,3117.993H800.94a3.175,3.175,0,1,1,0-6.351H847.1a3.175,3.175,0,1,1,0,6.351Z" transform="translate(-693.822 -3095.314)" fill="#fceade"/>
+        </g>
+        <g id="Grupo_56448" data-name="Grupo 56448" transform="translate(966.846)">
+          <rect id="Rectángulo_5551" data-name="Rectángulo 5551" width="260.398" height="525.03" rx="24.441" fill="#ffcd91"/>
+          <rect id="Rectángulo_5552" data-name="Rectángulo 5552" width="249.813" height="512.328" rx="18.552" transform="translate(5.293 6.351)" fill="#fff"/>
+          <path id="Trazado_105245" data-name="Trazado 105245" d="M1168.128,3117.993h-46.162a3.175,3.175,0,1,1,0-6.351h46.162a3.175,3.175,0,1,1,0,6.351Z" transform="translate(-1014.848 -3095.314)" fill="#fceade"/>
+        </g>
+      </g>
+      <g id="Grupo_56451" data-name="Grupo 56451" transform="translate(230.385 3529.131)">
+        <g id="Grupo_53990" data-name="Grupo 53990">
+          <g id="Trazado_100830" data-name="Trazado 100830">
+            <path id="Trazado_105246" data-name="Trazado 105246" d="M257.868,3580.739a25.4,25.4,0,1,1,25.4-25.4A25.431,25.431,0,0,1,257.868,3580.739Z" transform="translate(-229.476 -3526.945)" fill="#fff"/>
+            <path id="Trazado_105247" data-name="Trazado 105247" d="M257.88,3532.933a22.414,22.414,0,1,0,22.414,22.414,22.44,22.44,0,0,0-22.414-22.414m0-5.976a28.391,28.391,0,1,1-28.392,28.391A28.391,28.391,0,0,1,257.88,3526.957Z" transform="translate(-229.488 -3526.957)" fill="#ffcd91"/>
+          </g>
+          <circle id="Elipse_1133" data-name="Elipse 1133" cx="16.437" cy="16.437" r="16.437" transform="translate(11.954 11.954)" fill="#ffcd91"/>
+        </g>
+        <g id="Grupo_56450" data-name="Grupo 56450" transform="translate(18.547 17.936)">
+          <path id="Trazado_105248" data-name="Trazado 105248" d="M260.924,3552.319h6.727v5.7h-6.727v7.713H254.71v-7.713h-6.747v-5.7h6.747v-7.5h6.214Z" transform="translate(-247.963 -3544.823)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Grupo_56453" data-name="Grupo 56453" transform="translate(556.724 3529.131)">
+        <g id="Grupo_53990-2" data-name="Grupo 53990">
+          <g id="Trazado_100830-2" data-name="Trazado 100830">
+            <path id="Trazado_105249" data-name="Trazado 105249" d="M582.935,3580.739a25.4,25.4,0,1,1,25.4-25.4A25.432,25.432,0,0,1,582.935,3580.739Z" transform="translate(-554.543 -3526.945)" fill="#fff"/>
+            <path id="Trazado_105250" data-name="Trazado 105250" d="M582.947,3532.933a22.414,22.414,0,1,0,22.414,22.414,22.44,22.44,0,0,0-22.414-22.414m0-5.976a28.391,28.391,0,1,1-28.392,28.391A28.391,28.391,0,0,1,582.947,3526.957Z" transform="translate(-554.555 -3526.957)" fill="#ffcd91"/>
+          </g>
+          <circle id="Elipse_1133-2" data-name="Elipse 1133" cx="16.437" cy="16.437" r="16.437" transform="translate(11.955 11.954)" fill="#ffcd91"/>
+        </g>
+        <g id="Grupo_56452" data-name="Grupo 56452" transform="translate(18.548 17.936)">
+          <path id="Trazado_105251" data-name="Trazado 105251" d="M585.992,3552.319h6.727v5.7h-6.727v7.713h-6.214v-7.713h-6.746v-5.7h6.746v-7.5h6.214Z" transform="translate(-573.031 -3544.823)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <text id="Escalado_monobásico_Se_parte_de_tallas_base_para_reducir_o_aumentar_a_otras_tallas._Se_realizan_a_partir_de_una_constante_de_medida_aplicada_a_toda_la_serie_de_tallas_en_largos_y_anchos_también_es_llamado_escalado_de_crecimiento_real_y_es_proporcional._" data-name="Escalado monobásico
+
+Se parte de tallas base para reducir o aumentar a otras tallas. Se realizan a partir de una constante de medida aplicada a toda la serie de tallas en largos y anchos, también es llamado escalado de crecimiento real y es proporcional. 
+" transform="translate(209 2178)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="19">Escalado monobásico</tspan><tspan x="0" y="44"></tspan><tspan font-size="16" font-family="Roboto-Regular, Roboto" font-weight="400"><tspan x="0" y="69">Se parte de tallas base para </tspan><tspan x="0" y="94">reducir o aumentar a otras </tspan><tspan x="0" y="119">tallas. Se realizan a partir de </tspan><tspan x="0" y="144">una constante de medida </tspan><tspan x="0" y="169">aplicada a toda la serie de </tspan><tspan x="0" y="194">tallas en largos y anchos, </tspan><tspan x="0" y="219">también es llamado escalado </tspan><tspan x="0" y="244">de crecimiento real y es </tspan><tspan x="0" y="269">proporcional. </tspan><tspan x="0" y="294"></tspan></tspan></text>
+    <text id="Simple_o_relativo_diferencial_Es_implementado_cuando_en_los_cuadros_de_tallas_se_observa_que_los_incrementos_entre_tallas_varían_dentro_de_la_serie_por_ejemplo_no_hay_mayor_incremento_en_estatura_largos_totales_pero_si_en_anchos._" data-name="Simple o relativo/diferencial
+
+Es implementado cuando en los cuadros de tallas se observa que los incrementos entre tallas varían dentro de la serie, por ejemplo, no hay mayor incremento en estatura (largos totales) pero si en anchos. 
+" transform="translate(528 2178)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="19">Simple o relativo/</tspan><tspan x="0" y="44">diferencial</tspan><tspan x="0" y="69"></tspan><tspan font-size="16" font-family="Roboto-Regular, Roboto" font-weight="400"><tspan x="0" y="94">Es implementado cuando en </tspan><tspan x="0" y="119">los cuadros de tallas se </tspan><tspan x="0" y="144">observa que los incrementos </tspan><tspan x="0" y="169">entre tallas varían dentro de la </tspan><tspan x="0" y="194">serie, por ejemplo, no hay </tspan><tspan x="0" y="219">mayor incremento en estatura </tspan><tspan x="0" y="244">(largos totales) pero si en </tspan><tspan x="0" y="269">anchos. </tspan><tspan x="0" y="294"></tspan></tspan></text>
+    <text id="Escalado_bibásico_Aplicado_para_obtener_tallas_intermedias_a_partir_del_análisis_de_medidas_de_dos_tallas_con_este_es_determinado_la_talla_base_y_la_talla_limite._" data-name="Escalado bibásico
+
+Aplicado para obtener tallas intermedias a partir del análisis de medidas de dos tallas, con este es determinado la talla base y la talla limite.
+" transform="translate(848 2178)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="19">Escalado bibásico</tspan><tspan x="0" y="44"></tspan><tspan font-size="16" font-family="Roboto-Regular, Roboto" font-weight="400"><tspan x="0" y="69">Aplicado para obtener tallas </tspan><tspan x="0" y="94">intermedias a partir del </tspan><tspan x="0" y="119">análisis de medidas de dos </tspan><tspan x="0" y="144">tallas, con este es </tspan><tspan x="0" y="169">determinado la talla base y la </tspan><tspan x="0" y="194">talla limite.</tspan><tspan x="0" y="219"></tspan></tspan></text>
+    <text id="Escalado_tribásico_En_este_similar_al_bibásico_pero_aquí_se_toman_tres_tallas_para_obtener_un_intermedio_por_ejemplo_se_toman_la_talla_14_14_y_18_para_obtener_la_talla_12_y_16_que_serían_las_intermedias." data-name="Escalado tribásico
+
+En este similar al bibásico, pero aquí se toman tres tallas para obtener un intermedio, por ejemplo, se toman la talla 14, 14 y 18 para obtener la talla 12 y 16 que serían las intermedias." transform="translate(1170 2178)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="19">Escalado tribásico</tspan><tspan x="0" y="44"></tspan><tspan font-size="16" font-family="Roboto-Regular, Roboto" font-weight="400"><tspan x="0" y="69">En este similar al bibásico, </tspan><tspan x="0" y="94">pero aquí se toman tres tallas </tspan><tspan x="0" y="119">para obtener un intermedio, </tspan><tspan x="0" y="144">por ejemplo, se toman la talla </tspan><tspan x="0" y="169">14, 14 y 18 para obtener la </tspan><tspan x="0" y="194">talla 12 y 16 que serían las </tspan><tspan x="0" y="219">intermedias.</tspan></tspan></text>
+  </g>
+</svg>
