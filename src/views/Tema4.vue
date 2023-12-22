@@ -7,7 +7,7 @@
         span 4
       h1 Introducción al escalado
     
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="flip-up")
       .col-lg-10.mb-4.mb-md-0
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
           .bloque-texto-g__img(
@@ -16,9 +16,9 @@
           .bloque-texto-g__texto.p-4
             p.mb-0 El escalado de tallas hace referencia al proceso que permite la adecuación del patronaje de prendas de vestir, partiendo de una base a cada una de las tallas y generando incremento o reducción de tamaño para un modelo determinado. El escalado es aplicado por partes, las partes o piezas separadas (moldes) que se originan en el proceso de patronaje que parte de la interpretación de un modelo o diseño, es decir, se escalan por separado las partes o piezas de una camisa, delantero, posterior, cuello, manga y puño, y demás complementos que lo compongan.
 
-    .h4.mb-4  Es indispensable tener clara la terminología que se implementa en este proceso para evitar confundirse en la aplicación de esta metodología:
+    .h4.mb-4(data-aos="fade-right")  Es indispensable tener clara la terminología que se implementa en este proceso para evitar confundirse en la aplicación de esta metodología:
 
-    LineaTiempoD.color-secundario
+    LineaTiempoD.color-secundario(data-aos="zoom-in-up")
       p.text-small(numero="1" titulo="Talla prototipo") Es la talla de la cual se parte un escalado, también llamado patrón base, por ejemplo, el básico del corpiño para dama.
       
       p.text-small(numero="2" titulo="Talla límite") Es la talla escalada y para la cual se implementaron medidas específicas para poder obtener dicha pieza incrementada o reducida.
@@ -42,67 +42,67 @@
             .titulo-sexto.color-acento-contenido
               h5 Figura 7. 
               | Plano cartesiano
-            img(src='@/assets/curso/tema4/img02.svg')
+            img(src='@/assets/curso/tema4/img02.svg' alt="Imagen decorativa")
 
     Separador
-    #t_4_1.titulo-segundo
-      .h4 4.1 Tipos de escalado
+    #t_4_1.titulo-segundo(data-aos="zoom-in-right")
+      .h2 4.1 Tipos de escalado
     
-    p.mb-4 Aunque se establece en el patronaje industrial una metodología universal para el escalado, de este se derivan varios tipos de escalado, dado que cada empresa o fábrica personaliza su cuadro de tallas o medidas a partir de las necesidades que cubren a sus públicos objetivos.
+    p.mb-4(data-aos="fade-right") Aunque se establece en el patronaje industrial una metodología universal para el escalado, de este se derivan varios tipos de escalado, dado que cada empresa o fábrica personaliza su cuadro de tallas o medidas a partir de las necesidades que cubren a sus públicos objetivos.
 
-    p.mb-4 A continuación, se presentan los cuatro (4) tipos de escalado más utilizados en la industria de la confección:
+    p.mb-4(data-aos="fade-left") A continuación, se presentan los cuatro (4) tipos de escalado más utilizados en la industria de la confección:
 
-    ImagenInfografica.color-primario.mb-5
+    ImagenInfografica.color-primario.mb-5(data-aos="zoom-in-up")
       template(v-slot:imagen)
         figure
-          img(src='@/assets/curso/tema4/img03.svg')
+          img(src='@/assets/curso/tema4/img03.svg' alt="Imagen decorativa")
       .tarjeta.color-primario.p-3(x="19%" y="76%")
         .titulo-sexto.color-acento-contenido
           h5 Figura. 
           | Escalado monobásico
-        img(src='@/assets/curso/tema4/img04.svg')
+        img(src='@/assets/curso/tema4/img04.svg' alt="Imagen decorativa")
       .tarjeta.color-primario.p-3(x="44%" y="76%")
         .titulo-sexto.color-acento-contenido
           h5 Figura. 
           | Escalado relativo
 
-        img(src='@/assets/curso/tema4/img05.svg')
+        img(src='@/assets/curso/tema4/img05.svg' alt="Imagen decorativa")
     
     Separador
-    #t_4_2.titulo-segundo
-      .h4 4.2 Análisis de cuadros de tallas
+    #t_4_2.titulo-segundo(data-aos="zoom-in-right")
+      .h2 4.2 Análisis de cuadros de tallas
 
     .row
-      .col-md-7.mb-4.mb-md-0
+      .col-md-7.mb-4.mb-md-0(data-aos="fade-right")
         p.mb-4 Los cuadros de tallas como se ha mencionado son el punto importante dentro del escalado industrial de prendas, por ello se debe tener en cuenta:
         ul.lista-ul--color
-          li 
+          li.d-flex
             i.fas.fa-atom
             p
               strong Los límites de las tallas:  
               |  la más grande y la más pequeña.
-          li 
+          li.d-flex
             i.fas.fa-atom
             p
               strong Frecuencia: 
               | esto es lo que determina el aumento de medidas de talla a talla, aquí es importante analizar si es secuencial o no y se poseen constantes y variables.
-          li 
+          li.d-flex
             i.fas.fa-atom
             p
               strong Incremento: 
               | el crecimiento de talla por talla en cada uno de los apartados de las medidas antropométricas.
         p Una vez esto es analizado y determinado da como resultado los valores, proporciones y rupturas de las tallas. Revisemos este proceso a profundidad:
-      .col-md-5.mb-4.mb-md-0
+      .col-md-5.mb-4.mb-md-0(data-aos="fade-left")
         figure.mb-4
-          img(src='@/assets/curso/tema4/img06.svg')
+          img(src='@/assets/curso/tema4/img06.svg' alt="Imagen decorativa")
         p.text-white.mb-4 .
         a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=q62l2sbPAaE" target="_blank")
           .anexo__icono
-            img(src="@/assets/template/icono-link.svg")
+            img(src="@/assets/template/icono-link.svg" alt="Imagen decorativa")
           .anexo__texto
             strong Enlace web. 
             | Introducción y contextualización de escalado de prendas de vestir.
-    separador
+    
 </template>
 
 <script>
