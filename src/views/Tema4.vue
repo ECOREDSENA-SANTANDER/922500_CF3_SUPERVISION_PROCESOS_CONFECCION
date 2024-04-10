@@ -16,33 +16,56 @@
           .bloque-texto-g__texto.p-4
             p.mb-0 El escalado de tallas hace referencia al proceso que permite la adecuación del patronaje de prendas de vestir, partiendo de una base a cada una de las tallas y generando incremento o reducción de tamaño para un modelo determinado. El escalado es aplicado por partes, las partes o piezas separadas (moldes) que se originan en el proceso de patronaje que parte de la interpretación de un modelo o diseño, es decir, se escalan por separado las partes o piezas de una camisa, delantero, posterior, cuello, manga y puño, y demás complementos que lo compongan.
 
-    .h4.mb-4(data-aos="fade-right")  Es indispensable tener clara la terminología que se implementa en este proceso para evitar confundirse en la aplicación de esta metodología:
+    p Es indispensable tener clara la terminología que se implementa en este proceso para evitar confundirse en la aplicación de esta metodología:
 
-    LineaTiempoD.color-secundario(data-aos="zoom-in-up")
-      p.text-small(numero="1" titulo="Talla prototipo") Es la talla de la cual se parte un escalado, también llamado patrón base, por ejemplo, el básico del corpiño para dama.
-      
-      p.text-small(numero="2" titulo="Talla límite") Es la talla escalada y para la cual se implementaron medidas específicas para poder obtener dicha pieza incrementada o reducida.
-      
-      p.text-small(numero="3" titulo="Foco de proyección") Punto hallado numéricamente y donde se partirán las líneas a proyectar.
-      
-      p.text-small(numero="4" titulo="Constante") Punto para hallar la longitud de los moldes.
-
-      p.text-small(numero="5" titulo="Base") Medida de la que se partirá para implementar las medidas de escalado, por ejemplo, si para una empresa la talla base es la 8, de esta partirán para hacer el escalado de las demás tallas que manejan en dicha empresa.
-
-      p.text-small(numero="6" titulo="Proporciones") Identificadas de acuerdo al cuadro de tallas o medidas estandarizadas, estas son establecidas por cada empresa o fábrica.
-
-      .row(numero="7" titulo="Plano cartesiano")
-          .col-md-7.mb-4.mb-md-0
-            p.text-small.mb-4 Formado por rectas y perpendiculares, cuyo sistema es el que guía el movimiento de cada uno de los puntos o focos así:
-            p.text-small La recta horizontal es llamada eje de las abscisas o de las equis (x)
-            p.text-small La recta vertical, eje de las ordenadas o de las yes, (y)
-            p.text-small El punto donde se cortan recibe el nombre de origen (Punto cero o Punto muerto).
-        
-          .col-md-4
-            .titulo-sexto.color-acento-contenido
-              h5 Figura 7. 
-              | Plano cartesiano
-            img(src='@/assets/curso/tema4/img02.svg' alt="Imagen decorativa")
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-4.mb-4.mb-md-0(data-aos="fade-left")
+        img(src='@/assets/curso/tema3/img35.png' alt="Imagen decorativa")
+          
+      .col-sm-12.col-lg-6
+        .tarjeta--azul-1.p-3.bg111
+          SlyderA
+            .row.justify-content-center.align-items-center
+              .col-md-10.my-2.mb-md-0
+                p Talla prototipo
+                p.mb-4  Es la talla de la cual se parte un escalado, también llamado patrón base, por ejemplo, el básico del corpiño para dama.      
+            .row.justify-content-center.align-items-center
+              .col-md-10.my-2.mb-md-0
+                p Talla límite
+                p.mb-5 Es la talla escalada y para la cual se implementaron medidas específicas para poder obtener dicha pieza incrementada o reducida.
+              
+            .row.justify-content-center.align-items-center
+              .col-md-10.my-2.mb-md-0
+                p Foco de proyección
+                p.mb-5 Punto hallado numéricamente y donde se partirán las líneas a proyectar.
+            
+            .row.justify-content-center.align-items-center
+              .col-md-10.my-2.mb-md-0
+                p Constante
+                p.mb-4 Punto para hallar la longitud de los moldes.
+            
+            .row.justify-content-center.align-items-center
+              .col-md-10.my-2.mb-md-0
+                p Base
+                p.mb-4 Medida de la que se partirá para implementar las medidas de escalado, por ejemplo, si para una empresa la talla base es la 8, de esta partirán para hacer el escalado de las demás tallas que manejan en dicha empresa.
+            
+            .row.justify-content-center.align-items-center
+              .col-md-10.my-2.mb-md-0
+                p Proporciones
+                p.mb-4 Identificadas de acuerdo al cuadro de tallas o medidas estandarizadas, estas son establecidas por cada empresa o fábrica.
+            
+            .row.justify-content-center.align-items-center
+              .col-md-10.my-2.mb-md-0
+                p Plano cartesiano
+                p.text-small.mb-4 Formado por rectas y perpendiculares, cuyo sistema es el que guía el movimiento de cada uno de los puntos o focos así:
+                p.text-small La recta horizontal es llamada eje de las abscisas o de las equis (x)
+                p.text-small La recta vertical, eje de las ordenadas o de las yes, (y)
+                p.text-small El punto donde se cortan recibe el nombre de origen (Punto cero o Punto muerto).
+                .col-md-4
+                  .titulo-sexto.color-acento-contenido
+                    h5 Figura 7. 
+                    | Plano cartesiano
+                  img(src='@/assets/curso/tema4/img02.svg' alt="Imagen decorativa")
 
     Separador
     #t_4_1.titulo-segundo(data-aos="zoom-in-right")
@@ -72,36 +95,35 @@
     #t_4_2.titulo-segundo(data-aos="zoom-in-right")
       .h2 4.2 Análisis de cuadros de tallas
 
-    .row
-      .col-md-7.mb-4.mb-md-0(data-aos="fade-right")
-        p.mb-4 Los cuadros de tallas como se ha mencionado son el punto importante dentro del escalado industrial de prendas, por ello se debe tener en cuenta:
-        ul.lista-ul--color
-          li.d-flex
-            i.fas.fa-atom
-            p
-              strong Los límites de las tallas:  
-              |  la más grande y la más pequeña.
-          li.d-flex
-            i.fas.fa-atom
-            p
-              strong Frecuencia: 
-              | esto es lo que determina el aumento de medidas de talla a talla, aquí es importante analizar si es secuencial o no y se poseen constantes y variables.
-          li.d-flex
-            i.fas.fa-atom
-            p
-              strong Incremento: 
-              | el crecimiento de talla por talla en cada uno de los apartados de las medidas antropométricas.
-        p Una vez esto es analizado y determinado da como resultado los valores, proporciones y rupturas de las tallas. Revisemos este proceso a profundidad:
-      .col-md-5.mb-4.mb-md-0(data-aos="fade-left")
-        figure.mb-4
-          img(src='@/assets/curso/tema4/img06.svg' alt="Imagen decorativa")
-        p.text-white.mb-4 .
-        a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=q62l2sbPAaE" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-link.svg" alt="Imagen decorativa")
-          .anexo__texto
-            strong Enlace web. 
-            | Introducción y contextualización de escalado de prendas de vestir.
+    p.mb-4 Los cuadros de tallas como se ha mencionado son el punto importante dentro del escalado industrial de prendas, por ello se debe tener en cuenta:
+    
+    .row.justify-content.align-items.mt-5
+      .col-sm-12.col-lg-12
+        .row
+          .col-lg-3
+            img.img-t.img-a.my-2(src='@/assets/curso/tema4/4.2.png', alt='Introducción') 
+          .col-lg-9
+            .boq.p-3
+              p.mb-4.mx-3.my-3 Los cuadros de tallas como se ha mencionado son el punto importante dentro del escalado industrial de prendas, por ello se debe tener en cuenta:
+              ul.lista-ul--color
+                li.d-flex
+                  i.fas.fa-car-side.mx-3
+                  | #[b Los límites de las tallas:]&nbsp;la más grande y la más pequeña.
+                li.d-flex
+                  i.fas.fa-car-side.mx-3
+                  | #[b Frecuencia:]&nbsp;esto es lo que determina el aumento de medidas de talla a talla, aquí es importante analizar si es secuencial o no y se poseen constantes y variables.
+                li.d-flex
+                  i.fas.fa-car-side.mx-3
+                  | #[b Incremento: ]&nbsp;el crecimiento de talla por talla en cada uno de los apartados de las medidas antropométricas.
+    
+              .row.justify-content.align-items.mt-5
+                .col-sm-12.col-lg-7
+                  a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=q62l2sbPAaE" target="_blank")
+                    .anexo__icono
+                      img(src="@/assets/template/icono-link.svg" alt="Imagen decorativa")
+                    .anexo__texto
+                      strong Enlace web. 
+                      | Introducción y contextualización de escalado de prendas de vestir.
     
 </template>
 

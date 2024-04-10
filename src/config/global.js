@@ -3,9 +3,26 @@ export default {
     componenteFormativo: 'Patronaje de prendas de vestir',
     descripcionCurso:
       'Entender el patronaje dentro de sus diferentes líneas permite guiar los procesos de producción en planta, por ello, se abordan los diferentes tipos de patronaje, así como el proceso de escalado, haciendo hincapié en la estructura corporal y las diferentes técnicas de toma de medidas antropométricas, comprendiendo la figura humana, vista desde los patrones y moldes que conforman una prenda.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
-    imagenesDecorativasBanner: [],
+    imagenesDecorativasBanner: [
+      {
+        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/1.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-2'],
+        imagen: require('@/assets/curso/portada/2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/3.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-4'],
+        imagen: require('@/assets/curso/portada/4.svg'),
+      },
+    ],
   },
   menuPrincipal: {
     menu: [
