@@ -39,33 +39,33 @@ export default {
       },
       {
         nombreRuta: 'tema1',
-        icono: 'far fa-file-alt',
+        icono: '',
         numero: '1',
         titulo: 'Patronaje de prendas de vestir',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema2',
-        icono: 'far fa-file-alt',
+        icono: '',
         numero: '2',
         titulo: 'Tipos de patronaje y escalado',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
-        icono: 'far fa-file-alt',
+        icono: '',
         numero: '3',
         titulo: 'Estructura corporal y cuadro de tallas',
         desarrolloContenidos: true,
         subMenu: [
           {
-            icono: 'far fa-file-alt',
+            icono: '',
             numero: '3.1',
             titulo: 'Análisis y clasificación de las medidas',
             hash: 't_3_1',
           },
           {
-            icono: 'far fa-file-alt',
+            icono: '',
             numero: '3.2',
             titulo: 'Análisis de medidas y cuadros de tallas',
             hash: 't_3_2',
@@ -74,19 +74,19 @@ export default {
       },
       {
         nombreRuta: 'tema4',
-        icono: 'far fa-file-alt',
+        icono: '',
         numero: '4',
         titulo: 'Introducción al escalado',
         desarrolloContenidos: true,
         subMenu: [
           {
-            icono: 'far fa-file-alt',
+            icono: '',
             numero: '4.1',
             titulo: 'Tipos de escalado',
             hash: 't_4_1',
           },
           {
-            icono: 'far fa-file-alt',
+            icono: '',
             numero: '4.2',
             titulo: 'Análisis de cuadros de tallas',
             hash: 't_4_2',
@@ -95,31 +95,31 @@ export default {
       },
       {
         nombreRuta: 'tema5',
-        icono: 'far fa-file-alt',
+        icono: '',
         numero: '5',
         titulo: 'Patronaje femenino',
         desarrolloContenidos: true,
         subMenu: [
           {
-            icono: 'far fa-file-alt',
+            icono: '',
             numero: '5.1',
             titulo: 'Trazo de falda',
             hash: 't_5_1',
           },
           {
-            icono: 'far fa-file-alt',
+            icono: '',
             numero: '5.2',
             titulo: 'Trazo de base superior femenina',
             hash: 't_5_2',
           },
           {
-            icono: 'far fa-file-alt',
+            icono: '',
             numero: '5.3',
             titulo: 'El pantalón femenino y sus variantes',
             hash: 't_5_3',
           },
           {
-            icono: 'far fa-file-alt',
+            icono: '',
             numero: '5.4',
             titulo: 'Mangas',
             hash: 't_5_4',
@@ -128,25 +128,25 @@ export default {
       },
       {
         nombreRuta: 'tema6',
-        icono: 'far fa-file-alt',
+        icono: '',
         numero: '6',
         titulo: 'Patronaje masculino',
         desarrolloContenidos: true,
         subMenu: [
           {
-            icono: 'far fa-file-alt',
+            icono: '',
             numero: '6.1',
             titulo: 'Patrón base de camisa',
             hash: 't_6_1',
           },
           {
-            icono: 'far fa-file-alt',
+            icono: '',
             numero: '6.2',
             titulo: 'Patrones básicos masculinos',
             hash: 't_6_2',
           },
           {
-            icono: 'far fa-file-alt',
+            icono: '',
             numero: '6.3',
             titulo: 'Pantalón base',
             hash: 't_6_3',
@@ -155,7 +155,7 @@ export default {
       },
       {
         nombreRuta: 'tema7',
-        icono: 'far fa-file-alt',
+        icono: '',
         numero: '7',
         titulo: 'Escalado manual de prendas',
         desarrolloContenidos: true,
@@ -192,7 +192,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/CF3.pdf',
       },
       {
         icono: 'fas fa-download',

@@ -26,55 +26,55 @@
     
     
     .row.fondoo.align-items-center.py-4.py-md-5
-      .col-lg-12.col-12.px-lg-5.px-4
+      .col-sm-12.col-lg-12.px-lg-5.px-4
         .row.justify-content-center.mb-4(data-aos="fade-down") 
-    
-        .tarjeta.tarjeta--gris.bg1.p-4.mt-5.mb-5
-          LineaTiempoC
-            .row.justify-content-center.align-items-start(titulo="Año 1589")
-              .col-md-6.mb-4
-                span.text-cus.my-5 #[b Año 1589]
-                p.mb-4
-                p.mb-5 Juan de Álcega publica “Libro de geometría, práctica y patrones”, uno de los primeros libros registrados dedicados a la recreación de patrones de vestir. Este fue un paso importante para poder empezar a comprender la construcción de prendas desde un método más industrial. Otro método de reproducción de prendas y que permitía la tendencia y la moda por parte de otros grupos de personas, era descoser prendas ya hechas para tomar dichos patrones y hacerlos nuevamente (reutilizar piezas y agregar otras) en otro textil.
-              .col-md-4
-                figure
-                  img.my-4(src='@/assets/curso/tema1/1.svg', alt='tema1')      
-              
-            .row.justify-content-center.align-items-start(titulo="Siglo XVIII - 1769")
-              .col-md-6.mb-4
-                span.text-cus #[b Siglo XVIII - 1769]
-                p.mb-4
-                p.mb-5 El patronaje de prendas comienza a ser más visible.  En 1769, M. Garsault publica la "Enciclopedia del corte y la confección", generando interés en la publicación y venta de patrones.
-              .col-md-4
-                figure
-                  img.my-4(src='@/assets/curso/tema1/2.svg', alt='tema1')      
-              
-            .row.justify-content-center.align-items-start(titulo="1976")
-              .col-md-6.mb-4
-                span.text-cus #[b 1976]
-                p.mb-4
-                p.mb-5 En Londres, se inicia la reproducción de "The Taylor´s Complete Guide", una guía de confección y corte de vestidos que se vuelve popular en esa epoca.
-              .col-md-4
-                figure
-                  img.my-4(src='@/assets/curso/tema1/3.svg', alt='tema1')      
-              
-            .row.justify-content-center.align-items-start(titulo="1822")
-              .col-md-6.mb-4
-                span.text-cus #[b 1822]
-                p.mb-4
-                p.mb-5 Los mismos autores de “The Taylor´s Complete Guide” publican “The Taylor´s Friendly Instructor”, una guía para modistas.
-              .col-md-4
-                figure
-                  img.my-4(src='@/assets/curso/tema1/4.svg', alt='tema1')      
-              
-            .row.justify-content-center.align-items-start(titulo="Siglo XIX")
-              .col-md-6.mb-4
-                span.text-cus #[b Siglo XIX]
-                p.mb-4
-                p.mb-5 La publicación de patrones se vuelve más masiva a través de revistas de moda o figurines, como se llamaba para aquella época. Se destacan la Revista Vogue, Patrones Weldon y el famoso Pattern Book, entre otros.
-              .col-md-4
-                figure
-                  img.my-4(src='@/assets/curso/tema1/5.svg', alt='tema1')      
+        
+        .col-sm-12.col-lg-12
+          .bg1.p-4.mb-5
+            LineaTiempoC
+              .row.justify-content-center.align-items-center(titulo="Año 1589")
+                .col-sm-12.col-lg-6.mb-4
+                  span.text-cus.my-5 #[b Año 1589]
+                  p.mt-3 Juan de Álcega publica “Libro de geometría, práctica y patrones”, uno de los primeros libros registrados dedicados a la recreación de patrones de vestir. Este fue un paso importante para poder empezar a comprender la construcción de prendas desde un método más industrial. Otro método de reproducción de prendas y que permitía la tendencia y la moda por parte de otros grupos de personas, era descoser prendas ya hechas para tomar dichos patrones y hacerlos nuevamente (reutilizar piezas y agregar otras) en otro textil.
+                .col-sm-12.col-lg-5.mb-4
+                  figure
+                    img.img-a.img-t.my-4.d-none.d-lg-block(src='@/assets/curso/tema1/1.svg', alt='tema1')      
+                
+              .row.justify-content-center.align-items-start(titulo="Siglo XVIII - 1769")
+                .col-md-6.mb-4
+                  span.text-cus #[b Siglo XVIII - 1769]
+                  p.mb-4
+                  p.mb-5 El patronaje de prendas comienza a ser más visible.  En 1769, M. Garsault publica la "Enciclopedia del corte y la confección", generando interés en la publicación y venta de patrones.
+                .col-md-4
+                  figure
+                    img.my-4(src='@/assets/curso/tema1/2.svg', alt='tema1')      
+                
+              .row.justify-content-center.align-items-start(titulo="1976")
+                .col-md-6.mb-4
+                  span.text-cus #[b 1976]
+                  p.mb-4
+                  p.mb-5 En Londres, se inicia la reproducción de "The Taylor´s Complete Guide", una guía de confección y corte de vestidos que se vuelve popular en esa epoca.
+                .col-md-4
+                  figure
+                    img.my-4(src='@/assets/curso/tema1/3.svg', alt='tema1')      
+                
+              .row.justify-content-center.align-items-start(titulo="1822")
+                .col-md-6.mb-4
+                  span.text-cus #[b 1822]
+                  p.mb-4
+                  p.mb-5 Los mismos autores de “The Taylor´s Complete Guide” publican “The Taylor´s Friendly Instructor”, una guía para modistas.
+                .col-md-4
+                  figure
+                    img.my-4(src='@/assets/curso/tema1/4.svg', alt='tema1')      
+                
+              .row.justify-content-center.align-items-start(titulo="Siglo XIX")
+                .col-md-6.mb-4
+                  span.text-cus #[b Siglo XIX]
+                  p.mb-4
+                  p.mb-5 La publicación de patrones se vuelve más masiva a través de revistas de moda o figurines, como se llamaba para aquella época. Se destacan la Revista Vogue, Patrones Weldon y el famoso Pattern Book, entre otros.
+                .col-md-4
+                  figure
+                    img.my-4(src='@/assets/curso/tema1/5.svg', alt='tema1')      
               
     
     

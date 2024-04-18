@@ -2,14 +2,23 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 55%
+    left: -25%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    top: 20%
+    left: -9%
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 35%
+    right: 0%
+  &-4
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 55%
+    right: 20%
 
 @keyframes float1
   0%
@@ -47,13 +56,10 @@
 .cajon.color-primario
   background-color: #EED1C5 !important
 
-.tabs-c.color-acento-contenido .tabs-c__tab--active
-  background: #EA526F !important
-
 
 .text-cus
   color: #9F0925
-// text-decoration: underline red
+
 
 .titulo-principal__numero 
     background-color: #9F0925;
@@ -67,8 +73,11 @@
 
 
 
+.titulo-segundo:after 
+    border-left-color: #9F0925;
 
-
+.colorer
+  color: #1448D3
 
 
 //tema1
@@ -107,7 +116,13 @@
   @media screen and (max-width: 992px)
     margin-inline: -1.4rem 
 
+.bloque-texto-a.color-acento-contenido.prim::before 
+    background-color: #0CE6EA !important;
+    left: 40% !important;
 
+
+.bloque-texto-a__texto
+  opacity: 92%
 
 .cajon.color-acento-contenido 
   background-color: #DBFAFA
@@ -120,6 +135,8 @@
 
 .bg1 
   background-image: url('../assets/curso/tema1/img.svg');
+  border-radius: 15px
+
 
 .linea-tiempo-c__header__item--active .linea-tiempo-c__header__item__dot
   border-color: #1448D3  !important
@@ -210,6 +227,34 @@
     content: "\f553";
     color: #1448D3;
 
+.hr
+  border-bottom: 3px dotted #969494 !important
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs 
+    width: 50px;
+    height: 50px;
+    background-color: #1f05f5;
+    
+.fa-angle-left__.slyder-a:before 
+      content: "\f104";
+      color: #fff;
+
+.recg
+  background: url('../assets/curso/tema3/recg.svg')
+  background-size: 100% 130%
+  background-repeat: no-repeat
+  background-position: cover 
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem 
+
+
+.bloque-texto-a.color-acento-contenido::before 
+    background-color: #9F0925 !important;
+    left: 40% !important;
+
+
+
 
 
 
@@ -249,9 +294,7 @@
     font-weight: 400;
     line-height: 1.5;
 
-.bg-color-1
-  background-color: #F5E6E9
-
+  
 .fondo21e
   background-color: #0CE6EA
   border-radius: 10px
@@ -261,9 +304,57 @@
   background-color: #B3EEEF
   border-radius: 12px
 
+.vrl
+  background: url('../assets/curso/tema5/vrl.svg')
+  background-size: 100% 130%
+  background-repeat: no-repeat
+  background-position: cover
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem 
+
+.erre
+  background-image: url('../assets/curso/tema5/erre.svg');
+  background-repeat: no-repeat
+
+.boika
+  background-color: #fff
+  height: 230px
+
+.pp
+  font-size:
+
+.pert
+  background: url('../assets/curso/tema5/pert.svg')
+  background-size: 110% 130%
+  background-repeat: no-repeat
+  background-position: top 
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem
 
 
+.lili
+  background: url('../assets/curso/tema5/lili.svg')
+  background-size: 120% 130%
+  background-repeat: no-repeat
+  background-position: top 
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem
 
+.fond2
+  background: url('../assets/curso/tema5/fond2.svg')
+  background-size: 75% 80%
+  background-repeat: no-repeat
+  background-position: left-up 
+  margin-inline: 0 rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem
+  
+      
+.fond2
+  display: none
 
 
 
@@ -304,6 +395,47 @@ table *
 .py-3
   background-color: #F5E6E9
 
+.liz
+  background: url('../assets/curso/tema6/liz.svg')
+  background-position: center
+  background-size: cover
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    background-size: cover
+    margin-inline: -1.4rem
+
+.lis
+  background: url('../assets/curso/tema6/lis.svg')
+  background-position: center
+  background-size: cover
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    background-size: cover
+    margin-inline: -1.4rem
+
+
+.tabla-a thead 
+    border-top: 5px solid;
+    color: #0f0f10;
+
+.tarjeta--griss 
+    background-color: #ffffff;
+
+
+
+
+.titulo-sexto.color-acento-contenido 
+    border-left-color: #9B1F36;
+
+.titulo-sexto 
+    margin-bottom: 20px;
+    border-left: 12px solid;
+    padding: 5px 0 5px 15px;
+
+
+
+
+
   
 
 //tema7
@@ -314,8 +446,18 @@ table *
 
 .fondo21
   background-color: #0CE6EA
-  border-radius: 12px
+  border-radius: 15px
 
 .tarje
   background-color: #F5E6E9
   border-radius: 12px
+
+
+.font
+  background: url('../assets/curso/tema7/font.svg')
+  background-size: 100% 130%
+  background-repeat: no-repeat
+  background-position: top 
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem

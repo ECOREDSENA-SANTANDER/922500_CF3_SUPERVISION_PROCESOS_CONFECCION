@@ -18,7 +18,8 @@
         p Es por lo anterior, que se hace necesario 
           strong.palabra abordar el patronaje industrial dentro de las líneas femenino y masculino
           | , así como el escalado que se logra a través del mismo análisis en los cuadros de tallas, permitiendo agilizar el proceso de producción. Este abordaje permite comprender la estructura corporal como punto de partida para la construcción de cuadros de tallas, el patronaje, y su interpretación, posibilitando tener una visión integral en los procesos de confección en planta.
-
+    
+    
 
 
 </template>

@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    .titulo-principal(data-aos="flip-up")
+    .titulo-principal
       .titulo-principal__numero
         span 2
       h1 Tipos de patronaje y escalado
@@ -10,14 +10,13 @@
 
     .row.tema2.align-items-center.py-4.py-md-5
       .col-lg-12.col-12.px-lg-5.px-4
-        .row.justify-content-center.mb-4(data-aos="fade-down") 
-
+      
         .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
           .col-sm-12.col-lg-10
-            .bloque-texto-a.color-acento-contenidos.p-4.p-md-5.mb-5 
+            .bloque-texto-a.color-acento-contenido.prim.p-4.p-md-5.mb-5 
               .row.m-0.align-items-center.justify-content-between
                 .col-lg-4.mb-4.mb-lg-0
-                  img(src="@/assets/curso/tema2/img01.svg", alt="Máquinas de confección")
+                  img(src="@/assets/curso/tema2/img01.svg", alt="tema2")
                 .col-lg-8
                   .bloque-texto-a__texto.p-4
                     p Son diversas las técnicas empleadas que se esquematizan para la elaboración de patrones y moldes en prendas de vestir, estas técnicas son empleadas a partir de estudios antropométricos, en los que posteriormente una vez se establece la técnica pasa por pruebas de medición para determinar ergonomía y funcionalidad, una vez se realizan estas pruebas se realizan los respectivos ajustes que serán implementados en dichos patrones.
@@ -99,14 +98,14 @@
               
     
         
-        p.mb-4(data-aos="fade-right") A continuación, haremos un rápido recorrido por los Universos de vestuario y las ocasiones de uso:
+    p.mb-4(data-aos="fade-right") A continuación, haremos un rápido recorrido por los Universos de vestuario y las ocasiones de uso:
         
         .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-left")
           .col-lg-6
             .fondo21.p-3.mb-2
               .row.justify-content-around.align-items-center
                 .col-3.col-sm-2.col-lg-2
-                  img.mx-4(src="@/assets/curso/tema7/pdf.svg")
+                  img.mx-4.d-none.d-lg-block(src="@/assets/curso/tema7/pdf.svg", alt="tema 2")
                 .col
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0          

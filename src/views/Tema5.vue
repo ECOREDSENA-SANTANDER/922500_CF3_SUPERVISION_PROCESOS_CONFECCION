@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    .titulo-principal(data-aos="flip-up")
+    .titulo-principal
       .titulo-principal__numero
         span 5
       h1 Patronaje femenino
@@ -10,7 +10,7 @@
     
     .row.m-0.align-items-center.justify-content-center.mb-5
       .col-lg-5.mb-4.mb-lg-0
-        img(src="@/assets/curso/tema5/001.png", alt="")
+        img(src="@/assets/curso/tema5/001.png", alt="tema 5")
       .col-md-7.mb-4.mb-md-0(data-aos="fade-right")
         p.mb-4 Para el desarrollo y construcción del patronaje de prendas de vestir para la línea femenina, se trabajará una serie de conceptos y técnicas en la elaboración de bases y básicos, por medio de la aplicación de las medidas anatómicas y el manejo de incremento entre tallas, por medio del escalado.  Las bases en patronaje son el calco del cuerpo para prendas superiores e inferiores, estos patrones no pueden ser utilizados para ser cortados de forma inmediata en tela o utilizados para elaborar una prenda, ya que antes deben recibir adaptaciones (desahogos, amplitudes, cortes y otros) para proceder a ser utilizados en producción. De la calidad del mismo dependerá la estabilidad dimensional del patrón y el buen calce de la prenda una vez confeccionada.
         
@@ -20,14 +20,14 @@
           p.pt-3.mx-2 Los patrones bases o básicos se crean según el tipo de prenda, como se observa en la siguiente figura:
 
     .row.justify-content-center.mb-4
-          .col-8
+          .col-sm-12.col-lg-8
             .titulo-sexto.color-acento-contenido
               h5 Figura 10. 
               | División moldes según tipo de prenda
-            img(src='@/assets/curso/tema5/img01.svg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema5/img01.svg' , alt="tema 5")
     
     separador
-    #t_5_1.titulo-segundo(data-aos="zoom-in-right")
+    #t_5_1.titulo-segundo
       .h2 5.1 Trazo de falda
 
     .row.justify-content-center.mb-5(data-aos="zoom-in-up")
@@ -48,38 +48,36 @@
 
     .tarjeta--container.parr.row.mb-5
       .col-md.tarjeta.color-priimario.p-5
-        .row.justify-content-center.mb-4
-          h4.text-center.mb-4 Longitud de las faldas
-          p.text-center La longitud de la falda puede ser variada: minifalda, maxi falda, hasta la rodilla y hasta el suelo. 
-          .titulo-sexto.color-acento-contenido
-            h5 Figura 10. 
-            | División moldes según tipo de prenda
-          figure
-            img(src='@/assets/curso/tema5/img03.png' alt="Imagen decorativa")
-            figcaption.text-black Fuente: SENA, 2021
         
+          h4.text-center.mb-4 Longitud de las faldas
+          p.text-center.mb-5 La longitud de la falda puede ser variada: minifalda, maxi falda, hasta la rodilla y hasta el suelo. 
+            .titulo-sexto.color-acento-contenido
+              h5 Figura 11. 
+              | Longitud de la falda
+            img(src='@/assets/curso/tema5/img03.png' , alt="La longitud de la falda puede ser variada: minifalda, maxi falda, hasta la rodilla y hasta el suelo. ")
+            figcaption.texte.text-black Fuente: SENA, 2021
+        
+      
       .col-md.tarjetas.color-acento-contenidot.p-5
-        .row.justify-content-center.mb-4
           h4.text-center.mb-4 La circunferencia de la cintura
-          p.text-center La circunferencia de la cintura puede ser tan baja como por debajo del ombligo y tan alta como por encima de la cintura.
-          .titulo-sexto.color-acento-contenido
-            h5 Figura 10. 
-            | División moldes según tipo de prenda
-          figure
-            img(src='@/assets/curso/tema5/img04.png' alt="Imagen decorativa")
-            figcaption.text-black Fuente: SENA, 2021
+          p.text-center.mb-5 La circunferencia de la cintura puede ser tan baja como por debajo del ombligo y tan alta como por encima de la cintura.
+            .titulo-sexto.color-acento-contenido
+              h5 Figura 12. 
+              | Longitud de la falda
+            img(src='@/assets/curso/tema5/img04.png' , alt=" La circunferencia de la cintura puede ser tan baja como por debajo del ombligo y tan alta como por encima de la cintura.")
+            figcaption.texte.text-black Fuente: SENA, 2021
         
     
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h3.col.px-4.mb-0.text-white.mx-4(data-aos="fade-right") Trazado de la falda básica 
-        img.clase2.col-lg.d-none.d-lg-flex(src='@/assets/curso/tema3/vot.svg' data-aos="fade-left") 
+        h5.col.px-4.mb-0.text-white.mx-5(data-aos="fade-right") Trazado de la falda básica
+        img.clase2(src='@/assets/curso/tema3/vot.svg', alt="tema 5") 
 
     .row.justify-content.align-items.mt-5.mb-5
       .col-sm-12.col-lg-12
         .row.mb-5
           .col-lg-5
-            img.img-t.img-a.my-2(src='@/assets/curso/tema5/ima3.png', alt='Introducción') 
+            img.img-t.img-a.my-2(src='@/assets/curso/tema5/ima3.png', alt="tema 5") 
           .col-lg-7
             .boqu.p-4.my-3
               p.mb-4.mx-3.my-3 Como punto de partida se deben tomar las medidas anatómicas con precisión. No deben sumar centímetros de más, por ello se recomienda seguir con atención los pasos del manual de patronaje básico e interpretación de diseños que se relaciona a continuación, pues el básico inferior de falda, siempre se trabaja partiendo desde un rectángulo e identificando los siguientes puntos:
@@ -100,12 +98,12 @@
 
         p.mb-5.text-center Para profundizar en estos aspectos será importante revisar el material:
         
-        .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
+        .row.justify-content-center.align-items-center
           .col-sm-12.col-lg-10
             .fondo21.p-3.mb-4
-              .row.justify-content-around.align-items-center.mb-4
+              .row.justify-content-around.align-items-center.mb-2
                 .col-3.col-sm-2.col-lg-1
-                  img.img-a.img-t(src="@/assets/curso/tema5/pdff.svg")
+                  img.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema5/pdff.svg", alt="tema 5")
                 .col
                   .row.justify-content-between.align-items-center
                     .col.mb-2.mb-sm-0          
@@ -115,9 +113,10 @@
                       a.boton.color-acento-botones(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=B929C4B6338D41F855E80661E0B9A970?sequence=1" target="_blank")
                         span Descargar
                         i.fas.fa-download
+              .hr.mb-3
               .row.justify-content-around.align-items-center.mb-4
                 .col-3.col-sm-2.col-lg-1
-                  img.img-a.img-t(src="@/assets/curso/tema5/pdff.svg")
+                  img.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema5/pdff.svg", alt="tema 5")
                 .col
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0          
@@ -127,9 +126,10 @@
                       a.boton.color-acento-botones(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=B929C4B6338D41F855E80661E0B9A970?sequence=1" target="_blank")
                         span Descargar
                         i.fas.fa-download
+              .hr.mb-3
               .row.justify-content-around.align-items-center.mb-4
                 .col-3.col-sm-2.col-lg-1
-                  img.img-a.img-t(src="@/assets/curso/tema5/pdff.svg")
+                  img.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema5/pdff.svg", alt="tema 5")
                 .col
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0          
@@ -139,9 +139,10 @@
                       a.boton.color-acento-botones(href="/downloads/Anexo_4_Pasos_falda_basica.pdf" target="_blank")
                         span Descargar
                         i.fas.fa-download
-              .row.justify-content-around.align-items-center.mb-4
+              .hr.mb-3
+              .row.justify-content-around.align-items-center.mb-1
                 .col-3.col-sm-2.col-lg-1
-                  img.img-a.img-t(src="@/assets/curso/tema5/vide.svg")
+                  img.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema5/vide.svg", alt="tema 5")
                 .col
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0          
@@ -152,15 +153,18 @@
                         span Descargar
                         i.fas.fa-download
     
-    p.mb-4 En el siguiente repositorio de podrá encontrar información asociada a las variaciones de la falda, en donde se tienen en cuenta las diversas posibilidades de variación en los patrones de esta prenda:
+    
+    .row.justify-content-center.align-items-center
+      .col-sm-12.col-lg-10
+        p.mb-5 En el siguiente repositorio de podrá encontrar información asociada a las variaciones de la falda, en donde se tienen en cuenta las diversas posibilidades de variación en los patrones de esta prenda:
 
     
-    .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
+    .row.justify-content-center.align-items-center
       .col-sm-12.col-lg-10
         .fondo21.p-3.mb-4
           .row.justify-content-around.align-items-center.mb-4
             .col-3.col-sm-2.col-lg-1
-              img.img-a.img-t(src="@/assets/curso/tema5/vide.svg")
+              img.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema5/vide.svg", alt="tema 5")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-2.mb-sm-0          
@@ -170,9 +174,10 @@
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                     span Descargar
                     i.fas.fa-download
+          .hr.mb-3
           .row.justify-content-around.align-items-center.mb-4
             .col-3.col-sm-2.col-lg-1
-              img.img-a.img-t(src="@/assets/curso/tema5/vide.svg")
+              img.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema5/vide.svg", alt="tema 5")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0          
@@ -182,10 +187,10 @@
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?app=desktop&v=xtyPQh3vtuc&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                     span Descargar
                     i.fas.fa-download
-          
-          .row.justify-content-around.align-items-center.mb-4
+          .hr.mb-3
+          .row.justify-content-around.align-items-center.mb-1
             .col-3.col-sm-2.col-lg-1
-              img.img-a.img-t(src="@/assets/curso/tema5/pdff.svg")
+              img.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema5/pdff.svg", alt="tema 5")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0          
@@ -198,31 +203,42 @@
   
       
     separador
-    #t_5_2.titulo-segundo(data-aos="zoom-in-right")
+    #t_5_2.titulo-segundo
       .h2 5.2 Trazo de base superior femenina
     
-    .row.justify-content-center.align-items-stretch.mt-5.mb-5
-      .col-lg-7.bg-color-1.p-4
-        p La función de la producción consta de tres sectores que se interrelacionan entre sí y son complemento el uno del otro. El sector primario conocido como la industria extractiva está integrado por el agro, la minería, entre otros, los cuales son insumos para el segundo sector, es decir, el manufacturero que se define como el que transforma los productos de la extractiva en productos de consumo para las necesidades de los clientes y a su vez, son el insumo de la terciaria que se enfoca a los servicios. (Tawfik, 1987).
-      .col-5.d-none.d-lg-block.px-0.text-in
-        img.p-0.mx-0.img-t.img-a(src='@/assets/curso/tema5/img123.svg', alt='') 
+    .row.fond2.d-none.d-lg-block.align-items
+      .col-sm-12.col-lg-12.mt-4
+        .row.justify.mb-5
+          
+          .row.justify-content.align-items-left.mb-5
+            .col-sm-12.col-lg-7
+              p.mx-5.my-5.mb-5 El manejo de volúmenes es un factor crucial en el desarrollo de prendas, ya que se logran mediante el uso de pinzas y sistemas de ajuste; es importante tener en cuenta que, independientemente del diseño trabajado, la metodología y los pasos a seguir son siempre los mismos, lo que lleva a determinar que este enfoque secuencial permite una mejor asimilación de la metodología.
+            .col-sm-12.col-lg-5
+              img.img-t.img-a.my-2(src='@/assets/curso/tema5/img123.svg', alt="tema 5") 
     
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h3.col.px-4.mb-0.text-white.mx-4(data-aos="fade-right") Volumen de la prenda 
-        img.clase2.col-lg.d-none.d-lg-flex(src='@/assets/curso/tema3/vot.svg' data-aos="fade-left") 
+        h5.col.px-4.mb-0.text-white.mx-5(data-aos="fade-right") Volumen de la prenda 
+        img.clase2(src='@/assets/curso/tema3/vot.svg', alt="tema 5") 
         
-    .row.fondu.align-items-center.py-4.py-md-5
+    .row.vrl.align-items-center.py-4.py-md-5.mb-5
       .col-lg-12.col-12.px-lg-5.px-4
-        .row.justify-content-center.mb-4(data-aos="fade-down") 
+        .row.justify-content-center(data-aos="fade-down") 
     
-        AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris" data-aos="zoom-in")
-          .row.justify-content-center(titulo="Volumen de la prenda")
-            .col-md-3.mb-4.mb-md-0
-              img(src='@/assets/curso/tema5/img06.svg' alt="Imagen decorativa")
-            .col-md-7
-              p.mb-4 Existen prendas más grandes que el cuerpo, iguales o más pequeñas como las elaboradas en tejidos de punto o con telas licradas. La diferencia entre la prenda y el cuerpo que visten recibe el nombre de desahogo, el mayor o menor desahogo condiciona el volumen de la prenda. El desahogo de una prenda debe mantenerse constante en todas las tallas del mismo diseño.
-              p.mb-4 A continuación, se muestran los valores de desahogo (en centímetros) estimados según el tipo de prenda y volumen deseado:
+    
+        .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
+          .col-sm-12.col-lg-10
+            .bloque-texto-a.color-acento-contenido.prim.p-4.p-md-5.mb-5 
+              .row.m-0.align-items-center.justify-content-between
+                .col-lg-4.mb-4.mb-lg-0
+                  img(src="@/assets/curso/tema5/grupo.svg", alt="tema5")
+                .col-lg-8
+                  .bloque-texto-a__texto.p-4
+                    p Existen prendas más grandes que el cuerpo, iguales o más pequeñas como las elaboradas en tejidos de punto o con telas licradas. La diferencia entre la prenda y el cuerpo que visten recibe el nombre de desahogo, el mayor o menor desahogo condiciona el volumen de la prenda. El desahogo de una prenda debe mantenerse constante en todas las tallas del mismo diseño.
+      
+              
+          p.mb-4 A continuación, se muestran los valores de desahogo (en centímetros) estimados según el tipo de prenda y volumen deseado:
+          
             .row.m-0.justify-content-center
               .col-lg-10.mb-4.mb-lg-0
                 .tabla-a.color-acento-contenido.mb-5 
@@ -305,20 +321,20 @@
                             td.text-center +2
                             td.text-center +4
     
-    .mb-4.d-flex
+    .mb-4.d-flex.mb-5
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h3.col.px-4.mb-0.text-white.mx-4(data-aos="fade-right") Pasos para el trazo de la base superior
-        img.clase2.col-lg.d-none.d-lg-flex(src='@/assets/curso/tema3/vot.svg' data-aos="fade-left") 
+        h5.col.px-4.mb-0.text-white.mx-5(data-aos="fade-right") Pasos para el trazo de la base superior
+        img.clase2(src='@/assets/curso/tema3/vot.svg', alt="tema 5") 
     
     p.mb-4 Cuando se habla de la base superior, se hace referencia a la copia de la horma del cuerpo partiendo del cuello hasta la cintura, dicha base será la plantilla que se adecuará para convertirse en blusa, camiseta, chaqueta, chaleco, corpiño y demás prendas femeninas, incluyendo el vestido.
     p.mb-5 Conozca el paso a paso para la elaboración de estos patrones revisando los siguientes recursos:
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
+    .row.justify-content-center.align-items-center.mb-5
       .col-sm-12.col-lg-10
         .fondo21.p-3.mb-4
           .row.justify-content-around.align-items-center.mb-4
             .col-3.col-sm-2.col-lg-1
-              img.img-a.img-t(src="@/assets/curso/tema5/pdff.svg")
+              img.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema5/pdff.svg", alt="tema 5")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-2.mb-sm-0          
@@ -328,9 +344,10 @@
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                     span Descargar
                     i.fas.fa-download
+          .hr.mb-3
           .row.justify-content-around.align-items-center.mb-4
             .col-3.col-sm-2.col-lg-1
-              img.img-a.img-t(src="@/assets/curso/tema5/vide.svg")
+              img.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema5/vide.svg", alt="tema 5")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0          
@@ -339,11 +356,11 @@
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?app=desktop&v=xtyPQh3vtuc&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                     span Ver video
-                    i.fas.fa-play
-          
-          .row.justify-content-around.align-items-center.mb-4
+                    i.fas.fa-video
+          .hr.mb-3
+          .row.justify-content-around.align-items-center.mb-1
             .col-3.col-sm-2.col-lg-1
-              img.img-a.img-t(src="@/assets/curso/tema5/vide.svg")
+              img.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema5/vide.svg", alt="tema 5")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0          
@@ -352,31 +369,31 @@
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=B929C4B6338D41F855E80661E0B9A970?sequence=1" target="_blank")
                     span Ver video
-                    i.fas.fa-play
+                    i.fas.fa-video
   
     .mb-4.d-flex.mb-5
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h3.col.px-4.mb-0.text-white.mx-4(data-aos="fade-right") Pinza correctiva de taller
-        img.clase2.col-lg.d-none.d-lg-flex(src='@/assets/curso/tema3/vot.svg' data-aos="fade-left") 
+        h5.col.px-4.mb-0.text-white.mx-5(data-aos="fade-right") Pinza correctiva de taller
+        img.clase2(src='@/assets/curso/tema3/vot.svg' , alt="tema 5") 
 
     .row.align-items-center.mb-4
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
-        img.mb-4(src='@/assets/curso/tema5/pab.png' alt="Imagen decorativa")
+        img.mb-4(src='@/assets/curso/tema5/pab.png' , alt="tema 5")
       .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
         p.mb-3 En el momento que se unen por los básicos delantero y posterior por la línea de la cintura, se evidencia el desnivel anatómico entre estos, es de aquí que surge esta pinza como una marca de referencia principal, para generar volúmenes o ajustes sobre el cuerpo. Permite ser trasladada o llevada a diferentes puntos del cuerpo, permitiendo así acentuar volúmenes, generar siluetas o estructuras que permiten modificar diseños. Según la interpretación queda invisible o visible a propósito.
-          ul.lista-ul--color.mb-0
-          li.d-flex
-            i.fas.fa-car-side
+          ul.lista-ul--color.mb-5
+          li.d-flex.mb-2
+            i.fas.fa-car-side.my-1
             p.mx-4 Las pinzas pueden ser transferidas o desviadas a cualquier dirección alrededor del punto de busto (punto giratorio) sin afectar el tamaño ni entalle del patrón.
-          li.d-flex
-            i.fas.fa-car-side
+          li.d-flex.mb-2
+            i.fas.fa-car-side.my-1
             p.mx-4 El exceso de la pinza, es decir, el espacio entre lados de la pinza puede ser utilizado como recogidos, pliegues, pinzas semi cosidas o en los cortes de diferentes estilos o diseños.
           .col-sm-12.col-lg-12
             .fondo211.p-3.mb-2
               .row.justify-content-center.align-items-center
                 .col-3.col-sm-2.col-lg-2
-                  img.img-a.img-t(src="@/assets/curso/tema5/alertaa.svg")
-                .col.p-4
+                  img.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema5/alertaa.svg")
+                .col.p-1
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0         
                       p.my-2 #[b Tener en cuenta:] 
@@ -388,6 +405,23 @@
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center.mb-4(data-aos="fade-down") 
 
+        .row.justify-content-center.items-align-center.mb-5
+          .col-sm-12.col-lg-12
+            .row.justify-content-center.items-align-center
+              .erre.p-5
+                .row
+                  .col-sm-12.col-lg-4
+                    .boika.p-5 
+                      p.color 1. Cortar y unir:
+                      p.mb-3 Este método requiere cortar el patrón base para luego unir las partes con la reubicación de la pinza.
+                  .col-sm-12.col-lg-4
+                    .boika.p-5 
+                      p.color 2. Pivoteo (girar):
+                      p.mb-3 Este método no requiere cortar el patrón básico, sino girarlo a través del punto de busto transfiriendo de esta manera la pinza.
+
+        
+        
+        
         .row.justify-content-center.items-align-center
           .col-sm-6.col-lg-5.mb-4.mb-lg-4
             p Los puntos en que se hace posible el traslado de la pinza son los siguientes:
@@ -398,8 +432,8 @@
                     h5 Figura 13. 
                     | Puntos de traslado de pinza
                   .col-lg-12
-                    img.mb-3.my-5(src='@/assets/curso/tema5/errr.svg' alt="Imagen decorativa")
-                    figcaption.text-black Fuente: SENA, 2021
+                    img.mb-3.my-5(src='@/assets/curso/tema5/errr.svg' , alt="tema 5")
+                    figcaption Fuente. Adaptadeo de SENA, 2021
           
           .col-sm-6.col-lg-5.mb-4.mb-lg-4
             p A continuación, se observa la transformación que sufre el patrón de acuerdo a la técnica aplicada y la necesidad de la prenda.
@@ -410,8 +444,8 @@
                     h5 Figura 14. 
                     | Traslados de pinza en base
                   .col-lg-12
-                    img(src='@/assets/curso/tema5/aer.svg' alt="Imagen decorativa")
-                    figcaption.text-black Fuente: SENA, 2021
+                    img(src='@/assets/curso/tema5/aer.svg', alt="tema 5")
+                    figcaption Fuente. Adaptadeo de SENA, 2021
                   
         p.mb-4.text-center Para comprender este proceso podrá ver el video explicativo sobre cómo se hacen traslados de pinza correcta de talles.
 
@@ -420,7 +454,7 @@
             .fondo21.p-3.mb-4
               .row.justify-content-around.align-items-center.mb-4
                 .col-3.col-sm-2.col-lg-1
-                  img.img-a.img-t.mx-4(src="@/assets/curso/tema5/vide.svg")
+                  img.img-a.img-t.mx-4.d-none.d-lg-block(src="@/assets/curso/tema5/vide.svg", alt="tema 5")
                 .col
                   .row.justify-content-between.align-items-center
                     .col.mb-2.mb-sm-0          
@@ -433,24 +467,24 @@
 
     .mb-4.d-flex.mb-5
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h3.col.px-4.mb-0.text-white.mx-4(data-aos="fade-right") Análisis y trazo de sistema de ajuste. (Pinzas y cortes)
-        img.clase2.col-lg.d-none.d-lg-flex(src='@/assets/curso/tema3/vot.svg' data-aos="fade-left") 
+        h5.col.px-4.mb-0.text-white.mx-5(data-aos="fade-right") Análisis y trazo de sistema de ajuste. (Pinzas y cortes)
+        img.clase2(src='@/assets/curso/tema3/vot.svg' data-aos="fade-left") 
 
-    .row.mb-4
-      .col-sm-12.col-lg-8.my-5 
+    .row.justify-content-center.align-items-center
+      .col-sm-12.col-lg-8
         p.mb-4 Dentro del desarrollo de moldes y patrones, se hace indispensable el manejo de pinzas, como sistema de ajuste o como insumo principal para el manejo de volúmenes, las pinzas en femenino son un punto de partida primordial y especifico el cual es necesario comprender desde la base funcional estructural y matemática.
         p.mb-4 Para comprender el funcionamiento de las pinzas, se trabajará únicamente la parte superior femenina, contemplando la circunferencia y el volumen del busto, de igual manera el contorno de cintura y el contorno de cadera, cada uno de estos contornos maneja características como volúmenes más protuberantes de los tops o los bottoms y punto unión o encuentro entre la división del cuerpo.
         p.mb-4 En el manejo de pinzas únicamente se trabajará con los contornos relevantes o que se toman como punto de partida para la construcción de básicos (contorno de busto – contorno de cintura – contorno de cadera).
         p.mb-4 Sin importar el tipo de prenda, los desahogos o la interpretación, las pinzas como sistema de ajuste siempre se trabajarán sobre esos contornos debido a que son los contornos con los que se trabaja la base o el básico. Consultar el siguiente video explicativo sobre cómo se hace el trazo de sistemas de ajuste de pinzas y cortes.
       .col-sm-12.col-lg-4
-        img.d-none.d-lg-flex(src='@/assets/curso/tema5/imagen555.png' data-aos="fade-left") 
+        img.img-a.img-t.mb-5(src='@/assets/curso/tema5/imagen555.png' , alt="tema 5") 
 
     .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10
         .fondo21.p-3.mb-5
           .row.justify-content-around.align-items-center.mb-4
             .col-3.col-sm-2.col-lg-1
-              img.img-a.img-t.mx-3(src="@/assets/curso/tema5/vide.svg")
+              img.img-a.img-t.mx-3.d-none.d-lg-block(src="@/assets/curso/tema5/vide.svg", alt="tema 5")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-2.mb-sm-0          
@@ -459,7 +493,7 @@
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                     span Ver video
-                    i.fas.fa-play
+                    i.fas.fa-video
     
     p.mb-4.text-center A continuación se exponen los siguientes contenidos, con las posibles  variaciones que presenta la prenda superior femenina:
 
@@ -469,56 +503,56 @@
           .row.justify-content-center.mb-4
             .col-3.my-4
               figure
-                img(src='@/assets/curso/tema5/vide.svg', alt='Texto que describa la imagen')
+                img.d-none.d-lg-block(src='@/assets/curso/tema5/vide.svg', alt="tema 5")
             h4.text-center Pasos para el trazo de la base superior
             p.text-center.irr Adicionalmente, observe con atención el video “Trazo básico blusa”, que se encuentra en el material complementario.
             .col-sm-auto.mb-5
               a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                 span Ver video
-                i.fas.fa-play
+                i.fas.fa-video
       
       .col-sm-6.col-lg-4.mb-4.mb-lg-4
         .fondo21e.p-3
           .row.justify-content-center.mb-4
             .col-3.my-4
               figure
-                img(src='@/assets/curso/tema5/vide.svg', alt='Texto que describa la imagen')
+                img.d-none.d-lg-block(src='@/assets/curso/tema5/vide.svg', alt="tema 5")
             h4.text-center Trazo blusa con almilla y cuello camisero
             p.text-center.irr Adicionalmente, observe con atención el video “Trazo básico blusa”, que se encuentra en el material complementario.
             .col-sm-auto.mb-5
               a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                 span Ver video
-                i.fas.fa-play
+                i.fas.fa-video
       
       .col-sm-6.col-lg-4.mb-4.mb-lg-4
         .fondo21e.p-3
           .row.justify-content-center.mb-4
             .col-3.my-4
               figure
-                img(src='@/assets/curso/tema5/pdff.svg', alt='Texto que describa la imagen')
+                img.d-none.d-lg-block(src='@/assets/curso/tema5/pdff.svg', alt="tema 5")
             h4.text-center Piezas complementarias
-            p.text-center.irr.my-3 Para ampliar su conocimiento, observe los ejemplos expuestos en el documento anexo denominado “Piezas complementarias”.
-            .col-sm-auto.mb-5
+            p.text-center.irr Para ampliar su conocimiento, observe los ejemplos expuestos en el documento anexo denominado “Piezas complementarias”.
+            .col-sm-auto
               a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                 span Descargar
-                i.fas.fa-link
+                i.fas.fa-download
       
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-lg-10
         .fondo211.p-3.mb-2
           .row.justify-content-center.align-items-center
             .col-3.col-sm-2.col-lg-2
-              img.img-a.img-t(src="@/assets/curso/tema5/alertaa.svg")
+              img.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema5/alertaa.svg", alt="tema 5")
             .col.p-4
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0         
                   p.my-2.mx-3 #[b Tener en cuenta:] 
                   ul.lista-ul--color
                 li.d-flex.mb-4
-                  i.fas.fa-car-side.mb-4.mx-3
+                  i.fas.fa-car-side.mb-4.mx-3.my-1
                   | Después de su construcción, se aplican desahogos, traslado de pinza correctiva de talle, sistema de cierre y complementos de diseño (almillas, bolsillo de parche). 
                 li.d-flex
-                  i.fas.fa-car-side.mb-4.mx-3
+                  i.fas.fa-car-side.mb-4.mx-3.my-1
                   | Para el trazo del plano desde los básicos se debe iniciar trazando una línea de referencia, en el caso de las bases superiores, se traza una línea de manera horizontal en el papel, sobre la cual quedará alineados o aplomados desde la línea base de construcción, en prendas superiores, la línea de aplome o línea base será la línea de profundidad de sisa.
                 
     p.mb-5 A continuación, se presentan las variaciones de los patrones básicos para el vestido:
@@ -529,33 +563,33 @@
           .row.justify-content-center.mb-4
             .col-3.my-4
               figure
-                img(src='@/assets/curso/tema5/vide.svg', alt='Texto que describa la imagen')
+                img.d-none.d-lg-block(src='@/assets/curso/tema5/vide.svg', alt="tema 5")
             h4.text-center Trazo de la Bata o vestido
             p.text-center.irr Adicionalmente, observe con atención el video “Trazo de la Bata o vestido”, que se encuentra en el material complementario.
             .col-sm-auto.mb-5
               a.boton.color-acento-botones.my-3(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                 span Ver video
-                i.fas.fa-play
+                i.fas.fa-video
       
       .col-sm-6.col-lg-4.mb-4.mb-lg-4
         .fondo21e.p-3
           .row.justify-content-center.mb-4
             .col-3.my-4
               figure
-                img(src='@/assets/curso/tema5/vide.svg', alt='Texto que describa la imagen')
+                img.d-none.d-lg-block(src='@/assets/curso/tema5/vide.svg', alt="tema 5")
             h4.text-center Cuellos y solapas
             p.text-center.irr Adicionalmente, observe con atención el video “Cuellos y solapas”, que se encuentra en el material complementario.
             .col-sm-auto.mb-5
               a.boton.color-acento-botones.my-3(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                 span Ver video
-                i.fas.fa-play
+                i.fas.fa-video
       
       .col-sm-6.col-lg-4.mb-4.mb-lg-4
         .fondo21e.p-2
           .row.justify-content-center.mb-4
             .col-3.my-4
               figure
-                img(src='@/assets/curso/tema5/pdff.svg', alt='Texto que describa la imagen')
+                img.d-none.d-lg-block(src='@/assets/curso/tema5/pdff.svg', alt="tema 5")
             h4.text-center Variación del vestido
             p.text-center.irr.mb-4 Consulte el anexo “Variación del vestido”. Leer de la página 59 a 62.
             .col-sm-auto
@@ -564,19 +598,19 @@
                 i.fas.fa-link
 
     separador
-    #t_5_3.titulo-segundo(data-aos="zoom-in-right")
+    #t_5_3.titulo-segundo
       .h2 5.3 El pantalón femenino y sus variantes
 
     .row.justify-content-center.align-items-center.mb-4
       .col-sm-12.col-lg-4
-        img.mb-5(src='@/assets/curso/tema5/img12.png' alt="Imagen decorativa")
+        img.mb-5(src='@/assets/curso/tema5/img12.png' , alt="tema 5")
       .col-sm-12.col-lg-8
         p.mb-5 Cuando se habla de una base inferior, se refiere a una copia de la horma del cuerpo que parte de la cintura hasta el suelo, dicha base, será la plantilla que se adecuará para convertirse en diferentes tipologías según modificaciones de largos, amplitudes, detalles y cortes. Se pueden obtener los básicos de short, capri, jean, bermudas, entre otros.
         .col-lg-12
           .fondo211.p-1.mb-5
             .row.justify-content-center.align-items-center
               .col-3.col-sm-2.col-lg-2
-                img.img-a.img-t(src="@/assets/curso/tema5/alertaa.svg")
+                img.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema5/alertaa.svg", alt="tema 5")
               .col.p-4
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0         
@@ -589,144 +623,155 @@
         ul.lista-ul--color.mb-4
           li.d-flex
             i.fas.fa-car-side
-            | Cintura y cadera.
+            p.mb-0.pp Cintura y cadera.
           li.d-flex
             i.fas.fa-car-side
-            | Centro frente, centro atrás, costado delantero y costado posterior.
+            p.mb-0.pp Centro frente, centro atrás, costado delantero y costado posterior.
           li.d-flex
             i.fas.fa-car-side
-            | Rodilla y bota.
+            p.mb-0.pp Rodilla y bota.
           li.d-flex
             i.fas.fa-car-side
-            | Costado delantero, costado posterior, entrepierna delantera y entrepierna posterior.
+            p.mb-0.pp Costado delantero, costado posterior, entrepierna delantera y entrepierna posterior.
         p.mb-4 En este caso, para poder trabajar el margen de costura de manera lineal se elabora únicamente con una de las extremidades inferiores, es decir, la mitad del cuerpo, para lograr cubrir el contorno de la pierna sin inconvenientes.
         p La sumatoria de los márgenes de costura depende del tipo de maquinaría y operación que se trabaje en la empresa, sin embargo, el común denominador del margen de costura se asigna de 1 cm, es decir que, si se trabaja cada uno de los puntos de referencia, para asignar margen de costura, quedaría de la siguiente manera:
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
-        img.mb-4(src='@/assets/curso/tema5/img13.png' alt="Imagen decorativa")
-    
-    .row.justify-content-center.align-items-center.mb-4 
-      .col-sm-12.col-lg-12
-        .row.d-flex.justify-content-center
-          .col-sm-12.col-lg-4.mt-2
-            .tarje.color-primario.my-4.he-4-cus.px-4.my-4.pt-4
-              .row.justify-content-center
-                .col-lg-3
-                  img.mb-4(src='@/assets/curso/tema5/pan.svg' alt="Imagen decorativa")
-                .col-lg-12  
-                  h4.text-center.mb-4 Cintura y cadera
-                  p.text-center.mb-2 Centro frente: 1 cm
-                  p.text-center.mb-2 +
-                  p.text-center.mb-2 Centro atrás: 1 cm
-                  p.text-center.mb-2 +
-                  p.text-center.mb-2 Costado delantero: 1 cm
-                  p.text-center.mb-2 +
-                  p.text-center.mb-2 Costado posterior: 1 cm
-                  p.text-center.mb-2 =
-                  h4.text-center.mb-4 La sumatoria: 4 cm de margen de costura por cintura y cadera 
-          .col-sm-12.col-lg-4.mt-2
-            .tarjett.color-primario.my-4.he-4-cus.px-4.my-4.pt-4
-              .row.justify-content-center
-                .col-lg-3
-                  img.mb-4(src='@/assets/curso/tema5/tal.svg' alt="Imagen decorativa")
-                .col-lg-12  
-                  h4.text-center.mb-4 Rodilla y bota
-                  p.text-center.mb-2 Costado delantero: 1 cm
-                  p.text-center.mb-2 +
-                  p.text-center.mb-2 Costado posterior: 1 cm
-                  p.text-center.mb-2 +
-                  p.text-center.mb-2 Entrepierna delantera: 1 cm
-                  p.text-center.mb-2 +
-                  p.text-center.mb-2 Entrepierna posterior: 1 cm
-                  p.text-center.mb-2 =
-                  h4.text-center.mb-4 La sumatoria: 4 cm de margen de costura por cintura y cadera
+        img.mb-4(src='@/assets/curso/tema5/img13.png' , alt="tema 5")
     
     
-    p.mb-4 Ya teniendo claro cómo funciona cada uno de los puntos, márgenes de costura y plano del pantalón, lo primero que se debe hacer es el trazo del rectángulo base. Para este rectángulo, se debe trabajar el contorno más protuberante y el largo más largo de las partes que se va a cubrir o en este caso, la intersección entre extremidades inferiores y contornos generales del cuerpo.
-    p.mb-4 En los patrones de pantalón femenino dependiendo de la tipología se adecuan ampliaciones, largos y cortes donde dan lugar a la creación de otros básicos que pueden ser utilizados para ser cortados en la tela. Para introducirnos en la comprensión de este tema se recomienda revisar el siguiente material:
-    .row.justify-content-center.mb-4(data-aos="zoom-in")
-      .col-lg-8.mb-4.mb-lg-0
-        .tabla-a.color-acento-contenido.mb-5 
-          table
-            thead
-              tr
-                th 
-                th Delantero
-                th Posterior
-                th Total
-            tbody.tarjeta--gris
-              tr
-                td.text-center Cintura
-                td.text-center 2 cm
-                td.text-center 2 cm
-                td.text-center 4 cm
-              tr
-                td.text-center Cadera
-                td.text-center 1 cm
-                td.text-center 3 cm
-                td.text-center 4 cm
-              tr
-                td.text-center Rodilla Bota
-                td.text-center 0 cm
-                td.text-center 4 cm
-                td.text-center 4 cm
+    .row.pert.align-items-center.py-4.py-md-5.mb-5
+      .col-lg-12.col-12.px-lg-5.px-4
+        .row.justify-content-center.mb-4(data-aos="fade-down")
     
-    .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
-      .col-sm-12.col-lg-10
-        .fondo21.p-3.mb-5
-          .row.justify-content-around.align-items-center.mb-4
-            .col-3.col-sm-2.col-lg-1
-              img.img-a.img-t.mx-3(src="@/assets/curso/tema5/pdff.svg")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-2.mb-sm-0          
-                  h4.mx-4.my-2 Manual de patronaje básico para interpretación de diseños
-                  p.mb-0.irr.mx-4 Consulte el “Manual de patronaje básico para interpretación de diseños”. Leer de la página 28 a la 30.
-                .col-sm-auto
-                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
-                    span Ver video
-                    i.fas.fa-play
     
-    p.mb-5.text-center También será importante visualizar el siguiente video explicativo sobre cómo realizar la base inferior del pantalón femenino.
+        .row.justify-content-center.align-items-center.mb-4 
+          .col-sm-12.col-lg-12
+            .row.d-flex.justify-content-center
+              .col-sm-12.col-lg-4.mt-2
+                .tarje.color-primario.my-4.he-4-cus.px-4.my-4.pt-4
+                  .row.justify-content-center
+                    .col-lg-3
+                      img.mb-4(src='@/assets/curso/tema5/pan.svg' , alt="tema 5")
+                    .col-lg-12  
+                      h4.text-center.mb-4 Cintura y cadera
+                      p.text-center.mb-2 Centro frente: 1 cm
+                      p.text-center.mb-2 +
+                      p.text-center.mb-2 Centro atrás: 1 cm
+                      p.text-center.mb-2 +
+                      p.text-center.mb-2 Costado delantero: 1 cm
+                      p.text-center.mb-2 +
+                      p.text-center.mb-2 Costado posterior: 1 cm
+                      p.text-center.mb-2 =
+                      h4.text-center.mb-4 La sumatoria: 4 cm de margen de costura por cintura y cadera 
+              .col-sm-12.col-lg-4.mt-2
+                .tarjett.color-primario.my-4.he-4-cus.px-4.my-4.pt-4
+                  .row.justify-content-center
+                    .col-lg-3
+                      img.mb-4(src='@/assets/curso/tema5/tal.svg' , alt="tema 5")
+                    .col-lg-12  
+                      h4.text-center.mb-4 Rodilla y bota
+                      p.text-center.mb-2 Costado delantero: 1 cm
+                      p.text-center.mb-2 +
+                      p.text-center.mb-2 Costado posterior: 1 cm
+                      p.text-center.mb-2 +
+                      p.text-center.mb-2 Entrepierna delantera: 1 cm
+                      p.text-center.mb-2 +
+                      p.text-center.mb-2 Entrepierna posterior: 1 cm
+                      p.text-center.mb-2 =
+                      h4.text-center.mb-4 La sumatoria: 4 cm de margen de costura por cintura y cadera
     
-    .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
-      .col-sm-12.col-lg-10
-        .fondo21.p-3.mb-5
-          .row.justify-content-around.align-items-center.mb-4
-            .col-3.col-sm-2.col-lg-1
-              img.img-a.img-t.mx-3(src="@/assets/curso/tema5/vide.svg")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-2.mb-sm-0          
-                  h4.mx-4.my-2 Base inferior de pantalón femenino
-                  p.mb-0.irr.mx-4 Adicionalmente, observe con atención el video “Base inferior de pantalón femenino”, que se encuentra en el material complementario.
-                .col-sm-auto
-                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
-                    span Ver video
-                    i.fas.fa-play
+    
+        p.mb-4 Ya teniendo claro cómo funciona cada uno de los puntos, márgenes de costura y plano del pantalón, lo primero que se debe hacer es el trazo del rectángulo base. Para este rectángulo, se debe trabajar el contorno más protuberante y el largo más largo de las partes que se va a cubrir o en este caso, la intersección entre extremidades inferiores y contornos generales del cuerpo.
+        p.mb-4 En los patrones de pantalón femenino dependiendo de la tipología se adecuan ampliaciones, largos y cortes donde dan lugar a la creación de otros básicos que pueden ser utilizados para ser cortados en la tela. Para introducirnos en la comprensión de este tema se recomienda revisar el siguiente material:
+        .row.justify-content-center.mb-4(data-aos="zoom-in")
+          .col-lg-8.mb-4.mb-lg-0
+            .tabla-a.color-acento-contenido.mb-5 
+              table
+                thead
+                  tr
+                    th 
+                    th Delantero
+                    th Posterior
+                    th Total
+                tbody.tarjeta--gris
+                  tr
+                    td.text-center Cintura
+                    td.text-center 2 cm
+                    td.text-center 2 cm
+                    td.text-center 4 cm
+                  tr
+                    td.text-center Cadera
+                    td.text-center 1 cm
+                    td.text-center 3 cm
+                    td.text-center 4 cm
+                  tr
+                    td.text-center Rodilla Bota
+                    td.text-center 0 cm
+                    td.text-center 4 cm
+                    td.text-center 4 cm
+        
+        .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
+          .col-sm-12.col-lg-10
+            .fondo21.p-3.mb-5
+              .row.justify-content-around.align-items-center.mb-4
+                .col-3.col-sm-2.col-lg-1
+                  img.img-a.img-t.mx-3.d-none.d-lg-block(src="@/assets/curso/tema5/pdff.svg", alt="tema 5")
+                .col
+                  .row.justify-content-between.align-items-center
+                    .col.mb-2.mb-sm-0          
+                      h4.mx-4.my-2 Manual de patronaje básico para interpretación de diseños
+                      p.mb-0.irr.mx-4 Consulte el “Manual de patronaje básico para interpretación de diseños”. Leer de la página 28 a la 30.
+                    .col-sm-auto
+                      a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+                        span Ver video
+                        i.fas.fa-video
+        
+        p.mb-5.text-center También será importante visualizar el siguiente video explicativo sobre cómo realizar la base inferior del pantalón femenino.
+        
+        .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
+          .col-sm-12.col-lg-10
+            .fondo21.p-3.mb-5
+              .row.justify-content-around.align-items-center.mb-4
+                .col-3.col-sm-2.col-lg-1
+                  img.img-a.img-t.mx-3.d-none.d-lg-block(src="@/assets/curso/tema5/vide.svg", alt="tema 5")
+                .col
+                  .row.justify-content-between.align-items-center
+                    .col.mb-2.mb-sm-0          
+                      h4.mx-4.my-2 Base inferior de pantalón femenino
+                      p.mb-0.irr.mx-4 Adicionalmente, observe con atención el video “Base inferior de pantalón femenino”, que se encuentra en el material complementario.
+                    .col-sm-auto
+                      a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+                        span Ver video
+                        i.fas.fa-video
     
     p.mb-4 Según modificaciones de largos, amplitudes, detalles y cortes. Se pueden obtener los básicos inferiores. Las medidas de largos se deben tomar desde la cintura hasta el punto de la pierna que lo sugiera el diseño.
     p.mb-5 En los siguientes recursos podremos apreciar las diferentes variantes del pantalón femenino: 
     
-    .row.justify-content-center.align-items-center.mb-4 
-      .col-sm-12.col-lg-12
-        .row.d-flex.justify-content-center
-          .col-sm-12.col-lg-5.mt-2
-            .tarje.color-primario.my-4.he-4-cus.px-4.my-4.pt-4
-              .row.justify-content-center
-                .titulo-sexto.color-acento-contenido
-                  h5 Figura 10. 
-                  | División moldes según tipo de prend
-                .col-lg-12
-                  img.mb-4(src='@/assets/curso/tema5/img14.png' alt="Imagen decorativa")
-                  figcaption.text-black Fuente: SENA, 2021
+    
+    .row.lili.align-items-center.py-5.py-md-5
+      .col-lg-12.col-12.px-lg-5.px-4
+        .row.justify-content-center.mb-4(data-aos="fade-down")
+    
+    
+        .row.justify-content-center.align-items-center.mb-4 
+          .col-sm-12.col-lg-12
+            .row.d-flex.justify-content-center
+              .col-sm-12.col-lg-5.mt-2
+                .tarje.color-primario.my-4.he-4-cus.px-4.my-4.pt-4
+                  .row.justify-content-center
+                    .titulo-sexto.color-acento-contenido
+                      h5 Figura 15. 
+                      | Tipologia de pantalon segun largo
+                    img.mb-4(src='@/assets/curso/tema5/img14.png' , alt="tema 5")
+                    figcaption.text-black Fuente: SENA, 2021
 
     separador
-    #t_5_4.titulo-segundo(data-aos="zoom-in-right")
+    #t_5_4.titulo-segundo
       .h2 5.4 Mangas
     
     .row.align-items-center.mb-4
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
-        img.mb-4(src='@/assets/curso/tema5/5.4.png' alt="Imagen decorativa")
+        img.mb-4(src='@/assets/curso/tema5/5.4.png', alt="tema 5")
       .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
         p.mb-3 En el patronaje, las mangas van conectadas no solo al tamaño de los brazos sino también a la postura de la persona, estos son factores que se deben tener en cuenta desde el análisis antropométrico.
         p.mb-3 Cuando se habla de manga, básicamente se entiende o identifica como una pieza circular que cubre el brazo, sin embargo, existen diferentes tipos de puntos a tener en cuenta:
@@ -747,7 +792,7 @@
         .fondo211.p-1.mb-5
           .row.justify-content-center.align-items-center
             .col-3.col-sm-2.col-lg-2
-              img.img-a.img-t.mx-3(src="@/assets/curso/tema5/alertaa.svg")
+              img.img-a.img-t.mx-3.d-none.d-lg-block(src="@/assets/curso/tema5/alertaa.svg", alt="tema 5")
             .col.p-4
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0         
@@ -767,22 +812,22 @@
             i.fas.fa-car-side
             | Largo de manga.
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
-        img.mb-4(src='@/assets/curso/tema5/555.png' alt="Imagen decorativa")
+        img.mb-4(src='@/assets/curso/tema5/555.png' , alt="tema 5")
     
-    .row.justify-content-center.items-align-center
+    .row.justify-content-center.items-align-center.mb-4
       .col-sm-6.col-lg-4.mb-4.mb-lg-4
         p Apreciemos el paso a paso para conocer el trazo de manga y cabezas de manga. 
         .fondo21e.p-4
           .row.justify-content-center.mb-4
             .col-3.my-3
               figure
-                img(src='@/assets/curso/tema5/vide.svg', alt='Texto que describa la imagen')
+                img.d-none.d-lg-block(src='@/assets/curso/tema5/vide.svg', alt="tema 5")
             h4.text-center Trazo de manga y cabezas de manga
             p.text-center.irr Adicionalmente, observe con atención el video “Trazo de manga y cabezas de manga”, que se encuentra en el material complementario.
             .col-sm-auto.mb-5
               a.boton.color-acento-botones.my-3(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                 span Ver video
-                i.fas.fa-play
+                i.fas.fa-video
       
       .col-sm-6.col-lg-4.mb-4.mb-lg-4
         p Otras formas para sacar o deducir la altura de cabeza de manga, se pueden estudiar en el documento:
@@ -790,7 +835,7 @@
           .row.justify-content-center.mb-4
             .col-3.my-2
               figure
-                img(src='@/assets/curso/tema5/pdff.svg', alt='Texto que describa la imagen')
+                img.d-none.d-lg-block(src='@/assets/curso/tema5/pdff.svg', alt="tema 5")
             h4.text-center Manual de patronaje básico para interpretación de diseños
             p.text-center.irr Consulte el anexo “Manual de patronaje básico para interpretación de diseños”. Leer de la página 26 a 44.
             .col-sm-auto.mb-5
@@ -806,33 +851,33 @@
           .row.justify-content-center.mb-4
             .col-3.my-4
               figure
-                img(src='@/assets/curso/tema5/vide.svg', alt='Texto que describa la imagen')
+                img.d-none.d-lg-block(src='@/assets/curso/tema5/vide.svg', alt="tema 5")
             h4.text-center Interpretación de mangas
             p.text-center.irr Adicionalmente, observe con atención el video “Interpretación de mangas”, que se encuentra en el material complementario.
             .col-sm-auto.mb-5
               a.boton.color-acento-botones.my-3(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                 span Ver video
-                i.fas.fa-play
+                i.fas.fa-video
       
       .col-sm-6.col-lg-4.mb-4.mb-lg-4
         .fondo21e.p-2
           .row.justify-content-center.mb-4
             .col-3.my-4
               figure
-                img(src='@/assets/curso/tema5/vide.svg', alt='Texto que describa la imagen')
+                img.d-none.d-lg-block(src='@/assets/curso/tema5/vide.svg', alt="tema 5")
             h4.text-center Generalidades de la manga kimono y ranglan
             p.text-center.irr Adicionalmente, observe con atención el video “Generalidades de la manga kimono y ranglan”, que se encuentra en el material complementario.
             .col-sm-auto.mb-5
               a.boton.color-acento-botones.my-3(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                 span Ver video
-                i.fas.fa-play
+                i.fas.fa-video
       
       .col-sm-6.col-lg-4.mb-4.mb-lg-4
         .fondo21e.p-4
           .row.justify-content-center.mb-4
             .col-3.my-3
               figure
-                img(src='@/assets/curso/tema5/pdff.svg', alt='Texto que describa la imagen')
+                img.d-none.d-lg-block(src='@/assets/curso/tema5/pdff.svg', alt="tema 5")
             h4.text-center Manga Kimono
             p.text-center.irr.mb-4 Consulte el anexo “Manga Kimono”. Leer página 48 y manga ranglan formal e informal. Leer páginas 49 y 50.
             .col-sm-auto
@@ -847,7 +892,7 @@
         .fondo21.p-3.mb-4
           .row.justify-content-around.align-items-center.mb-4
             .col-3.col-sm-2.col-lg-1
-              img.img-a.img-t(src="@/assets/curso/tema5/pdff.svg")
+              img.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema5/pdff.svg", alt="tema 5")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-2.mb-sm-0          
@@ -857,9 +902,10 @@
                   a.boton.color-acento-botones(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=B929C4B6338D41F855E80661E0B9A970?sequence=1" target="_blank")
                     span Descargar
                     i.fas.fa-download
+          .hr.mb-3
           .row.justify-content-around.align-items-center.mb-4
             .col-3.col-sm-2.col-lg-1
-              img.img-a.img-t(src="@/assets/curso/tema5/pdff.svg")
+              img.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema5/pdff.svg", alt="tema 5")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0          
@@ -869,9 +915,10 @@
                   a.boton.color-acento-botones(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=B929C4B6338D41F855E80661E0B9A970?sequence=1" target="_blank")
                     span Descargar
                     i.fas.fa-download
+          .hr.mb-3
           .row.justify-content-around.align-items-center.mb-4
             .col-3.col-sm-2.col-lg-1
-              img.img-a.img-t(src="@/assets/curso/tema5/pdff.svg")
+              img.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema5/pdff.svg", alt="tema 5")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0          
@@ -881,9 +928,10 @@
                   a.boton.color-acento-botones(href="/downloads/Anexo_4_Pasos_falda_basica.pdf" target="_blank")
                     span Descargar
                     i.fas.fa-download
-          .row.justify-content-around.align-items-center.mb-4
+          .hr.mb-3
+          .row.justify-content-around.align-items-center.mb-1
             .col-3.col-sm-2.col-lg-1
-              img.img-a.img-t(src="@/assets/curso/tema5/vide.svg")
+              img.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema5/vide.svg", alt="tema 5")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0          
