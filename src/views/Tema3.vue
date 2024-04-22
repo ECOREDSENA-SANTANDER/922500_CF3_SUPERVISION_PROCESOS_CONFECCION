@@ -140,7 +140,7 @@
                     .col-sm-auto
                       a.boton.color-acento-botones.mx-2(href="/downloads/Anexo_2_Clasificacion_de_las_medidas.pdf" target="_blank")
                         span Descargar
-                        i.fas.fa-download
+                        i.fas.fa-file-download
 
 
     Separador
@@ -181,7 +181,7 @@
                               .col-sm-auto
                                 a.boton.color-acento-botones(href="/downloads/Anexo_3_Analisis_de_cuadros_de_tallas.pdf" target="_blank")
                                   span Descargar
-                                  i.fas.fa-download
+                                  i.fas.fa-file-download
 
               .col-lg-6.col-md-10.col-12.mt-2
                 .tarje.color-primario.my-4.he-4-cus.px-4.my-4.pt-4

@@ -113,7 +113,7 @@
                     .col-sm-auto
                       a.boton.color-acento-botones.mx-4(href="/downloads/Anexo_1_Universos_Vestuario_ Y_Ocasiones_Uso.pdf" target="_blank")
                         span Descargar
-                        i.fas.fa-download 
+                        i.fas.fa-file-download 
         
         p.mb-4(data-aos="fade-right") Dentro de los procesos productivos en las empresas todo el trabajo es guiado por fichas técnicas, las cuales permiten a cada uno de los integrantes de la empresa comprender el proceso a realizar, así como las especificaciones y datos que deben ser acatados con rigurosidad. Se invita a visualizar el posterior contenido con los siguientes fines: el primero es facilitar un reconocimiento de las partes de las prendas y el segundo permitirá identificar las fichas técnicas y su estructura.
     

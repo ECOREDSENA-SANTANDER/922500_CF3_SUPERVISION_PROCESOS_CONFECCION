@@ -66,7 +66,7 @@
                       .col-sm-auto
                         a.boton.color-acento-botones(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CDC8FDE9468D98E37FFD127332113A29?sequence=1" target="_blank")
                           span Descargar
-                          i.fas.fa-download 
+                          i.fas.fa-file-download 
             p.mb-4 Para complementar observemos el video:
             .col-lg-12
               .fondo21.p-3.mb-2
@@ -151,7 +151,7 @@
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CDC8FDE9468D98E37FFD127332113A29?sequence=1" target="_blank")
                         span Descargar
-                        i.fas.fa-download 
+                        i.fas.fa-file-download
           p.mb-5 
           .col-sm-12.col-lg-8
             .fondo21.p-3.mb-2
@@ -325,7 +325,7 @@
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CDC8FDE9468D98E37FFD127332113A29?sequence=1" target="_blank")
                         span Descargar
-                        i.fas.fa-download 
+                        i.fas.fa-file-download 
           p.mb-5 
           .col-sm-12.col-lg-8
             .fondo21.p-3.mb-2
@@ -360,7 +360,7 @@
                       .col-sm-auto
                         a.boton.color-acento-botones(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CDC8FDE9468D98E37FFD127332113A29?sequence=1" target="_blank")
                           span Descargar
-                          i.fas.fa-download 
+                          i.fas.fa-file-download 
             p.mb-5 
             .col-sm-12.col-lg-12.mx-5
               .fondo21.p-3.mb-2

@@ -55,7 +55,7 @@
                               .col-sm-auto
                                 a.boton.color-acento-botones(href="/downloads/Anexo_8_ESCALADO_DE_FALDA_FEMENINO.pdf" target="_blank")
                                   span Descargar
-                                  i.fas.fa-download 
+                                  i.fas.fa-file-download 
                 
                   .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
                     .col-sm-12.col-lg-12
@@ -70,7 +70,7 @@
                               .col-sm-auto
                                 a.boton.color-acento-botones(href="/downloads/Anexo_9_ESCALADO_DE_BASE_CON PINZAS_SUPERIOR.pdf" target="_blank")
                                   span Descargar
-                                  i.fas.fa-download 
+                                  i.fas.fa-file-download
                   .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
                     .col-lg-12
                       .fondo21.p-3.mb-2
@@ -84,7 +84,7 @@
                               .col-sm-auto
                                 a.boton.color-acento-botones.justify-content-center(href="/downloads/Anexo_10_ESCALADO_DE BASICO_DE_PANTALON.pdf" target="_blank")
                                   span Descargar
-                                  i.fas.fa-download 
+                                  i.fas.fa-file-download 
                   .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
                     .col-lg-12
                       .fondo21.p-3.mb-2
@@ -98,7 +98,7 @@
                               .col-sm-auto
                                 a.boton.color-acento-botones(href="/downloads/Anexo_11_ESCALADO_CORTES_MANGA_CUELLO.pdf" target="_blank")
                                   span Descargar
-                                  i.fas.fa-download 
+                                  i.fas.fa-file-download
                   .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
                     .col-lg-12.mb-4
                       .fondo21.p-3.mb-2
@@ -112,7 +112,7 @@
                               .col-sm-auto
                                 a.boton.color-acento-botones(href="/downloads/Anexo_12_ESCALADO_BIBASICO-ANALISIS_BASE_SUPERIOR_MASCULINA.pdf" target="_blank")
                                   span Descargar
-                                  i.fas.fa-download 
+                                  i.fas.fa-file-download 
         
               .col-lg-6.col-md-10.col-12.mt-2
                 .tarje.color-primario.my-4.he-4-cus.px-4.my-4.pt-4

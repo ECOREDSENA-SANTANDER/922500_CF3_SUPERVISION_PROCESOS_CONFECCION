@@ -112,7 +112,7 @@
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=B929C4B6338D41F855E80661E0B9A970?sequence=1" target="_blank")
                         span Descargar
-                        i.fas.fa-download
+                        i.fas.fa-file-download
               .hr.mb-3
               .row.justify-content-around.align-items-center.mb-4
                 .col-3.col-sm-2.col-lg-1
@@ -125,7 +125,7 @@
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=B929C4B6338D41F855E80661E0B9A970?sequence=1" target="_blank")
                         span Descargar
-                        i.fas.fa-download
+                        i.fas.fa-file-download
               .hr.mb-3
               .row.justify-content-around.align-items-center.mb-4
                 .col-3.col-sm-2.col-lg-1
@@ -138,7 +138,7 @@
                     .col-sm-auto
                       a.boton.color-acento-botones(href="/downloads/Anexo_4_Pasos_falda_basica.pdf" target="_blank")
                         span Descargar
-                        i.fas.fa-download
+                        i.fas.fa-file-download
               .hr.mb-3
               .row.justify-content-around.align-items-center.mb-1
                 .col-3.col-sm-2.col-lg-1
@@ -151,7 +151,7 @@
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=wl5EjrLU-8Y&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                         span Descargar
-                        i.fas.fa-download
+                        i.fas.fa-file-download
     
     
     .row.justify-content-center.align-items-center
@@ -173,7 +173,7 @@
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                     span Descargar
-                    i.fas.fa-download
+                    i.fas.fa-file-download
           .hr.mb-3
           .row.justify-content-around.align-items-center.mb-4
             .col-3.col-sm-2.col-lg-1
@@ -186,7 +186,7 @@
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?app=desktop&v=xtyPQh3vtuc&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                     span Descargar
-                    i.fas.fa-download
+                    i.fas.fa-file-download
           .hr.mb-3
           .row.justify-content-around.align-items-center.mb-1
             .col-3.col-sm-2.col-lg-1
@@ -199,7 +199,7 @@
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=B929C4B6338D41F855E80661E0B9A970?sequence=1" target="_blank")
                     span Descargar
-                    i.fas.fa-download
+                    i.fas.fa-file-download
   
       
     separador
@@ -343,7 +343,7 @@
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                     span Descargar
-                    i.fas.fa-download
+                    i.fas.fa-file-download
           .hr.mb-3
           .row.justify-content-around.align-items-center.mb-4
             .col-3.col-sm-2.col-lg-1
@@ -400,31 +400,28 @@
                       p Todas las pinzas deben terminar antes del punto de busto (punto giratorio), nunca deben traspasar dicho punto.
     
     h4.mb-4  Técnicas de transformación
-    p.mb-4 Estas técnicas hacen referencia a métodos que permiten el desplazamiento de las pinzas y su reubicación. Veamos las dos más utilizadas:
-    .row.fondu.align-items-center.py-4.py-md-5
-      .col-lg-12.col-12.px-lg-5.px-4
-        .row.justify-content-center.mb-4(data-aos="fade-down") 
+    p.mb-3 Estas técnicas hacen referencia a métodos que permiten el desplazamiento de las pinzas y su reubicación. Veamos las dos más utilizadas:
+    
 
-        .row.justify-content-center.items-align-center.mb-5
+    .row.fonfu.align-items-center.py-4.py-md-5.mb-5 
+      .col-sm-12.col-lg-12.px-lg-5.px-4
+        .row.justify-content-center.mb-4(data-aos="fade-down")
           .col-sm-12.col-lg-12
             .row.justify-content-center.items-align-center
-              .erre.p-5
-                .row
-                  .col-sm-12.col-lg-4
-                    .boika.p-5 
-                      p.color 1. Cortar y unir:
-                      p.mb-3 Este método requiere cortar el patrón base para luego unir las partes con la reubicación de la pinza.
-                  .col-sm-12.col-lg-4
-                    .boika.p-5 
-                      p.color 2. Pivoteo (girar):
-                      p.mb-3 Este método no requiere cortar el patrón básico, sino girarlo a través del punto de busto transfiriendo de esta manera la pinza.
-
-        
-        
+              .col-sm-12.col-lg-3
+                p.mb-0
+              .col-sm-12.col-lg-4
+                .boika.p-4.my-5 
+                  p.color.my-3 2. Pivoteo (girar):
+                  p.mb-4 Este método requiere cortar el patrón base para luego unir las partes con la reubicación de la pinza.
+              .col-sm-12.col-lg-4
+                .boika.p-4.my-5 
+                  p.color.my-3 2. Pivoteo (girar):
+                  p.mb-4 Este método no requiere cortar el patrón básico, sino girarlo a través del punto de busto transfiriendo de esta manera la pinza.
         
         .row.justify-content-center.items-align-center
           .col-sm-6.col-lg-5.mb-4.mb-lg-4
-            p Los puntos en que se hace posible el traslado de la pinza son los siguientes:
+            p.mb-4 Los puntos en que se hace posible el traslado de la pinza son los siguientes:
             .tarje.p-4.mb-5
               .row.justify-content-center.mb-4
                 .col-lg-12.my-2
@@ -432,11 +429,11 @@
                     h5 Figura 13. 
                     | Puntos de traslado de pinza
                   .col-lg-12
-                    img.mb-3.my-5(src='@/assets/curso/tema5/errr.svg' , alt="tema 5")
+                    img.mb-3.my-5(src='@/assets/curso/tema5/errr.svg' , alt="Texto alternativo: Los puntos en que se hace posible el traslado de la pinza son los siguientes:")
                     figcaption Fuente. Adaptadeo de SENA, 2021
           
           .col-sm-6.col-lg-5.mb-4.mb-lg-4
-            p A continuación, se observa la transformación que sufre el patrón de acuerdo a la técnica aplicada y la necesidad de la prenda.
+            p.mb-4 A continuación, se observa la transformación que sufre el patrón de acuerdo a la técnica aplicada y la necesidad de la prenda.
             .tarjett.p-4
               .row.justify-content-center.mb-4
                 .col-lg-12.my-2
@@ -444,7 +441,7 @@
                     h5 Figura 14. 
                     | Traslados de pinza en base
                   .col-lg-12
-                    img(src='@/assets/curso/tema5/aer.svg', alt="tema 5")
+                    img(src='@/assets/curso/tema5/aer.svg', alt="Texto alternativo: A continuación, se observa la transformación que sufre el patrón de acuerdo a la técnica aplicada y la necesidad de la prenda.")
                     figcaption Fuente. Adaptadeo de SENA, 2021
                   
         p.mb-4.text-center Para comprender este proceso podrá ver el video explicativo sobre cómo se hacen traslados de pinza correcta de talles.
@@ -463,7 +460,7 @@
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                         span Descargar
-                        i.fas.fa-download
+                        i.fas.fa-file-download
 
     .mb-4.d-flex.mb-5
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
@@ -535,7 +532,7 @@
             .col-sm-auto
               a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                 span Descargar
-                i.fas.fa-download
+                i.fas.fa-file-download
       
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-lg-10
@@ -595,7 +592,7 @@
             .col-sm-auto
               a.boton.color-acento-botones.my-4(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                 span Descargar
-                i.fas.fa-link
+                i.fas.fa-file-download
 
     separador
     #t_5_3.titulo-segundo
@@ -745,25 +742,52 @@
                         i.fas.fa-video
     
     p.mb-4 Según modificaciones de largos, amplitudes, detalles y cortes. Se pueden obtener los básicos inferiores. Las medidas de largos se deben tomar desde la cintura hasta el punto de la pierna que lo sugiera el diseño.
-    p.mb-5 En los siguientes recursos podremos apreciar las diferentes variantes del pantalón femenino: 
+    p.mb-0 En los siguientes recursos podremos apreciar las diferentes variantes del pantalón femenino: 
     
     
-    .row.lili.align-items-center.py-5.py-md-5
-      .col-lg-12.col-12.px-lg-5.px-4
+    .row.fondo5.align-items-center.py-4.mb-5 
+      .col-sm-12.col-lg-12.px-lg-5.px-4
         .row.justify-content-center.mb-4(data-aos="fade-down")
-    
-    
-        .row.justify-content-center.align-items-center.mb-4 
           .col-sm-12.col-lg-12
-            .row.d-flex.justify-content-center
-              .col-sm-12.col-lg-5.mt-2
-                .tarje.color-primario.my-4.he-4-cus.px-4.my-4.pt-4
-                  .row.justify-content-center
-                    .titulo-sexto.color-acento-contenido
-                      h5 Figura 15. 
+            .row.justify-content-center.items-aling-center
+              .col-sm-12.col-lg-3
+                p.mb-0
+              .col-sm-12.col-lg-4.my-5
+                .fondo21e.p-4
+                  .row.justify-content-center.mb-4
+                    .col-3.my-3
+                      figure
+                        img.d-none.d-lg-block(src='@/assets/curso/tema5/vide.svg', alt="tema 5")
+                    h4.text-center Trazo de manga y cabezas de manga
+                    p.text-center.irr Adicionalmente, observe con atención el video “Trazo de manga y cabezas de manga”, que se encuentra en el material complementario.
+                    .col-sm-auto.mb-5
+                      a.boton.color-acento-botones.my-3(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+                        span Ver video
+                        i.fas.fa-video
+              .col-sm-12.col-lg-4.my-5
+                .fondo21e.p-4.mb-5
+                  .row.justify-content-center.mb-4
+                    .col-3.my-3
+                      figure
+                        img.d-none.d-lg-block(src='@/assets/curso/tema5/vide.svg', alt="tema 5")
+                    h4.text-center Trazo de manga y cabezas de manga
+                    p.text-center.irr Adicionalmente, observe con atención el video “Trazo de manga y cabezas de manga”, que se encuentra en el material complementario.
+                    .col-sm-auto.mb-5
+                      a.boton.color-acento-botones.my-3(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+                        span Ver video
+                        i.fas.fa-video
+  
+      .row.justify-content-center.align-items-center.mb-4
+        .col-sm-12.col-lg-12
+          .row.d-flex.justify-content-center
+            .col-sm-12.col-lg-5.mt-2
+              .tarje.color-primario.my-4.he-4-cus.px-4.my-4.pt-4
+                .row.justify-content-center
+                  .titulo-sexto.color-acento-contenido
+                    h5 Figura 15. 
                       | Tipologia de pantalon segun largo
-                    img.mb-4(src='@/assets/curso/tema5/img14.png' , alt="tema 5")
-                    figcaption.text-black Fuente: SENA, 2021
+                  img.mb-4(src='@/assets/curso/tema5/img14.png' , alt="tema 5")
+                  figcaption.text-black Fuente: SENA, 2021
 
     separador
     #t_5_4.titulo-segundo
@@ -841,7 +865,7 @@
             .col-sm-auto.mb-5
               a.boton.color-acento-botones.my-3(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                 span Descargar
-                i.fas.fa-link
+                i.fas.fa-file-download
     
     p.mb-5.text-center También será muy importante conocer y comprender la diversidad asociada a la interpretación de las mangas, de tal manera que se puedan implementar las variaciones de acuerdo a las necesidades de cada prenda a confeccionar:
     
@@ -883,7 +907,7 @@
             .col-sm-auto
               a.boton.color-acento-botones.my-1(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                 span Descargar
-                i.fas.fa-link
+                i.fas.fa-file-download
     
     p.mb-5.text-center Para finalizar este tema abordaremos la interpretación de prendas, con la finalidad de cerrar el análisis de la composición del patronaje básico para la línea femenina. En los siguientes 4 videos mostraremos los aspectos más importantes a tener en cuenta en este proceso:
     
@@ -901,7 +925,7 @@
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=B929C4B6338D41F855E80661E0B9A970?sequence=1" target="_blank")
                     span Descargar
-                    i.fas.fa-download
+                    i.fas.fa-file-download
           .hr.mb-3
           .row.justify-content-around.align-items-center.mb-4
             .col-3.col-sm-2.col-lg-1
@@ -914,7 +938,7 @@
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=B929C4B6338D41F855E80661E0B9A970?sequence=1" target="_blank")
                     span Descargar
-                    i.fas.fa-download
+                    i.fas.fa-file-download
           .hr.mb-3
           .row.justify-content-around.align-items-center.mb-4
             .col-3.col-sm-2.col-lg-1
@@ -927,7 +951,7 @@
                 .col-sm-auto
                   a.boton.color-acento-botones(href="/downloads/Anexo_4_Pasos_falda_basica.pdf" target="_blank")
                     span Descargar
-                    i.fas.fa-download
+                    i.fas.fa-file-download
           .hr.mb-3
           .row.justify-content-around.align-items-center.mb-1
             .col-3.col-sm-2.col-lg-1
@@ -940,7 +964,7 @@
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=wl5EjrLU-8Y&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                     span Descargar
-                    i.fas.fa-download
+                    i.fas.fa-file-download
 
 </template>
 
