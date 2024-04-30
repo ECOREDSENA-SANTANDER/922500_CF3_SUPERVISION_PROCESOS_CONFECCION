@@ -24,7 +24,7 @@
             .titulo-sexto.color-acento-contenido
               h5 Figura 10. 
               | División moldes según tipo de prenda
-            img(src='@/assets/curso/tema5/img01.svg' , alt="tema 5")
+            img(src='@/assets/curso/tema5/img01.svg' , alt="Considerar la imagen en donde se muestra una silueta humana con una subdivisión superior e inferior de prendas bases o básicos, para hombres y mujeres. Así mismo expone las bases o básicos las mono prendas para dama y caballero.")
     
     separador
     #t_5_1.titulo-segundo
@@ -37,8 +37,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema5/img02.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Para comenzar el proceso en construcción de moldes, se recomienda partir con patrones o levantamientos más simples; de tal manera que sea fácil comprender el sistema que se desarrollará en este esquema. La falda básica es el primer estilo, porque es la prenda más simple. A través de estas líneas, se asimila la utilización correcta de cada regla de costura, obteniendo así una mayor seguridad para manejar los siguientes estilos.
-            p Medidas a utilizar para el trazo de la falda: contorno de cintura, contorno de cadera y largo de falda.
+            p.mb-0 Para iniciar el proceso de construcción de moldes, es recomendable comenzar con patrones o levantamientos más simples. Esto facilitará la comprensión del sistema que se desarrollará en el esquema. La falda básica se elige como el primer estilo debido a su simplicidad. A través de este punto de partida, se logra una comprensión adecuada de cada regla de costura, lo que proporciona una mayor confianza para abordar estilos posteriores. Las medidas necesarias para trazar la falda son el contorno de cintura, el contorno de cadera y el largo de la falda.
 
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
@@ -295,7 +294,7 @@
                         td.text-center 12
                         td.text-center 14
                       tr
-                        td.text-center Blusa
+                        td.text-center Abrigo
                         td.text-center 8
                         td.text-center 10
                         td.text-center 12
@@ -341,7 +340,7 @@
                   h4 Manual de patronaje básico e interpretación de diseños
                   p.mb-0.irr Consulte el “Manual de patronaje básico e interpretación de diseños - Conocimiento para hace patrón base superior femenino”. Leer de la página 20 a 25.
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+                  a.boton.color-acento-botones(href="https://repositorio.sena.edu.co/handle/11404/4725" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
           .hr.mb-3
@@ -367,7 +366,7 @@
                   h4 Trazo de falda y modificación de básicos de falda
                   p.mb-0.irr Adicionalmente, observe con atención el video “Trazo de falda y modificación de básicos de falda”, que se encuentra en el material complementario.
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=B929C4B6338D41F855E80661E0B9A970?sequence=1" target="_blank")
+                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=56vyEeZhA-I&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                     span Ver video
                     i.fas.fa-video
   
@@ -458,7 +457,7 @@
                       h4.mx-4 Traslados de pinza correctiva de talles
                       p.mb-0.irr.mx-4 Adicionalmente, observe con atención el video “Traslados de pinza correctiva de talles”, que se encuentra en el material complementario.
                     .col-sm-auto
-                      a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+                      a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=encNXGtE15Y&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                         span Descargar
                         i.fas.fa-file-download
 
@@ -488,7 +487,7 @@
                   h4.mx-4.my-1 Análisis y trazo de sistema de ajuste pinzas y cortes
                   p.mb-0.irr.mx-4 Adicionalmente, observe con atención el video “Análisis y trazo de sistema de ajuste pinzas y cortes”, que se encuentra en el material complementario.
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=Tq_3F32nynw&t=1759s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                     span Ver video
                     i.fas.fa-video
     
@@ -504,7 +503,7 @@
             h4.text-center Pasos para el trazo de la base superior
             p.text-center.irr Adicionalmente, observe con atención el video “Trazo básico blusa”, que se encuentra en el material complementario.
             .col-sm-auto.mb-5
-              a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+              a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=euVdaqaTQlY&t=1523s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                 span Ver video
                 i.fas.fa-video
       
@@ -517,7 +516,7 @@
             h4.text-center Trazo blusa con almilla y cuello camisero
             p.text-center.irr Adicionalmente, observe con atención el video “Trazo básico blusa”, que se encuentra en el material complementario.
             .col-sm-auto.mb-5
-              a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+              a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=euVdaqaTQlY&t=1523s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                 span Ver video
                 i.fas.fa-video
       
@@ -564,7 +563,7 @@
             h4.text-center Trazo de la Bata o vestido
             p.text-center.irr Adicionalmente, observe con atención el video “Trazo de la Bata o vestido”, que se encuentra en el material complementario.
             .col-sm-auto.mb-5
-              a.boton.color-acento-botones.my-3(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+              a.boton.color-acento-botones.my-3(href="https://www.youtube.com/watch?app=desktop&v=JnFLa4-gUa4&t=187s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                 span Ver video
                 i.fas.fa-video
       
@@ -577,7 +576,7 @@
             h4.text-center Cuellos y solapas
             p.text-center.irr Adicionalmente, observe con atención el video “Cuellos y solapas”, que se encuentra en el material complementario.
             .col-sm-auto.mb-5
-              a.boton.color-acento-botones.my-3(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+              a.boton.color-acento-botones.my-3(href="https://www.youtube.com/watch?v=xjSPGOWXJw0&t=1499s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                 span Ver video
                 i.fas.fa-video
       
@@ -719,9 +718,9 @@
                       h4.mx-4.my-2 Manual de patronaje básico para interpretación de diseños
                       p.mb-0.irr.mx-4 Consulte el “Manual de patronaje básico para interpretación de diseños”. Leer de la página 28 a la 30.
                     .col-sm-auto
-                      a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
-                        span Ver video
-                        i.fas.fa-video
+                      a.boton.color-acento-botones(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CDC8FDE9468D98E37FFD127332113A29?sequence=1" target="_blank")
+                        span Descargar
+                        i.fas.fa-file-download
         
         p.mb-5.text-center También será importante visualizar el siguiente video explicativo sobre cómo realizar la base inferior del pantalón femenino.
         
@@ -737,7 +736,7 @@
                       h4.mx-4.my-2 Base inferior de pantalón femenino
                       p.mb-0.irr.mx-4 Adicionalmente, observe con atención el video “Base inferior de pantalón femenino”, que se encuentra en el material complementario.
                     .col-sm-auto
-                      a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+                      a.boton.color-acento-botones(href="https://www.youtube.com/watch?app=desktop&v=7XPqP_3v0L0&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA es producción SENA." target="_blank")
                         span Ver video
                         i.fas.fa-video
     
@@ -786,7 +785,7 @@
                   .titulo-sexto.color-acento-contenido
                     h5 Figura 15. 
                       | Tipologia de pantalon segun largo
-                  img.mb-4(src='@/assets/curso/tema5/img14.png' , alt="tema 5")
+                  img.mb-4(src='@/assets/curso/tema5/img14.png' , alt="Molde de pantalón con marcas punteadas dependiendo de estilo o diseño que se necesite según las variantes del pantalón femenino: Capri, toreador, bermuda, etc.")
                   figcaption.text-black Fuente: SENA, 2021
 
     separador

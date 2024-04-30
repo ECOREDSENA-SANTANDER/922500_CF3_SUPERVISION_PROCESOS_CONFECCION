@@ -192,6 +192,9 @@
                                   span Ver video
                                   i.fas.fa-video
 
+
+
+
 </template>
 
 <script>

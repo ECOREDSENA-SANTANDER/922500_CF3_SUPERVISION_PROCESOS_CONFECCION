@@ -67,7 +67,7 @@
                   h5 Figura 2. 
                   | Patronaje industrial de chaqueta
                 figure
-                  img(src='@/assets/curso/tema2/img08.svg', alt='tema1')      
+                  img(src='@/assets/curso/tema2/img08.svg', alt='Se exhiben 18 piezas de telas que conforman cada uno de los cortes que debe tener la tela para obtener el patrón completo para una chaqueta.')      
               
             .row.justify-content-center.align-items-start(titulo="Patronaje sobre medidas")
               .col-md-6.mb-4
@@ -94,7 +94,7 @@
                   .titulo-sexto.color-acento-contenido
                     h5 Figura 3. 
                     | Patronaje sobre maniquí
-                  img(src='@/assets/curso/tema2/img06.png', alt='Texto alternativo Figura 3.La imagen expone a una persona tomando medidas y haciendo ajustes de la tela sobre un maniquí, esto facilita la tarea de patronaje.')      
+                  img(src='@/assets/curso/tema2/img06.png', alt='La imagen expone a una persona tomando medidas y haciendo ajustes de la tela sobre un maniquí, esto facilita la tarea de patronaje.')      
               
     
         

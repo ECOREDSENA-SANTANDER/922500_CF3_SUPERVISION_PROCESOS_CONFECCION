@@ -30,7 +30,7 @@
           .col-sm-12.col-lg-7
             .tarjeta.tarjeta--azul.p-4.bg111
               SlyderA(tipo="b")
-                .row.justify-content-between.align-items-center
+                .row.justify-content-center.align-items-center
                   h4.mb-4 Talla prototipo
                   p.mb-4 Es la talla de la cual se parte un escalado, también llamado patrón base, por ejemplo, el básico del corpiño para dama.      
                 .row.justify-content-center.align-items-center
@@ -122,7 +122,6 @@
     #t_4_2.titulo-segundo
       .h2 4.2 Análisis de cuadros de tallas
 
-    p.mb-4 Los cuadros de tallas como se ha mencionado son el punto importante dentro del escalado industrial de prendas, por ello se debe tener en cuenta:
     
     .row.justify-content.align-items.mt-5
       .col-sm-12.col-lg-12
