@@ -28,16 +28,17 @@
     
     separador
     #t_5_1.titulo-segundo
-      .h2 5.1 Trazo de falda
+      .h2 5.1 Análisis de cuadros de tallas
 
-    .row.justify-content-center.mb-5(data-aos="zoom-in-up")
-      .col-lg-10.mb-4.mb-md-0
-        .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
-          .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/tema5/img02.png')})`}"
-          )
-          .bloque-texto-g__texto.p-4
-            p.mb-0 Para iniciar el proceso de construcción de moldes, es recomendable comenzar con patrones o levantamientos más simples. Esto facilitará la comprensión del sistema que se desarrollará en el esquema. La falda básica se elige como el primer estilo debido a su simplicidad. A través de este punto de partida, se logra una comprensión adecuada de cada regla de costura, lo que proporciona una mayor confianza para abordar estilos posteriores. Las medidas necesarias para trazar la falda son el contorno de cintura, el contorno de cadera y el largo de la falda.
+    .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
+      .col-lg-10.col-md-10.col-10
+        .bloque-texto-a.color-acento-contenido.primtt.p-4.p-md-5.mb-5 
+          .row.m-0.align-items-center.justify-content-between
+            .col-lg-8
+              .bloque-texto-a__texto.p-3
+                p.my-1 Para iniciar el proceso de construcción de moldes, es recomendable comenzar con patrones o levantamientos más simples. Esto facilitará la comprensión del sistema que se desarrollará en el esquema. La falda básica se elige como el primer estilo debido a su simplicidad. A través de este punto de partida, se logra una comprensión adecuada de cada regla de costura, lo que proporciona una mayor confianza para abordar estilos posteriores. Las medidas necesarias para trazar la falda son el contorno de cintura, el contorno de cadera y el largo de la falda.
+            .col-lg-4.mb-4.mb-lg-0
+              img(src="@/assets/curso/tema5/img02.svg", alt="tema2")
 
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
@@ -205,15 +206,15 @@
     #t_5_2.titulo-segundo
       .h2 5.2 Trazo de base superior femenina
     
-    .row.fond2.d-none.d-lg-block.align-items
-      .col-sm-12.col-lg-12.mt-4
-        .row.justify.mb-5
+    .row.fondo22.align-items-center
+      .col-lg-12.col-md-12.col-12.mb-2
+        .row.justify-content-center
           
-          .row.justify-content.align-items-left.mb-5
-            .col-sm-12.col-lg-7
-              p.mx-5.my-5.mb-5 El manejo de volúmenes es un factor crucial en el desarrollo de prendas, ya que se logran mediante el uso de pinzas y sistemas de ajuste; es importante tener en cuenta que, independientemente del diseño trabajado, la metodología y los pasos a seguir son siempre los mismos, lo que lleva a determinar que este enfoque secuencial permite una mejor asimilación de la metodología.
-            .col-sm-12.col-lg-5
-              img.img-t.img-a.my-2(src='@/assets/curso/tema5/img123.svg', alt="tema 5") 
+          .row.justify-content-center.align-items-center.mb-5
+            .col-lg-7.col-md-11.col-11.mb-0
+              p.mx-4.my-5 El manejo de volúmenes es un factor crucial en el desarrollo de prendas, ya que se logran mediante el uso de pinzas y sistemas de ajuste; es importante tener en cuenta que, independientemente del diseño trabajado, la metodología y los pasos a seguir son siempre los mismos, lo que lleva a determinar que este enfoque secuencial permite una mejor asimilación de la metodología.
+            .col-lg-5.col-md-9.col-9
+              img.img-t.img-a.my-2.mover(src='@/assets/curso/tema5/img123.svg', alt="tema 5") 
     
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
@@ -384,7 +385,7 @@
           li.d-flex.mb-2
             i.fas.fa-car-side.my-1
             p.mx-4 Las pinzas pueden ser transferidas o desviadas a cualquier dirección alrededor del punto de busto (punto giratorio) sin afectar el tamaño ni entalle del patrón.
-          li.d-flex.mb-2
+          li.d-flex.mb-3
             i.fas.fa-car-side.my-1
             p.mx-4 El exceso de la pinza, es decir, el espacio entre lados de la pinza puede ser utilizado como recogidos, pliegues, pinzas semi cosidas o en los cortes de diferentes estilos o diseños.
           .col-sm-12.col-lg-12
@@ -392,11 +393,10 @@
               .row.justify-content-center.align-items-center
                 .col-3.col-sm-2.col-lg-2
                   img.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema5/alertaa.svg")
-                .col.p-1
+                .col.p-3
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0         
-                      p.my-2 #[b Tener en cuenta:] 
-                      p Todas las pinzas deben terminar antes del punto de busto (punto giratorio), nunca deben traspasar dicho punto.
+                      p.my-2 #[b Tener en cuenta:] Todas las pinzas deben terminar antes del punto de busto (punto giratorio), nunca deben traspasar dicho punto.
     
     h4.mb-4  Técnicas de transformación
     p.mb-3 Estas técnicas hacen referencia a métodos que permiten el desplazamiento de las pinzas y su reubicación. Veamos las dos más utilizadas:
@@ -428,7 +428,7 @@
                     h5 Figura 13. 
                     | Puntos de traslado de pinza
                   .col-lg-12
-                    img.mb-3.my-5(src='@/assets/curso/tema5/errr.svg' , alt="Texto alternativo: Los puntos en que se hace posible el traslado de la pinza son los siguientes:")
+                    img.mb-3.my-5(src='@/assets/curso/tema5/errr.svg' , alt="Los puntos en que se hace posible el traslado de la pinza son los siguientes:")
                     figcaption Fuente. Adaptadeo de SENA, 2021
           
           .col-sm-6.col-lg-5.mb-4.mb-lg-4
@@ -440,7 +440,7 @@
                     h5 Figura 14. 
                     | Traslados de pinza en base
                   .col-lg-12
-                    img(src='@/assets/curso/tema5/aer.svg', alt="Texto alternativo: A continuación, se observa la transformación que sufre el patrón de acuerdo a la técnica aplicada y la necesidad de la prenda.")
+                    img(src='@/assets/curso/tema5/aer.svg', alt="A continuación, se observa la transformación que sufre el patrón de acuerdo a la técnica aplicada y la necesidad de la prenda.")
                     figcaption Fuente. Adaptadeo de SENA, 2021
                   
         p.mb-4.text-center Para comprender este proceso podrá ver el video explicativo sobre cómo se hacen traslados de pinza correcta de talles.
@@ -563,7 +563,7 @@
             h4.text-center Trazo de la Bata o vestido
             p.text-center.irr Adicionalmente, observe con atención el video “Trazo de la Bata o vestido”, que se encuentra en el material complementario.
             .col-sm-auto.mb-5
-              a.boton.color-acento-botones.my-3(href="https://www.youtube.com/watch?app=desktop&v=JnFLa4-gUa4&t=187s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+              a.boton.color-acento-botones.my-1(href="https://www.youtube.com/watch?app=desktop&v=JnFLa4-gUa4&t=187s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                 span Ver video
                 i.fas.fa-video
       
@@ -576,7 +576,7 @@
             h4.text-center Cuellos y solapas
             p.text-center.irr Adicionalmente, observe con atención el video “Cuellos y solapas”, que se encuentra en el material complementario.
             .col-sm-auto.mb-5
-              a.boton.color-acento-botones.my-3(href="https://www.youtube.com/watch?v=xjSPGOWXJw0&t=1499s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+              a.boton.color-acento-botones.my-1(href="https://www.youtube.com/watch?v=xjSPGOWXJw0&t=1499s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                 span Ver video
                 i.fas.fa-video
       
@@ -589,7 +589,7 @@
             h4.text-center Variación del vestido
             p.text-center.irr.mb-4 Consulte el anexo “Variación del vestido”. Leer de la página 59 a 62.
             .col-sm-auto
-              a.boton.color-acento-botones.my-4(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+              a.boton.color-acento-botones.my-2(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
 
@@ -610,7 +610,7 @@
               .col.p-4
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0         
-                    p.my-2.mx-3 #[b Tener en cuenta:] La base de pantalón sale en plano montado trazando primero la parte delantera y sobre el delantero trazando el posterior. Esto se debe a que varias de las medidas curvas y demás son tomadas de la referencia del trazo del delantero.
+                    p.my-2.mx-3 #[b Tener en cuenta:] La base de pantalón sale en plano montado, trazando primero la parte delantera y sobre el delantero, trazando el posterior. Esto se debe a que varias de las medidas curvas y demás son tomadas de la referencia del trazo del delantero.
         p.mb-5 Es importante mencionar que la base de pantalón para la línea femenina se realiza con margen de costura. Aunque es un patrón básico, se trabaja con margen de costura para manejar las variaciones de medida de la forma del cuerpo, por ello es esencial comprender por qué y cómo se aplica el margen de costura para identificar correctamente los contornos por los que pasa el pantalón (cintura, cadera, rodilla y bota).         
     
     .row.justify-content-center.align-items-center.mb-4
@@ -752,7 +752,7 @@
               .col-sm-12.col-lg-3
                 p.mb-0
               .col-sm-12.col-lg-4.my-5
-                .fondo21e.p-4
+                .fondo21e.p-4.my-4
                   .row.justify-content-center.mb-4
                     .col-3.my-3
                       figure
@@ -760,11 +760,11 @@
                     h4.text-center Trazo de manga y cabezas de manga
                     p.text-center.irr Adicionalmente, observe con atención el video “Trazo de manga y cabezas de manga”, que se encuentra en el material complementario.
                     .col-sm-auto.mb-5
-                      a.boton.color-acento-botones.my-3(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+                      a.boton.color-acento-botones.my-3.mb-5(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                         span Ver video
                         i.fas.fa-video
               .col-sm-12.col-lg-4.my-5
-                .fondo21e.p-4.mb-5
+                .fondo21e.p-4.mb-5.my-4
                   .row.justify-content-center.mb-4
                     .col-3.my-3
                       figure
@@ -776,17 +776,17 @@
                         span Ver video
                         i.fas.fa-video
   
-      .row.justify-content-center.align-items-center.mb-4
-        .col-sm-12.col-lg-12
-          .row.d-flex.justify-content-center
-            .col-sm-12.col-lg-5.mt-2
-              .tarje.color-primario.my-4.he-4-cus.px-4.my-4.pt-4
-                .row.justify-content-center
-                  .titulo-sexto.color-acento-contenido
-                    h5 Figura 15. 
-                      | Tipologia de pantalon segun largo
-                  img.mb-4(src='@/assets/curso/tema5/img14.png' , alt="Molde de pantalón con marcas punteadas dependiendo de estilo o diseño que se necesite según las variantes del pantalón femenino: Capri, toreador, bermuda, etc.")
-                  figcaption.text-black Fuente: SENA, 2021
+          .row.justify-content-center.align-items-center.mb-4
+            .col-sm-12.col-lg-12
+              .row.d-flex.justify-content-center
+                .col-sm-12.col-lg-5.mt-2
+                  .tarje.color-primario.my-4.he-4-cus.px-4.my-4.pt-4
+                    .row.justify-content-center
+                      .titulo-sexto.color-acento-contenido
+                        h5 Figura 15. 
+                        | Tipologia de pantalon segun largo
+                      img.mb-4(src='@/assets/curso/tema5/img14.png' , alt="Molde de pantalón con marcas punteadas dependiendo de estilo o diseño que se necesite según las variantes del pantalón femenino: Capri, toreador, bermuda, etc.")
+                      figcaption.text-black Fuente: SENA, 2021
 
     separador
     #t_5_4.titulo-segundo
@@ -848,7 +848,7 @@
             h4.text-center Trazo de manga y cabezas de manga
             p.text-center.irr Adicionalmente, observe con atención el video “Trazo de manga y cabezas de manga”, que se encuentra en el material complementario.
             .col-sm-auto.mb-5
-              a.boton.color-acento-botones.my-3(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+              a.boton.color-acento-botones.my-3(href="https://www.youtube.com/watch?v=EAl_FBfkYUE&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                 span Ver video
                 i.fas.fa-video
       
@@ -861,8 +861,8 @@
                 img.d-none.d-lg-block(src='@/assets/curso/tema5/pdff.svg', alt="tema 5")
             h4.text-center Manual de patronaje básico para interpretación de diseños
             p.text-center.irr Consulte el anexo “Manual de patronaje básico para interpretación de diseños”. Leer de la página 26 a 44.
-            .col-sm-auto.mb-5
-              a.boton.color-acento-botones.my-3(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+            .col-sm-auto.mb-5.my-2
+              a.boton.color-acento-botones.my-3(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CDC8FDE9468D98E37FFD127332113A29?sequence=1" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
     
@@ -878,7 +878,7 @@
             h4.text-center Interpretación de mangas
             p.text-center.irr Adicionalmente, observe con atención el video “Interpretación de mangas”, que se encuentra en el material complementario.
             .col-sm-auto.mb-5
-              a.boton.color-acento-botones.my-3(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+              a.boton.color-acento-botones.my-3(href="https://www.youtube.com/watch?app=desktop&v=2a81MoVG6Dg&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                 span Ver video
                 i.fas.fa-video
       
@@ -891,7 +891,7 @@
             h4.text-center Generalidades de la manga kimono y ranglan
             p.text-center.irr Adicionalmente, observe con atención el video “Generalidades de la manga kimono y ranglan”, que se encuentra en el material complementario.
             .col-sm-auto.mb-5
-              a.boton.color-acento-botones.my-3(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+              a.boton.color-acento-botones.my-3(href="https://www.youtube.com/watch?app=desktop&v=tJWzjpSmkps&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                 span Ver video
                 i.fas.fa-video
       
@@ -904,7 +904,7 @@
             h4.text-center Manga Kimono
             p.text-center.irr.mb-4 Consulte el anexo “Manga Kimono”. Leer página 48 y manga ranglan formal e informal. Leer páginas 49 y 50.
             .col-sm-auto
-              a.boton.color-acento-botones.my-1(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+              a.boton.color-acento-botones.my-1(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CDC8FDE9468D98E37FFD127332113A29?sequence=1" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
     
@@ -923,8 +923,8 @@
                   p.mb-0.irr Adicionalmente, observe con atención el video “Análisis e interpretación de capas”, que se encuentra en el material complementario.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=B929C4B6338D41F855E80661E0B9A970?sequence=1" target="_blank")
-                    span Descargar
-                    i.fas.fa-file-download
+                    span Ver video
+                    i.fas.fa-video
           .hr.mb-3
           .row.justify-content-around.align-items-center.mb-4
             .col-3.col-sm-2.col-lg-1
@@ -936,8 +936,8 @@
                   p.mb-0.irr Adicionalmente, observe con atención el video “Abrigo asimétrico”, que se encuentra en el material complementario.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=B929C4B6338D41F855E80661E0B9A970?sequence=1" target="_blank")
-                    span Descargar
-                    i.fas.fa-file-download
+                    span Ver video
+                    i.fas.fa-video 
           .hr.mb-3
           .row.justify-content-around.align-items-center.mb-4
             .col-3.col-sm-2.col-lg-1
@@ -949,8 +949,8 @@
                   p.mb-0.irr Adicionalmente, observe con atención el video “Interpretación de pantalón sastre femenino”, que se encuentra en el material complementario.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="/downloads/Anexo_4_Pasos_falda_basica.pdf" target="_blank")
-                    span Descargar
-                    i.fas.fa-file-download
+                    span Ver video
+                    i.fas.fa-video
           .hr.mb-3
           .row.justify-content-around.align-items-center.mb-1
             .col-3.col-sm-2.col-lg-1
@@ -962,8 +962,8 @@
                   p.mb-0.irr Adicionalmente, observe con atención el video “Análisis e interpretación de pantalón sudadera”, que se encuentra en el material complementario.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=wl5EjrLU-8Y&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
-                    span Descargar
-                    i.fas.fa-file-download
+                    span Ver video
+                    i.fas.fa-video
 
 </template>
 

@@ -8,17 +8,15 @@
       h1 Introducción al escalado
     
     .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
-      .col-sm-12.col-lg-10
-        .bloque-texto-g.bloque-texto-g--inverso.color-acento-contenido.prim.p-4.p-md-5.mb-5 
+      .col-lg-10.col-md-10.col-10
+        .bloque-texto-a.color-acento-contenido.primtt.p-4.p-md-5.mb-5 
           .row.m-0.align-items-center.justify-content-between
-            .col-lg-4.mb-4.mb-lg-0
-              img(src="@/assets/curso/tema4/img01.svg", alt="tema4")
             .col-lg-8
-              .bloque-texto-g__texto.p-4
-                p El escalado de tallas hace referencia al proceso que permite la adecuación del patronaje de prendas de vestir partiendo de una base a cada una de las tallas generando incremento o reducción de tamaño para un modelo determinado. El escalado es aplicado por partes, las partes o piezas separadas (moldes) que se originan en el proceso de patronaje que parte de la interpretación de un modelo o diseño, es decir, se escalan por separado las partes o piezas de una camisa, delantero, posterior, cuello, manga y puño, y demás complementos que lo compongan.
-    
-
-  
+              .bloque-texto-a__texto.p-4
+                p.my-1 El escalado de tallas hace referencia al proceso que permite la adecuación del patronaje de prendas de vestir partiendo de una base a cada una de las tallas generando incremento o reducción de tamaño para un modelo determinado. El escalado es aplicado por partes, las partes o piezas separadas (moldes) que se originan en el proceso de patronaje que parte de la interpretación de un modelo o diseño, es decir, se escalan por separado las partes o piezas de una camisa, delantero, posterior, cuello, manga y puño, y demás complementos que lo compongan.
+            .col-lg-4.mb-4.mb-lg-0
+              img(src="@/assets/curso/tema4/img01.svg", alt="tema2")
+                
 
     p.mb-5 Es indispensable tener clara la terminología que se implementa en este proceso para evitar confundirse en la aplicación de esta metodología:
 

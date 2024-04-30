@@ -102,7 +102,7 @@
 
 .tema2
   background: url('../assets/curso/tema2/tema2.png')
-  background-size: 100% 74%
+  background-size: 100% 80%
   background-repeat: no-repeat
   background-position: center 
   margin-inline: -3.4rem
@@ -165,10 +165,14 @@
 
 .bg2 
   background-image: url('../assets/curso/tema2/imagen2.png');
-
+  border-radius: 15px
 .anexo__texto
   color: black
 
+@media only screen and (max-width: 768px) 
+  .elemento 
+    background-color: transparent; 
+    background-image: none;
 .or
   color: black
 
@@ -348,9 +352,9 @@
 
 .fondo5
     background: url('../assets/curso/tema5/fondo5.svg');
-    background-size: 99% 83%;
+    background-size: 150% 100%;
     background-repeat: no-repeat;
-    background-position: top;
+    background-position: center;
     margin-inline: -3.4rem;
 
 .fondo5 .px-lg-5 
@@ -375,9 +379,9 @@
     margin-inline: -1.4rem
 
 
-.fond2
-  background: url('../assets/curso/tema5/fond2.svg')
-  background-size: 75% 80%
+.fondo22
+  background: url('../assets/curso/tema5/fondo22.svg')
+  background-size: 83% 80%
   background-repeat: no-repeat
   background-position: left-up 
   margin-inline: 0 rem
@@ -389,7 +393,10 @@
   display: none
 
 
-
+.mover
+  top: -2%
+  right: -3%
+  position: relative
 
 //tema6
 
@@ -506,3 +513,10 @@ table *
 .slyder-a__tipo-b .slyder-a__btn--sigt 
     transform: rotate(0deg);
     right: 15px;
+
+
+.bloque-texto-a.color-acento-contenido.primtt::before 
+    background-color: #DEF8F8 !important;
+    left: 58% !important;
+.bloque-texto-a.color-acento-contenido.primtt
+    background-color: #0CE6EA !important;

@@ -11,7 +11,7 @@
       .col-lg-5.mb-4.mb-md-0
         img(src='@/assets/curso/tema6/img01.png', alt="tema 6")
       .col-lg-7.mb-4.mb-md-0(data-aos="fade-right")
-        p.mb-4 A partir de la implementación del concepto básico de patrones, se estudia el desarrollo y modificación de los moldes, se analizan las distintas prendas que componen la indumentaria masculina y se crean según la forma del cuerpo, con medidas y formas correspondientes de cada cliente. En este punto, se debe considerar comprender, explicar, apropiarse y analizar los conocimientos técnicos, convenciones, procesamiento de reglas, composición de curvas y partes que se utilizarán. El análisis principal del cuerpo y la estructura son los componentes básicos de la base del desarrollo del molde.
+        p.mb-4 A partir de la implementación del concepto básico de patrones, se estudia el desarrollo y modificación de los moldes, sumado a esto se analizan las distintas prendas que componen la indumentaria masculina y se crean según la forma del cuerpo, con medidas y formas correspondientes de cada cliente. En este punto, se debe considerar comprender, explicar, apropiarse y analizar los conocimientos técnicos, convenciones, procesamiento de reglas, composición de curvas y partes que se utilizarán. Por tanto, el análisis principal del cuerpo y la estructura son los componentes básicos de la base del desarrollo del molde.
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-8
@@ -41,18 +41,18 @@
               .col-sm-8.mb-4.mb-md-0
                 .cajon.color-acento-contenido.p-4.mb-5
                   p.mb-4 Cuando se habla de la base superior, es la copia de la horma del cuerpo, partiendo del cuello hasta el largo que es ubicado entre la cintura y altura de cadera, según el propósito del diseño, dicha base será la plantilla que se adecuará para convertirse en camisa, camiseta, chaqueta, chaleco, etc.
-                p Lo primero a tener en cuenta, es el manejo de los básicos dependiendo del tipo de silueta, en este caso se sugiere trabajar el básico de silueta Slim fit. En este proceso de aprendizaje encontrará un plano de referencia e identificará sistemas de cierre y complementos. Para dar inicio al trazo, se debe trazar una línea de manera horizontal en el papel, sobre el que quedarán alineados o aplomados como línea base de construcción, en prendas superiores, la línea de aplome o línea base será la línea de profundidad de sisa.
+                p Lo primero a tener en cuenta, es el manejo de los básicos dependiendo del tipo de silueta, en este caso se sugiere trabajar el básico de silueta #[em Slim fit]. En este proceso de aprendizaje encontrará un plano de referencia e identificará sistemas de cierre y complementos. Para dar inicio al trazo, se debe trazar una línea de manera horizontal en el papel, sobre el que quedarán alineados o aplomados como línea base de construcción, en prendas superiores, la línea de aplome o línea base será la línea de profundidad de sisa.
               .col-sm-4.mb-4.mb-md-0
                 .titulo-sexto.color-acento-contenido
                   h5 Figura 16. 
                   | Base de superior masculina
                 figure
-                  img(src='@/assets/curso/tema6/img02.svg' , alt="tema 6")
+                  img(src='@/assets/curso/tema6/img02.svg' , alt="Molde parte superior masculina parte delantera y parte trasera unida por el lado estableciendo los respectivos cortes y medidas para cada diseño.")
                   figcaption.text-black Fuente: SENA, 2021
     
         .row.justify-content-center.align-items-center.mb-4 
           .col-sm-12.col-lg-6
-            p.mb-4 Tal y como se muestra en el esquema del patrón base masculino clásico (pág. 65) y el esquema del patrón base masculino Slim fit.
+            p.mb-4 Tal y como se muestra en el esquema del patrón base masculino clásico (pág. 65) y el esquema del patrón base masculino #[em Slim fit.]
             .col-lg-12.mb-4
               .fondo21.p-3.mb-2
                 .row.justify-content-around.align-items-center
@@ -76,8 +76,8 @@
                   .col
                     .row.justify-content-between.align-items-center
                       .col.mb-3.mb-sm-0          
-                        h4.mb-1 Paso a paso de la base superior masculina slim fit 
-                        p.mb-0.irr Adicionalmente, observe con atención el video “Paso a paso de la base superior masculina slim fit”, que se encuentra en el material complementario.
+                        h4.mb-1 Paso a paso de la base superior masculina #[em slim fit.] 
+                        p.mb-0.irr Adicionalmente, observe con atención el video “Paso a paso de la base superior masculina #[em slim fit]”, que se encuentra en el material complementario.
                       .col-sm-auto
                         a.boton.color-acento-botones(href="https://www.youtube.com/watch?app=desktop&v=rximz1xBJM8&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                           span Ver video
@@ -85,8 +85,8 @@
 
           .col-sm-12.col-lg-4
             .titulo-sexto.color-acento-contenido
-              h5 Figura 16. 
-              | Base de superior masculina
+              h5 Figura 17. 
+              | Base masculino Slip fil
             figure
               img(src='@/assets/curso/tema6/img02.svg', alt="tema 6")
               figcaption.text-black Fuente: SENA, 2021
@@ -101,7 +101,7 @@
       .col-lg-4
         .titulo-sexto.color-acento-contenido
           h5 Figura 18 
-          |Trasformación de base a camisa masculino Slim fit
+          |Trasformación de base a camisa masculino #[em Slim fit]
         figure
           img(src='@/assets/curso/tema6/imggg.svg', alt="tema 6")
           figcaption.mb-5.text-black Fuente: SENA, 2021
@@ -189,7 +189,7 @@
                 ul.lista-ul--color
                   li.d-flex
                     i.fas.fa-car-side 
-                    p.mb-2 Para el desarrollo de las mangas, cuellos y puños, se trabaja con las generalidades de cada uno de los trazos de las camisas Clásicas y Slim fit. La manga se compone de portañuela y otras piezas que lo complementan y está relacionada directamente con la sisa.
+                    p.mb-2 Para el desarrollo de las mangas, cuellos y puños, se trabaja con las generalidades de cada uno de los trazos de las camisas Clásicas y #[em Slim fit.] La manga se compone de portañuela y otras piezas que lo complementan y está relacionada directamente con la sisa.
                   li.d-flex
                     i.fas.fa-car-side
                     p.mb-2 Para el largo de la manga se identifican referencias o disminuciones dependiendo del comportamiento y ancho de puño.
@@ -216,14 +216,14 @@
                 i.fas.fa-video
       
       .col-sm-6.col-lg-4.mb-4.mb-lg-4
-        p Ahora veremos el paso a paso del trazo de manga, puño y cuello – de la camisa clásica y slim fit: 
+        p Ahora veremos el paso a paso del trazo de manga, puño y cuello – de la camisa clásica y #[em slim fit:] 
         .fondo21e.p-3
           .row.justify-content-center.mb-4
             .col-3.my-2
               figure
                 img.d-none.d-lg-block(src='@/assets/curso/tema6/vieo.svg', , alt="tema 6")
             h4.text-center Paso a paso del trazo de manga, puño y cuello
-            p.text-center.irr Adicionalmente, observe con atención el video “Paso a paso del trazo de manga, puño y cuello - de la camisa clásica y slim fit”, que se encuentra en el material complementario.
+            p.text-center.irr Adicionalmente, observe con atención el video “Paso a paso del trazo de manga, puño y cuello - de la camisa clásica y #[em slim fit]”, que se encuentra en el material complementario.
             .col-sm-auto.mb-5
               a.boton.color-acento-botones.my-0(href="https://www.youtube.com/watch?v=ktU9DxgPvH8&t=446s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                 span Ver video
@@ -285,7 +285,7 @@
           p.mb-4.mx-3.my-4 En este caso, el manual sugiere trabajar la base de pantalón sin margen de costura, sin embargo, se puede trabajar de cualquier manera, es decir, se puede implementar el cuadro de margen de costura, trabajado en infantil, o se puede hacer el trazo tal cual como indica el manual.
       .col-lg-6.mb-4.mb-md-0(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido
-          h5 Figura 19. 
+          h5 Figura 21. 
           | Pantalón base
         figure
           img(src='@/assets/curso/tema6/imgh.svg' , alt="tema 6")
@@ -298,14 +298,14 @@
         .row.justify-content-center
           .col-lg-7.mb-4.mb-md-0
             .h4.mb-4.mx-3 Trazo del pantalón clásico masculino 
-            p.mb-3.mx-3 Para el trazo de pantalón clásico, por medio del plano de referencia, se construye partiendo de la base inferior y se transforman aplicando desahogos, sistemas de cierre y complementos (prenses, bolsillo – boca, fondo, falso y vista de bolsillo. Bolsillo de ribete, pretina recta) para el trazo de un pantalón formal o clásico, debe tener en cuenta que cada prenda, diseño, referencia, dibujo plano, ficha técnica o imagen, tiene unas referencias específicas, las cuales van de la mano a todos los conceptos de diseño o requerimientos que se entregan para producción. 
+            p.mb-3.mx-3 Para el trazo de pantalón clásico, por medio del plano de referencia, se construye partiendo de la base inferior y se transforman aplicando desahogos, sistemas de cierre y complementos (prenses, bolsillo – boca, fondo, falso y vista de bolsillo, bolsillo de ribete, pretina recta) para el trazo de un pantalón formal o clásico, debe tener en cuenta que cada prenda, diseño, referencia, dibujo plano, ficha técnica o imagen, tiene unas referencias específicas, las cuales van de la mano a todos los conceptos de diseño o requerimientos que se entregan para producción. 
             p.mx-3 Teniendo en cuenta que el desarrollo del trazo de pantalón clásico, sale desde el básico o la base inferior de pantalón masculino, es importante tener claras las medidas y las referencias de construcción, con el fin de modificar o trabajar ajustes desde la base y no iniciar el trazo del diseño de pantalón desde cero.
             p.mx-3 Para el trazo del plano desde los básicos se debe iniciar trazando una línea de referencia, en el caso de las bases inferiores de pantalón, se traza una línea de manera horizontal en el papel, sobre la cual quedará alineados o aplomados desde la línea base de construcción, en prendas inferiores, la línea de aplome o línea base será la línea de altura de cadera o tiro.
           .col-lg-5.mb-4.mb-md-0
             .row.justify-content-center.mb-4
               .col-lg-9.mb-4.mb-lg-0
                 .titulo-sexto.color-acento-contenido
-                  h5 Figura 20. 
+                  h5 Figura 22. 
                   | Pantalón Clásico Masculino
                 figure
                   img(src='@/assets/curso/tema6/malej.svg', alt="tema 6")
@@ -342,11 +342,11 @@
                         span Ver video
                         i.fas.fa-video 
 
-      .py-3.py-md-4(titulo="Trazo de Pantalón Tipo Jean Slim Fit")
+      .py-3.py-md-4(titulo="Trazo de Pantalón Tipo Jean <em>Slim</em> Fit")
         .row.justify-content-center
           .col-lg-7.mb-4.mb-md-0
-            .h4.mb-4.mx-3 Trazo de Pantalón Tipo Jean Slim Fit 
-            p.mb-5.mx-3 Teniendo en cuenta que el desarrollo del trazo de pantalón tipo jean silueta Slim fit (ajustado), sale desde el básico o la base inferior de pantalón masculino, es importante tener claras las medidas y las referencias de construcción, con el fin de modificar o trabajar ajustes desde la base y no iniciar el trazo del diseño de pantalón desde cero. En este caso, se realizarán ajustes por anchos, contornos y gancho o extensión de tiro, tomando como referencia o punto de anclaje la línea de aplome.
+            .h4.mb-4.mx-3 Trazo de Pantalón Tipo Jean #[em Slim Fit] 
+            p.mb-5.mx-3 Teniendo en cuenta que el desarrollo del trazo de pantalón tipo jean silueta #[em Slim fit] (ajustado), sale desde el básico o la base inferior de pantalón masculino, es importante tener claras las medidas y las referencias de construcción, con el fin de modificar o trabajar ajustes desde la base y no iniciar el trazo del diseño de pantalón desde cero. En este caso, se realizarán ajustes por anchos, contornos y gancho o extensión de tiro, tomando como referencia o punto de anclaje la línea de aplome.
             .col-sm-12.col-lg-12.mx-5
               .fondo21.p-3.mb-2
                 .row.justify-content-around.align-items-center
@@ -370,8 +370,8 @@
                   .col
                     .row.justify-content-between.align-items-center
                       .col.mb-3.mb-sm-0          
-                        h4.mb-1 Trazo de pantalón tipo Jean Slim fit masculino
-                        p.mb-0.irr Adicionalmente, observe con atención el video “Trazo de pantalón tipo Jean Slim fit masculino”, que se encuentra en el material complementario.
+                        h4.mb-1 Trazo de pantalón tipo Jean #[em Slim fit] masculino
+                        p.mb-0.irr Adicionalmente, observe con atención el video “Trazo de pantalón tipo Jean #[em Slim fit] masculino”, que se encuentra en el material complementario.
                       .col-sm-auto
                         a.boton.color-acento-botones(href="https://www.youtube.com/watch?app=desktop&v=RE-fVkNZIOo&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                           span Ver video
@@ -385,8 +385,8 @@
             .row.justify-content-center.mb-4
               .col-lg-9.mb-4.mb-lg-0
                 .titulo-sexto.color-acento-contenido
-                  h5 Figura 21. 
-                  | Pantalón Clásico Masculino
+                  h5 Figura 23. 
+                  | Pantalón Tipo #[em Jean #[em Slim Fit]]
                 figure
                   img(src='@/assets/curso/tema6/maleja.svg' , alt="tema 6")
                   figcaption.text-black Fuente: SENA, 2021

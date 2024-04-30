@@ -7,7 +7,7 @@
     .row.justify-content-center(data-aos="zoom-in-up")
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/sintesis.png", alt="La síntesis describe dos aspectos principales: la capacitación del personal y el perfil técnico. En cuanto a la capacitación, se mencionan diferentes procesos, como la estructura del modelo de capacitación, que incluye diagnóstico, planes y programas de capacitación, desarrollo y evaluación. También se hace referencia a la inducción y reinducción, así como a una inducción específica para el cargo. Por otro lado, para el proceso de capacitación de los administrativos, se utiliza una planeación estratégica que aborda el proceso organizacional y las estructuras organizacionales. Además, se mencionan las competencias laborales, como las corporativas, funcionales y de gestión. También se mencionan las competencias funcionales organizacionales, como el man")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

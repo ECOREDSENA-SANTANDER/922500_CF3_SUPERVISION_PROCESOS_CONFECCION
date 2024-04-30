@@ -103,7 +103,7 @@ export default {
           {
             icono: '',
             numero: '5.1',
-            titulo: 'Trazo de falda',
+            titulo: 'Análisis de cuadros de tallas',
             hash: 't_5_1',
           },
           {
@@ -318,7 +318,7 @@ export default {
     {
       termino: 'Patronaje',
       significado:
-        'Sistema metódico enfocado en la creación de moldes para prendas de vestir sobre papel o en software en 2D.',
+        'Sistema metódico enfocado en la creación de moldes para prendas de vestir sobre papel o en <em>software</em> en 2D.',
     },
     {
       termino: 'Patronista',
@@ -408,7 +408,7 @@ export default {
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
-          nombre: 'Diego Fernando Velasco Güiza',
+          nombre: 'Pedro Alonso Bolivar Gonzalez',
           cargo: 'Desarrollo Front-End',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
