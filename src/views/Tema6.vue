@@ -292,8 +292,7 @@
           figcaption.mb-5.text-black Fuente: SENA, 2021
     
     
-    p.mb-5.mt-5
-    TabsC.color-acento-contenido.mb-5(data-aos="zoom-in-up")
+    TabsC.color-acento-botones.mb-5(data-aos="zoom-in-left")
       .py-3.py-md-4(titulo="Trazo del pantalón clásico masculino ")
         .row.justify-content-center
           .col-lg-7.mb-4.mb-md-0

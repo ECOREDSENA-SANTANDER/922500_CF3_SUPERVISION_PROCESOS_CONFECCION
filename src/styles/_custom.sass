@@ -125,9 +125,6 @@
 .cajoni
   background-color:#B3EEEF
 
-.bg1 
-  background-image: url('../assets/curso/tema1/img.svg');
-  border-radius: 15px
 
 
 .linea-tiempo-c__header__item--active .linea-tiempo-c__header__item__dot
@@ -163,23 +160,14 @@
 
 //tema2
 
-.bg2 
-  background-image: url('../assets/curso/tema2/imagen2.png');
-  border-radius: 15px
-.anexo__texto
+
   color: black
 
-@media only screen and (max-width: 768px) 
-  .elemento 
-    background-color: transparent; 
-    background-image: none;
 .or
   color: black
 
 //tema3
 
-.bg111 
-  background-image: url('../assets/curso/tema3/imagen33.png');
 
 .fondo211
   background-color: #FFE2D6 
@@ -351,7 +339,7 @@
     margin-inline: -1.4rem 
 
 .fondo5
-    background: url('../assets/curso/tema5/fondo5.svg');
+    background: url('../assets/curso/tema5/fondo5.jpg');
     background-size: 150% 100%;
     background-repeat: no-repeat;
     background-position: center;
@@ -361,7 +349,9 @@
       padding-right: 6rem !important;
       padding-left: 0rem !important;
 
-
+@media (max-width: 768px) 
+      .fondo5
+        background-image: none; 
 
 
 
@@ -389,9 +379,6 @@
     margin-inline: -1.4rem
   
       
-.fond2
-  display: none
-
 
 .mover
   top: -2%
@@ -520,3 +507,21 @@ table *
     left: 58% !important;
 .bloque-texto-a.color-acento-contenido.primtt
     background-color: #0CE6EA !important;
+
+.texto-superior
+  vertical-align: top;
+
+.fondo4
+  background: url('../assets/curso/tema4/fondo4.jpg')
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: top
+
+
+
+.bg1 
+  background-image: url('../assets/curso/tema1/img.png');
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: center 
+  border-radius: 15px;

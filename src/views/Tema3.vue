@@ -17,31 +17,30 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-sm-12.col-lg-10
         .row.justify-content-center.align-items-center
-          .col-lg-5.mb-4.mb-md-0(data-aos="fade-left")
+          .col-lg-5.mb-0.mb-md-0(data-aos="fade-left")
             img.mb-3(src='@/assets/curso/tema3/img35.png' alt="tema 3")
           .col-sm-12.col-lg-7
-            .tarjeta.tarjeta--azul.p-5.bg111
-              SlyderA(tipo="b").slider-aa-custom.mb-6(data-aos="zoom-in-left")
-                .row.justify-content-center.align-items-center
-                  .col-md-7
-                  p.mb-3 <h3> Anatomía</h3>
-                  p.mb-3  Ciencia que estudia toda estructura de los seres vivos, incluido su topografía, disposición, la relación de su cuerpo y los órganos que lo integran. 
-                .row.justify-content-center.align-items-center
-                  .col-md-7
-                  p.mb-3 <h3> Biomecánica</h3>
-                  p.mb-5 Concepto relacionado a la parte biológica, encargada de estudiar la forma de los seres vivos.
-                .row.justify-content-center.align-items-center
-                  .col-md-7
-                  p.mb-3 <h3> Morfología</h3>
-                  p.mb-5 Estudia a nivel cuantitativo las características físicas de las personas, es decir, todo lo relacionado con medidas y proporciones del cuerpo humano.
-                .row.justify-content-center.align-items-center
-                  .col-md-7
-                  p.mb-3 <h3> Ergonomía</h3>
-                  p.mb-5 Es la conjunción de disciplinas que estudian la estructura, función y movimiento del cuerpo, utiliza métodos mecánicos para determinar su fuerza y desplazamiento.
-                .row.justify-content-center.align-items-center
-                  .col-md-7
-                  p.mb-3 <h3> Antropometría</h3>
-                  p.mb-5 Disciplina que estudia las interacciones del ser humano con su entorno, reúne información que permite medir el desempeño y la optimización, buscando el bienestar de las personas a través del vestuario. 
+            SlyderA(tipo="b").bg1.p-5.mb-5.my-5
+              .row.justify-content-center.align-items-center
+                .col-md-7
+                p.mb-3 <h3> Anatomía</h3>
+                p.mb-3  Ciencia que estudia toda estructura de los seres vivos, incluido su topografía, disposición, la relación de su cuerpo y los órganos que lo integran. 
+              .row.justify-content-center.align-items-center
+                .col-md-7
+                p.mb-3 <h3> Biomecánica</h3>
+                p.mb-5 Concepto relacionado a la parte biológica, encargada de estudiar la forma de los seres vivos.
+              .row.justify-content-center.align-items-center
+                .col-md-7
+                p.mb-3 <h3> Morfología</h3>
+                p.mb-5 Estudia a nivel cuantitativo las características físicas de las personas, es decir, todo lo relacionado con medidas y proporciones del cuerpo humano.
+              .row.justify-content-center.align-items-center
+                .col-md-7
+                p.mb-3 <h3> Ergonomía</h3>
+                p.mb-5 Es la conjunción de disciplinas que estudian la estructura, función y movimiento del cuerpo, utiliza métodos mecánicos para determinar su fuerza y desplazamiento.
+              .row.justify-content-center.align-items-center
+                .col-md-7
+                p.mb-3 <h3> Antropometría</h3>
+                p.mb-5 Disciplina que estudia las interacciones del ser humano con su entorno, reúne información que permite medir el desempeño y la optimización, buscando el bienestar de las personas a través del vestuario. 
 
 
 
@@ -50,9 +49,9 @@
       .col-lg-8
         .fondo211.p-3.mb-2
           .row.justify-content-center.align-items-center
-            .col-3.col-sm-2.col-lg-2
+            .col-lg-2.col-sm-12.col-12
               img.mx-4.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema3/alert.svg", alt="tema 3")
-            .col
+            .col-lg-10.col-sm-12.col-12
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0          
                   p.my-2.mx-4 #[b División del cuerpo:] conocer el cuerpo humano es sumamente importante para traducir su estructura en medidas y patronaje de prendas, por lo que, a continuación, se podrá visualizar la división a tener en cuenta para su análisis. 
@@ -167,25 +166,7 @@
     .row.recg.align-items-center.py-4.py-md-5
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center
-    
-            .row.d-flex.justify-content-between
-              .col-lg-6.col-md-10.col-12.mt-2
-                .tarje.color-primario.my-4.he-4-cus.px-4.my-4.pt-4
-                  p.mb-3 #[b A continuación, le invitamos a revisar los aspectos a tener en cuenta al realizar el análisis del cuadro de tallas.]
-                  .row.justify-content-center.align-items-center
-                    .col-lg-12
-                      .fondo21.p-3.mb-4
-                        .row.justify-content-around.align-items-center
-                          .col-3.col-sm-2.col-lg-2
-                            img.d-none.d-lg-block(src="@/assets/curso/tema7/pdf.svg", alt="tema 3")
-                          .col
-                            .row.justify-content-center.align-items-center
-                              .col.mb-3.mb-sm-0          
-                                p.my-2 Anexo. Escalado de falda_femenino
-                              .col-sm-auto
-                                a.boton.color-acento-botones(href="/downloads/Anexo_3_Analisis_de_cuadros_de_tallas.pdf" target="_blank")
-                                  span Descargar
-                                  i.fas.fa-file-download
+
 
               .col-lg-6.col-md-10.col-12.mt-2
                 .tarje.color-primario.my-4.he-4-cus.px-4.my-4.pt-4
@@ -199,7 +180,7 @@
                           .col
                             .row.justify-content-between.align-items-center
                               .col.mb-3.mb-sm-0          
-                                p.my-2 Anexo. Escalado de falda_femenino
+                                p.my-2 video toma de medidas
                               .col-sm-auto
                                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=7tzquX5wI-4&t=2s" target="_blank")
                                   span Ver video

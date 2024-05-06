@@ -23,29 +23,28 @@
     
         p.mb-5 Se ha mencionado que se han logrado establecer metodologías y técnicas propiciando la industrialización global de los patrones, sin embargo, cada empresa, patronista, tallerista, modisto, sastre, costurero o diseñador emplean técnicas propias que consideran son necesarias para lograr una horma determinada.  Estos ajustes son evaluados por las personas encargadas, partiendo de criterios universales en patronaje o en otros casos suelen establecer un modelo de patronaje diferente, esto siempre dependerá del enfoque de la empresa, el público objetivo y el producto.
     
-        .bg2.p-4.mb-5.elemento
+        .bg1.p-5.mb-5
           LineaTiempoC 
-            .row.justify-content-center.align-items-start(titulo="Tipos de patronaje y líneas")
+            .row.justify-content-center.align-items-top(titulo="Tipos de patronaje y líneas")
               .col-lg-4.col-md-12.col-12
-                span.text-cus #[b Tipos de patronaje y líneas]
-                p.mt-4 Dentro de los tipos de patronaje encontramos dos grandes grupos: el primero es el patronaje industrializado que propicia la producción en masa de prendas. El segundo es el patronaje sobre medidas el cual es personalizado y en muchos modelos de negocio se emplea con la finalidad de brindar exclusividad a los clientes.
+                p.text-cus.mb-4 #[b Tipos de patronaje y líneas]
+                p.mb-4 Dentro de los tipos de patronaje encontramos dos grandes grupos: el primero es el patronaje industrializado que propicia la producción en masa de prendas. El segundo es el patronaje sobre medidas el cual es personalizado y en muchos modelos de negocio se emplea con la finalidad de brindar exclusividad a los clientes.
                 p A continuación, se detallan las características de cada uno de ellos.
-              .col-md-6
+              .col-lg-6.col-md-10.col-10
                 figure
-                  img.d-none.lg-block(src='@/assets/curso/tema2/2.png', alt='tema1')      
+                  img.d-none.d-lg-block(src='@/assets/curso/tema2/2.png', alt='tema1')      
               
             .row.justify-content-center.align-items-start(titulo="Patronaje industrial")
-              .col-lg-7.col-md-12.col-12.mb-4
-                span.text-cus #[b Patronaje industrial]
-                p.mb-4
+              .col-lg-7.col-md-12.col-12
+                p.text-cus #[b Patronaje industrial]
                 p.mb-5 El patronaje es un proceso meticuloso que implica un análisis antropométrico detallado, abarcando la figura humana en 3D. Este método se distingue por su precisión en cada paso, desde el levantamiento de los básicos hasta el desarrollo de los patrones y moldes, junto con sus correspondientes transformaciones. Se lleva a cabo tanto en formato 2D, en papel o mediante #[em software] especializado como Audaces 360, Optitex, Gerber, y Lectra, entre otros.
                 p Este enfoque comienza con tablas de medidas establecidas geométricamente, adaptadas al uso final de la prenda. Estas tablas permiten implementar técnicas de escalado, evitando la necesidad de crear patrones y moldes completamente nuevos para cada talla. En su lugar, se utilizan las medidas base para calcular los incrementos entre tallas y se desarrollan fórmulas para ajustar los moldes en cada punto, facilitando así la producción masiva en entornos industriales.
-              .col-md-3
+              .col-lg-3.col-md-10.col-10
                 figure
-                  img.d-none.lg-block(src='@/assets/curso/tema2/img07.png', alt='Texto alternativo Figura 2: Se exhiben 18 piezas de telas que conforman cada uno de los cortes que debe tener la tela para obtener el patrón completo para una chaqueta.')      
+                  img.d-none.d-lg-block(src='@/assets/curso/tema2/img07.png', alt='Texto alternativo Figura 2: Se exhiben 18 piezas de telas que conforman cada uno de los cortes que debe tener la tela para obtener el patrón completo para una chaqueta.')      
               
             .row.justify-content-center.align-items-center(titulo="El patronaje industrial comprende")
-              .col-lg-10.col-md-12.col-12.mb-4
+              .col-lg-10.col-md-12.col-12.mb-4.texto-superior
                 span.text-cus #[b El patronaje industrial comprende]  
                 ul.lista-ul--color.mt-4
                   li.d-flex.mb-1
@@ -67,11 +66,11 @@
                   h5 Figura 2. 
                   | Patronaje industrial de chaqueta
                 figure
-                  img(src='@/assets/curso/tema2/img08.svg', alt='Se exhiben 18 piezas de telas que conforman cada uno de los cortes que debe tener la tela para obtener el patrón completo para una chaqueta.')      
+                  img.img-a.img-t(src='@/assets/curso/tema2/img08.svg', alt='Se exhiben 18 piezas de telas que conforman cada uno de los cortes que debe tener la tela para obtener el patrón completo para una chaqueta.')      
               
             .row.justify-content-center.align-items-start(titulo="Patronaje sobre medidas")
-              .col-lg-7.col-md-12.col-12.mt-4
-                span.text-cus.mt-5 #[b Patronaje sobre medidas]
+              .col-lg-7.col-md-12.col-12.mt-4.texto-superior
+                p.text-cus.mb-5 #[b Patronaje sobre medidas]
                 p.mt-4 El patronaje también se destaca por su atención a la ergonomía y funcionalidad de las prendas. Se emplea especialmente para crear prendas completamente personalizadas para clientes exclusivos, siendo una práctica común entre marcas orientadas a un público selecto. Este proceso implica la toma de medidas antropométricas del cliente, seguida de una premuestra para ajustes preliminares antes de la confección final.
                 ul.lista-ul--color.mb-5
                   li.d-flex.mt-5
@@ -83,18 +82,17 @@
             
               .col-md-3
                 figure
-                  img.img-a.img-t.d-none.lg-block(src='@/assets/curso/tema2/img09.png', alt='tema1')      
+                  img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema2/img09.png', alt='tema1')      
                   
             .row.justify-content-center.align-items-start(titulo="El patronaje sobre medidas comprende")   
-              .col-md-10.mb-4
-                span.text-cus #[b El patronaje sobre medidas comprende]
-                p.mb-5 Las mismas etapas del patronaje industrial, la diferencia entre este radica en la exclusividad que categoriza a la prenda, ofreciendo al usuario del producto la sensación de utilizar prendas que son desarrolladas y confeccionadas específicamente para su gusto y necesidad.
-              .row.justify-content-center.align-items-center
-                .col-lg-8
-                  .titulo-sexto.color-acento-contenido
-                    h5 Figura 3. 
-                    | Patronaje sobre maniquí
-                  img(src='@/assets/curso/tema2/img06.png', alt='La imagen expone a una persona tomando medidas y haciendo ajustes de la tela sobre un maniquí, esto facilita la tarea de patronaje.')      
+              .col-lg-10.col-md-12.col-12.mb-4
+                p.text-cus #[b El patronaje sobre medidas comprende]
+                p.mt-4 Las mismas etapas del patronaje industrial, la diferencia entre este radica en la exclusividad que categoriza a la prenda, ofreciendo al usuario del producto la sensación de utilizar prendas que son desarrolladas y confeccionadas específicamente para su gusto y necesidad.
+              .col-lg-8
+                .titulo-sexto.color-acento-contenido
+                  h5 Figura 3. 
+                  | Patronaje sobre maniquí
+                img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema2/img06.png', alt='La imagen expone a una persona tomando medidas y haciendo ajustes de la tela sobre un maniquí, esto facilita la tarea de patronaje.')      
               
     
         

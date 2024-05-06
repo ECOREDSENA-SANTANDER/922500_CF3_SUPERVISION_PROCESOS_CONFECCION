@@ -20,14 +20,13 @@
 
     p.mb-5 Es indispensable tener clara la terminología que se implementa en este proceso para evitar confundirse en la aplicación de esta metodología:
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-3
       .col-sm-12.col-lg-10
         .row.justify-content-center.align-items-center
           .col-sm-12.col-lg-5.mb-4.mb-md-0(data-aos="fade-left")
             img.mb-3(src='@/assets/curso/tema3/img35.png' alt="tema 4")
           .col-sm-12.col-lg-7
-            .tarjeta.tarjeta--azul.p-4.bg111
-              SlyderA(tipo="b")
+              SlyderA(tipo="b").bg1.p-4.mb-5.my-5
                 .row.justify-content-center.align-items-center
                   h4.mb-4 Talla prototipo
                   p.mb-4 Es la talla de la cual se parte un escalado, también llamado patrón base, por ejemplo, el básico del corpiño para dama.      
@@ -76,45 +75,54 @@
               .col-sm-12.col-lg-3
                 p.mb-0
               .col-sm-12.col-lg-9.my-4
-                .kaha.p-4.mb-4 
+                .kaha.p-4.mb-4.shadow 
                   h4.color Escalado monobásico
                   p.mb-3 Se parte de tallas base para reducir o aumentar a otras tallas. Se realizan a partir de una constante de medida aplicada a toda la serie de tallas en largos y anchos, también es llamado escalado de crecimiento real y es proporcional.
+                  
                   .row
                     .col-auto
                       a.boton.color-acento-botones.indicador__container(@click="modal1 = true")
                         span Ver figura de escalado monobásico
                         .indicador--click(v-if="mostrarIndicador")
-                    .col
-                      p moment. Abandon the shelter of insecurity. Be bold. Greatness isn’t 
-                        a.lnk(@click="modal1 = true") Abrir modal 
-                        |the height of your stature, it’s the heft of your spirit.
-                .kaha.p-4.mb-4 
+                
+                  ModalA(:abrir-modal.sync="modal1")
+                    .row.justify-content-center.align-items-center
+                      .col-lg-6.col-md-10.col-10.mb-4
+                        .fondo4
+                          .titulo-sexto.color-acento-contenido
+                            h5 Figura 8
+                            | Escalado monobásico
+                          figure
+                            img.img-a.img-t(src='@/assets/curso/tema4/modal1.svg', alt='Se aplica la ampliación a largo y ancho de forma escalada y proporcional para crecimiento de talla')
+                            
+
+                .kaha.p-4.mb-4.shadow 
                   h4.color Simple o relativo/diferencial
                   p.mb-3 Es implementado cuando en los cuadros de tallas se observa que los incrementos entre tallas varían dentro de la serie, por ejemplo, no hay mayor incremento en estatura (largos totales) pero si en anchos. 
-                .kaha.p-4.mb-4 
+                
+                  .row
+                    .col-auto
+                      a.boton.color-acento-botones.indicador__container(@click="modal1 = true")
+                        span Ver figura de escalado relativo
+                        .indicador--click(v-if="mostrarIndicador")
+            
+                  
+                  ModalA(:abrir-modal.sync="modal1")
+                    .row.justify-content-center.align-items-center
+                      .col-lg-6.col-md-10.col-10.mb-4
+                        .fondo4.p-5 
+                          .titulo-sexto.color-acento-contenido
+                            h5 Figura 9 
+                            |  Simple o relativo/diferencial
+                          figure
+                            img.img-a.img-t(src='@/assets/curso/tema4/modal1.1.svg', alt='La imagen expone el aumento de talla en lo ancho y no en lo largo')
+                
+                .kaha.p-4.mb-4.shadow  
                   h4.color Escalado bibásico
                   p.mb-3 Aplicado para obtener tallas intermedias a partir del análisis de medidas de dos tallas, con este se determina la talla base y la talla limite.
-                .kaha.p-4.mb-4 
+                .kaha.p-4.mb-4.shadow 
                   h4.color Escalado tribásico
                   p.mb-3 Similar al bibásico, aquí se toman tres tallas para obtener las tallas intermedias.  Por ejemplo: se toman las tallas 10, 14 y 18´pára obtener la talla 12 y 16 que corresponden a las intermedias.
-    
-    
-    
-    ImagenInfografica.color-primario.mb-5(data-aos="zoom-in-up")
-      template(v-slot:imagen)
-        figure
-          img(src='@/assets/curso/tema4/img03.svg', alt="tema 4")
-      .tarjeta.color-primario.p-3(x="19%" y="76%")
-        .titulo-sexto.color-acento-contenido
-          h5 Figura. 
-          | Escalado monobásico
-        img(src='@/assets/curso/tema4/img04.svg' , alt="tema 4")
-      .tarjeta.color-primario.p-3(x="44%" y="76%")
-        .titulo-sexto.color-acento-contenido
-          h5 Figura. 
-          | Escalado relativo
-
-        img(src='@/assets/curso/tema4/img05.svg', alt="tema 4")
     
     Separador
     #t_4_2.titulo-segundo
@@ -159,9 +167,10 @@
 
 <script>
 export default {
-  name: 'Tema4',
+  components: {},
   data: () => ({
-    // variables de vue
+    mostrarIndicador: true,
+    modal1: false,
   }),
   mounted() {
     this.$nextTick(() => {
