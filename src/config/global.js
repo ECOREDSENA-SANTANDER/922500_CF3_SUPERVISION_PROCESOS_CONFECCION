@@ -346,15 +346,14 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Maria Camila Garcia Santamaria',
-          cargo: 'Líder del equipo',
+          nombre: 'Milady Tatiana Villamil Castellanos',
+          cargo: 'Responsable del Ecosistema',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Rafael Lizcano Reyes',
-          cargo: 'Responsable del equipo',
-          centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+          nombre: 'Claudia Johanna Gómez Pérez',
+          cargo: 'Responsable de Línea de Producción',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -362,39 +361,9 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Asesor metodológico y pedagógico',
-          centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
-        },
-        {
-          nombre: 'Paola Angélica Castro Salazar',
-          cargo: 'Experta temática',
-          centro:
-            'Regional Antioquia - Centro de Formación en Diseño, Confección y Moda',
-        },
-        {
-          nombre: 'Ledy Johana Velásquez Hernández',
-          cargo: 'Experta temática',
-          centro:
-            'Regional Antioquia - Centro de Formación en Diseño, Confección y Moda',
-        },
-        {
-          nombre: 'Liliana Victoria Morales Gualdrón',
-          cargo: 'Diseñadora instruccional',
-          centro:
-            'Regional Distrito Capital - Centro de la Industria para la Comunicación Gráfica',
-        },
-        {
-          nombre: 'Andrés Felipe Velandia Espitia',
-          cargo: 'Revisor pedagógico y metodológico',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
-        },
-        {
-          nombre: 'Jhana Johanna Bustillo Ardila',
-          cargo: 'Revisión de estilo',
-          centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+          nombre: 'Sandra Paola Morales Páez',
+          cargo: 'Evaluadora instruccional',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -402,22 +371,19 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Anllelo Andres Reina Montañez',
+          nombre: 'Edison Eduardo Mantilla Cuadros',
           cargo: 'Diseño web',
-          centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Pedro Alonso Bolivar Gonzalez',
-          cargo: 'Desarrollo Front-End',
-          centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+          cargo: 'Desarrollador Fullstack',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Yuli Marcela Gómez Tarazona ',
-          cargo: 'Validación de diseño y contenido',
-          centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+          nombre: 'Yuly Andrea Rey Quiñonez',
+          cargo: 'Diseñadora de Contenidos Digitales',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -428,6 +394,11 @@ export default {
           nombre: 'Milady Tatiana Villamil Castellanos',
           cargo: 'Validación y vinculación en plataforma LMS',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Yineth Ibette Gonzalez Quintero',
+          cargo: 'Validadora de Recursos Educativos Digitales',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
