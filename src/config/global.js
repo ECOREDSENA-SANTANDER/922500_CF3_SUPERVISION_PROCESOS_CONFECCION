@@ -353,7 +353,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo: 'Responsable de Línea de Producción',
-          centro: 'Centro Agroturístico - Regional Santander',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -361,9 +361,44 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Asesor metodológico y pedagógico',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Paola Angélica Castro Salazar',
+          cargo: 'Experta temática',
+          centro:
+            'Regional Antioquia - Centro de Formación en Diseño, Confección y Moda',
+        },
+        {
+          nombre: 'Ledy Johana Velásquez Hernández',
+          cargo: 'Experta temática',
+          centro:
+            'Regional Antioquia - Centro de Formación en Diseño, Confección y Moda',
+        },
+        {
+          nombre: 'Liliana Victoria Morales Gualdrón',
+          cargo: 'Diseñadora instruccional',
+          centro:
+            'Regional Distrito Capital - Centro de la Industria para la Comunicación Gráfica',
+        },
+        {
+          nombre: 'Andrés Felipe Velandia Espitia',
+          cargo: 'Revisor pedagógico y metodológico',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Jhana Johanna Bustillo Ardila',
+          cargo: 'Revisión de estilo',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
           nombre: 'Sandra Paola Morales Páez',
           cargo: 'Evaluadora instruccional',
-          centro: 'Centro Agroturístico - Regional Santander',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -372,18 +407,13 @@ export default {
       autores: [
         {
           nombre: 'Edison Eduardo Mantilla Cuadros',
-          cargo: 'Diseño web',
-          centro: 'Centro Agroturístico - Regional Santander',
+          cargo: 'Diseñador de Contenidos Digitales',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Pedro Alonso Bolivar Gonzalez',
           cargo: 'Desarrollador Fullstack',
-          centro: 'Centro Agroturístico - Regional Santander',
-        },
-        {
-          nombre: 'Yuly Andrea Rey Quiñonez',
-          cargo: 'Diseñadora de Contenidos Digitales',
-          centro: 'Centro Agroturístico - Regional Santander',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -391,14 +421,19 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Validación y vinculación en plataforma LMS',
-          centro: 'Regional Tolima - Centro de Comercio y Servicios',
-        },
-        {
           nombre: 'Yineth Ibette Gonzalez Quintero',
           cargo: 'Validadora de Recursos Educativos Digitales',
-          centro: 'Centro Agroturístico - Regional Santander',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+        {
+          nombre: 'Laura Paola Gelvez Manosalva',
+          cargo: 'Validadora de Recursos Educativos Digitales',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+        {
+          nombre: 'Erika Fernanda Mejía Pinzón',
+          cargo: 'Validadora de Recursos Educativos Digitales',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
