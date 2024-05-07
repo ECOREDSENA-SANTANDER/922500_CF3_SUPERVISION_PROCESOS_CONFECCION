@@ -103,15 +103,15 @@
             .fondo21.p-3.mb-2
               .row.justify-content-center.align-items-center
                 .col-3.col-sm-2.col-lg-2
-                  img.mx-4(src="@/assets/curso/tema7/pdf.svg", alt="tema 2")
+                  img.mx-4(src="@/assets/curso/tema2/video.svg", alt="tema 2")
                 .col
                   .row.justify-content-center.align-items-center
                     .col.mb-3.mb-sm-0          
-                      p.my-2.mx-4 Anexo. Universos del vestuario y ocasiones de uso
+                      p.my-2.mx-4 Gamas de mercado Universos de vestuarios - ocasiones de uso
                     .col-sm-auto
                       a.boton.color-acento-botones.mx-4(href="https://www.youtube.com/watch?v=YXT2HTjiB3Q" target="_blank")
-                        span Descargar
-                        i.fas.fa-file-download 
+                        span Ver video
+                        i.fas.fa-video 
         
         p.mb-4(data-aos="fade-right") Dentro de los procesos productivos en las empresas todo el trabajo es guiado por fichas técnicas, las cuales permiten a cada uno de los integrantes de la empresa comprender el proceso a realizar, así como las especificaciones y datos que deben ser acatados con rigurosidad. Se invita a visualizar el posterior contenido con los siguientes fines: el primero es facilitar un reconocimiento de las partes de las prendas y el segundo permitirá identificar las fichas técnicas y su estructura.
     

@@ -129,7 +129,7 @@
               .hr.mb-3
               .row.justify-content-around.align-items-center.mb-4
                 .col-3.col-sm-2.col-lg-1
-                  img.img-a.img-t(src="@/assets/curso/tema5/pdff.svg", alt="tema 5")
+                  img.img-a.img-t(src="@/assets/curso/tema2/video.svg", alt="tema 5")
                 .col
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0          
@@ -137,8 +137,8 @@
                       p.mb-0.irr Consulte el anexo Pasos para falda básica.
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=ljWlKVgj-Hw" target="_blank")
-                        span Descargar
-                        i.fas.fa-file-download
+                        span Ver video
+                        i.fas.fa-video
               .hr.mb-3
               .row.justify-content-around.align-items-center.mb-1
                 .col-3.col-sm-2.col-lg-1
@@ -150,8 +150,8 @@
                       p.mb-0.irr Adicionalmente, observe con atención el video “Base inferior falda femenino”, que se encuentra en el material complementario.
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=wl5EjrLU-8Y&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
-                        span Descargar
-                        i.fas.fa-file-download
+                        span Ver video
+                        i.fas.fa-video
     
     
     .row.justify-content-center.align-items-center
@@ -172,8 +172,8 @@
                   p.mb-0.irr Adicionalmente, observe con atención el video “Trazo de faldas rotondas”, que se encuentra en el material complementario.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
-                    span Descargar
-                    i.fas.fa-file-download
+                    span Ver video
+                    i.fas.fa-video
           .hr.mb-3
           .row.justify-content-around.align-items-center.mb-4
             .col-3.col-sm-2.col-lg-1
@@ -181,13 +181,13 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0          
-                  h4 Modificación de básicos de falda  
+                  h4 Trazo de falda y modificacion de basicos de falda 
                   p.mb-0.irr Adicionalmente, observe con atención el video “Modificación de básicos de falda”, que se encuentra en el material complementario.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?app=desktop&v=xtyPQh3vtuc&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
-                    span Descargar
-                    i.fas.fa-file-download
-          .hr.mb-3
+                    span Ver video
+                    i.fas.fa-video
+
           .row.justify-content-around.align-items-center.mb-1
             .col-3.col-sm-2.col-lg-1
               img.img-a.img-t(src="@/assets/curso/tema5/pdff.svg", alt="tema 5")
@@ -457,8 +457,8 @@
                       p.mb-0.irr.mx-4 Adicionalmente, observe con atención el video “Traslados de pinza correctiva de talles”, que se encuentra en el material complementario.
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=encNXGtE15Y" target="_blank")
-                        span Descargar
-                        i.fas.fa-file-download
+                        span Ver video
+                        i.fas.fa-video
 
     .mb-4.d-flex.mb-5
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
@@ -524,14 +524,14 @@
         .fondo21e
           .row.justify-content-center.align-items-center.mb-4
             .col-lg-11.col-md-11.col-11
-              img.img-a.img-t.mt-4(src='@/assets/curso/tema5/pdff.svg', alt="tema 5")
-              h4.text-center.mt-4 Piezas complementarias
+              img.img-a.img-t.mt-4(src='@/assets/curso/tema2/video.svg', alt="tema 5")
+              h4.text-center.mt-4 Trazo de prendas superiores - camisa
               p.mb-4.my-3 Para ampliar su conocimiento, observe los ejemplos expuestos en el documento anexo denominado “Piezas complementarias”.
               .row.justify-content-center.align-items-center
                 .col-sm-auto
-                  a.boton.color-acento-botones.my-0(href="https://www.youtube.com/watch?v=CxwJTRQh-aY" target="_blank")
-                    span Descargar
-                    i.fas.fa-file-download
+                  a.boton.color-acento-botones.my-1(href="https://www.youtube.com/watch?v=CxwJTRQh-aY" target="_blank")
+                    span Ver video
+                    i.fas.fa-video  
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-lg-10
@@ -761,7 +761,7 @@
                     p.mb-4.my-3 Adicionalmente, observe con atención el video “Interpretación de prendas de vestir”, que se encuentra en el material complementario.
                     .row.justify-content-center.align-items-center
                       .col-sm-auto
-                        a.boton.color-acento-botones.my-0(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+                        a.boton.color-acento-botones.my-1(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                           span Ver video
                           i.fas.fa-video    
                 
@@ -919,7 +919,7 @@
         .fondo21.p-3.mb-4
           .row.justify-content-around.align-items-center.mb-4
             .col-3.col-sm-2.col-lg-1
-              img.img-a.img-t(src="@/assets/curso/tema5/pdff.svg", alt="tema 5")
+              img.img-a.img-t(src="@/assets/curso/tema2/video.svg", alt="tema 5")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-2.mb-sm-0          
@@ -932,7 +932,7 @@
           .hr.mb-3
           .row.justify-content-around.align-items-center.mb-4
             .col-3.col-sm-2.col-lg-1
-              img.img-a.img-t(src="@/assets/curso/tema5/pdff.svg", alt="tema 5")
+              img.img-a.img-t(src="@/assets/curso/tema2/video.svg", alt="tema 5")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0          
@@ -945,7 +945,7 @@
           .hr.mb-3
           .row.justify-content-around.align-items-center.mb-4
             .col-3.col-sm-2.col-lg-1
-              img.img-a.img-t(src="@/assets/curso/tema5/pdff.svg", alt="tema 5")
+              img.img-a.img-t(src="@/assets/curso/tema2/video.svg", alt="tema 5")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0          
