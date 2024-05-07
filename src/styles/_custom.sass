@@ -102,7 +102,7 @@
 
 .tema2
   background: url('../assets/curso/tema2/tema2.png')
-  background-size: 100% 80%
+  background-size: 100% 87%
   background-repeat: no-repeat
   background-position: center 
   margin-inline: -3.4rem
@@ -299,8 +299,29 @@
 .fondo21e
   background-color: #0CE6EA
   border-radius: 10px
-  height: 320px 
+  height: 335px 
+  text-align: center;
+@media screen and (max-width: 600px) 
+    .boton 
+      display: block; /* Cambia a bloque para ocupar el ancho completo */
+      margin: 5px auto; 
 
+.boton 
+    display: inline-block; /* Hace que los botones estén en línea */
+    margin: 5px; /* Espacio entre los botones */
+    padding: 10px 20px; /* Espacio dentro de los botones */
+    background-color: #007bff; /* Color de fondo */
+    color: #fff; /* Color de texto */
+    text-decoration: none; /* Quita la subrayado del texto */
+    border: none; /* Quita el borde del botón */
+    border-radius: 5px; /* Borde redondeado */
+    font-size: 16px; 
+
+.boton
+    text-align: center;
+
+
+    
 .tarjett
   background-color: #B3EEEF
   border-radius: 12px
@@ -330,10 +351,10 @@
 
 
 .fonfu
-  background: url('../assets/curso/tema5/fonfu.svg')
+  background: url('../assets/curso/tema5/fonfu.png')
   background-size: 100% 100%
   background-repeat: no-repeat
-  background-position: top
+  background-position: center
   margin-inline: -3.4rem
   @media screen and (max-width: 992px)
     margin-inline: -1.4rem 
@@ -344,14 +365,9 @@
     background-repeat: no-repeat;
     background-position: center;
     margin-inline: -3.4rem;
+    @media screen and (max-width: 992px)
+      margin-inline: -1.4rem 
 
-.fondo5 .px-lg-5 
-      padding-right: 6rem !important;
-      padding-left: 0rem !important;
-
-@media (max-width: 768px) 
-      .fondo5
-        background-image: none; 
 
 
 
@@ -405,18 +421,6 @@ table *
 .ori
   color: #9F0925
 
-
-.tabs-c.color-acento-contenido .tabs-c__tab--active 
-    background: #fff !important;
-
-.tabs-c.color-acento-contenido .tabs-c__tab--active 
-    border-bottom-color: #0915f0 !important;
-
-.tabs-c__tab--active 
-    border-bottom: 7px solid !important;
-
-.tabs-c.color-acento-contenido .tabs-c__tab--active:before 
-    border-top-color: #1718db;
 
 .py-3
   background-color: #F5E6E9

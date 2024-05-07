@@ -7,17 +7,17 @@
         span 3
       h1 Estructura corporal y cuadro de tallas
 
-    .row.mb-5
+    .row.justify-content-center.mb-5
       .col-lg-7.mb-4.mb-md-0
         p.mb-4 El vestuario está diseñado para dar cobertura al cuerpo, es por ello, que analizar el cuerpo en torno a su estructura y movimiento es de suma importancia para comprender a en qué se fundamenta el patronaje y las diferentes metodologías utilizadas para su realización. Para el desarrollo de prendas de vestir sobre medidas se hace aún más taxativo comprenderlo pues en el desempeño dentro del sector industrial, se tendrá la necesidad de enfrentarse a diversas siluetas que necesitan ser analizadas dentro de la metodología y el paso a paso que se determina para la elaboración de un patrón.
         p Teniendo en cuenta lo anterior, se hará un recorrido para lograr entender el cuerpo y su estructura, a partir de los siguientes conceptos en relación con la estructura corporal: 
-      .col-lg-5.mb-4.mb-md-0(data-aos="fade-left")
+      .col-lg-5.col-md-10.col-10(data-aos="fade-left")
         img(src='@/assets/curso/tema3/img01.png' alt="tema 3")
     
     .row.justify-content-center.align-items-center.mb-5
       .col-sm-12.col-lg-10
         .row.justify-content-center.align-items-center
-          .col-lg-5.mb-0.mb-md-0(data-aos="fade-left")
+          .col-lg-5.col-md-10.col-10.mb-0.mb-md-0(data-aos="fade-left")
             img.mb-3(src='@/assets/curso/tema3/img35.png' alt="tema 3")
           .col-sm-12.col-lg-7
             SlyderA(tipo="b").bg1.p-5.mb-5.my-5
@@ -150,12 +150,12 @@
     #t_3_2.titulo-segundo
       .h2 3.2 Análisis de medidas y cuadros de tallas
     
-    .row.justify-content-center.mb-4(data-aos="flip-up")
+    .row.justify-content-center.mb-4
       p Los cuadros de tallas y medidas son usados dentro del sector para contar fácilmente con la información estandarizada de las tallas de un país o región, las cuales estarán determinadas de acuerdo a estudios antropométricos, dado que las condiciones geográficas (como el clima y la cultura, entre otras) hacen que la anatomía y estructura corporal puedan diferir.
 
     .row.justify-content-center.mb-5
       .col-lg-7
-        .titulo-sexto.color-acento-contenido(data-aos="zoom-in-down")
+        .titulo-sexto.color-acento-contenido
           h5 Figura 6. 
           | Medidas figura humana
         figure(data-aos="zoom-in-up")
@@ -176,7 +176,7 @@
                       .fondo21.p-3.mb-4
                         .row.justify-content-center.align-items-center
                           .col-3.col-sm-2.col-lg-2
-                            img.d-none.d-lg-block(src="@/assets/curso/tema7/video.svg", alt="tema 3")
+                            img(src="@/assets/curso/tema7/video.svg", alt="tema 3")
                           .col
                             .row.justify-content-between.align-items-center
                               .col.mb-3.mb-sm-0          

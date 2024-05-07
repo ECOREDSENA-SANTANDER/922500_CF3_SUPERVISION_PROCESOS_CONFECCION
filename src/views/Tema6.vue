@@ -7,22 +7,20 @@
         span 6
       h1  Patronaje masculino
     
-    .row.align-items-center.mb-5
-      .col-lg-5.mb-4.mb-md-0
-        img(src='@/assets/curso/tema6/img01.png', alt="tema 6")
+    .row.justify-content-center.align-items-center.mb-4
+      .col-lg-5.col-md-8.col-8.mb-4.mb-md-0
+        img.mb-4(src='@/assets/curso/tema6/img01.png', alt="tema 6")
       .col-lg-7.mb-4.mb-md-0(data-aos="fade-right")
-        p.mb-4 A partir de la implementación del concepto básico de patrones, se estudia el desarrollo y modificación de los moldes, sumado a esto se analizan las distintas prendas que componen la indumentaria masculina y se crean según la forma del cuerpo, con medidas y formas correspondientes de cada cliente. En este punto, se debe considerar comprender, explicar, apropiarse y analizar los conocimientos técnicos, convenciones, procesamiento de reglas, composición de curvas y partes que se utilizarán. Por tanto, el análisis principal del cuerpo y la estructura son los componentes básicos de la base del desarrollo del molde.
+        p.mb-2 A partir de la implementación del concepto básico de patrones, se estudia el desarrollo y modificación de los moldes, sumado a esto se analizan las distintas prendas que componen la indumentaria masculina y se crean según la forma del cuerpo, con medidas y formas correspondientes de cada cliente. En este punto, se debe considerar comprender, explicar, apropiarse y analizar los conocimientos técnicos, convenciones, procesamiento de reglas, composición de curvas y partes que se utilizarán. Por tanto, el análisis principal del cuerpo y la estructura son los componentes básicos de la base del desarrollo del molde.
     
-    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
-      .col-sm-12.col-lg-8
+    .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-left")
+      .col-lg-8.col-md-12.col-12
         .fondo211.p-3.mb-2
           .row.justify-content-center.align-items-center
-            .col-3.col-sm-2.col-lg-2
+            .col-lg-2
               img.mx-4.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema6/alert.svg", alt="tema 6")
-            .col
-              .row.justify-content-center.align-items-center
-                .col.mb-3.mb-sm-0          
-                  p.my-2.mx-4 #[b Tener en cuenta:] al desarrollar el modelo o diseño se realiza a partir de la unidad de medida en centímetros, pero si se toma de guía el del manual, se encontrará que está en pulgadas la tabla, se recomienda realizar la conversión para facilitar el procesamiento de líneas.
+            .col-lg-10.col-md-12.col-12         
+              p.my-2 #[b Tener en cuenta:] al desarrollar el modelo o diseño se realiza a partir de la unidad de medida en centímetros, pero si se toma de guía el del manual, se encontrará que está en pulgadas la tabla, se recomienda realizar la conversión para facilitar el procesamiento de líneas.
     
     p.mb-4(data-aos="fade-left") Para la implementación y modificación de básicos es importante tener claridad en cada uno de los conceptos de patronaje como, medidas, pasos, elementos y vocabulario técnico que se irá implementando en el desarrollo de los trazos, moldes o planos. En este punto, para la implementación de los básicos se debe tomar como referencia los pasos del patronaje, sobre la metodología utilizada por el SENA.
 
@@ -30,19 +28,19 @@
     #t_6_1.titulo-segundo
       .h2 6.1 Patrón base de camisa
     
-    .row.liz.align-items-center.py-4
+    .row.liz.justify-content-center.align-items-center.py-4
       .col-lg-12.col-12.px-lg-5.px-4
-        .row.justify-content-center.mb-4(data-aos="fade-down")
+        .row.justify-content-center.mb-0(data-aos="fade-down")
     
     
         .row.justify-content-center.align-items-center.mb-5 
-          .col-lg-10.col-md-10.col-12
-            .row.align-items-center.mb-5
-              .col-sm-8.mb-4.mb-md-0
+          .col-lg-10.col-md-12.col-12
+            .row.justify-content-center
+              .col-lg-7.col-md-12.col-12
                 .cajon.color-acento-contenido.p-4.mb-5
-                  p.mb-4 Cuando se habla de la base superior, es la copia de la horma del cuerpo, partiendo del cuello hasta el largo que es ubicado entre la cintura y altura de cadera, según el propósito del diseño, dicha base será la plantilla que se adecuará para convertirse en camisa, camiseta, chaqueta, chaleco, etc.
-                p Lo primero a tener en cuenta, es el manejo de los básicos dependiendo del tipo de silueta, en este caso se sugiere trabajar el básico de silueta #[em Slim fit]. En este proceso de aprendizaje encontrará un plano de referencia e identificará sistemas de cierre y complementos. Para dar inicio al trazo, se debe trazar una línea de manera horizontal en el papel, sobre el que quedarán alineados o aplomados como línea base de construcción, en prendas superiores, la línea de aplome o línea base será la línea de profundidad de sisa.
-              .col-sm-4.mb-4.mb-md-0
+                  p.mb-5 Cuando se habla de la base superior, es la copia de la horma del cuerpo, partiendo del cuello hasta el largo que es ubicado entre la cintura y altura de cadera, según el propósito del diseño, dicha base será la plantilla que se adecuará para convertirse en camisa, camiseta, chaqueta, chaleco, etc.
+                p.mb-4 Lo primero a tener en cuenta, es el manejo de los básicos dependiendo del tipo de silueta, en este caso se sugiere trabajar el básico de silueta #[em Slim fit]. En este proceso de aprendizaje encontrará un plano de referencia e identificará sistemas de cierre y complementos. Para dar inicio al trazo, se debe trazar una línea de manera horizontal en el papel, sobre el que quedarán alineados o aplomados como línea base de construcción, en prendas superiores, la línea de aplome o línea base será la línea de profundidad de sisa.
+              .col-lg-5.col-md-12.col-12
                 .titulo-sexto.color-acento-contenido
                   h5 Figura 16. 
                   | Base de superior masculina
@@ -57,7 +55,7 @@
               .fondo21.p-3.mb-2
                 .row.justify-content-around.align-items-center
                   .col-3.col-sm-2.col-lg-2
-                    img.d-none.d-lg-block(src="@/assets/curso/tema6/pfd.svg")
+                    img(src="@/assets/curso/tema6/pfd.svg")
                   .col
                     .row.justify-content-between.align-items-center
                       .col.mb-3.mb-sm-0          
@@ -69,10 +67,10 @@
                           i.fas.fa-file-download 
             p.mb-4 Para complementar observemos el video:
             .col-lg-12
-              .fondo21.p-3.mb-2
+              .fondo21.p-3.mb-5
                 .row.justify-content-around.align-items-center
                   .col-3.col-sm-2.col-lg-2
-                    img.d-none.d-lg-block(src="@/assets/curso/tema6/vieo.svg", alt="tema 6")
+                    img(src="@/assets/curso/tema6/vieo.svg", alt="tema 6")
                   .col
                     .row.justify-content-between.align-items-center
                       .col.mb-3.mb-sm-0          
@@ -83,7 +81,7 @@
                           span Ver video
                           i.fas.fa-video 
 
-          .col-sm-12.col-lg-4
+          .col-sm-12.col-lg-4.mb-5
             .titulo-sexto.color-acento-contenido
               h5 Figura 17. 
               | Base masculino Slip fil
@@ -97,7 +95,7 @@
     
     p.mb-4 Partiendo del patrón base superior masculino, se pueden aplicar modificaciones como amplitudes, cortes y largos que generan el nacimiento de otros moldes básicos, y a través de la interpretación desde el diseño, se obtienen las prendas masculinas en tipologías superiores.
     
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-4
       .col-lg-4
         .titulo-sexto.color-acento-contenido
           h5 Figura 18 
@@ -105,8 +103,8 @@
         figure
           img(src='@/assets/curso/tema6/imggg.svg', alt="tema 6")
           figcaption.mb-5.text-black Fuente: SENA, 2021
-      .col-lg-4
-        img.my-5(src='@/assets/curso/tema6/immm.png' , alt="tema 6")
+      .col-lg-4.col-md-10.col-10
+        img.img-a.img-t.my-5(src='@/assets/curso/tema6/immm.png' , alt="tema 6")
 
         
     .mb-4.d-flex.mb-5
@@ -168,23 +166,21 @@
                         span Ver video
                         i.fas.fa-video
         
+        
         .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
-          .col-sm-12.col-lg-10
+          .col-lg-10.col-md-12.col-12
             .fondo211.p-3.mb-2
               .row.justify-content-center.align-items-center
-                .col-3.col-sm-2.col-lg-2
+                .col-lg-2
                   img.mx-4.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema6/alert.svg", alt="tema 6")
-                .col
-                  .row.justify-content-between.align-items-center
-                    .col.mb-3.mb-sm-0          
-                      p.my-2.mx-4 #[b Tener en cuenta:] recuerde siempre que en este contenido se trabaja sobre un ejemplo, en la aplicación de estos conocimientos a nivel industrial será indispensable aplicar los requerimientos del diseño indicados en la documentación y en la ficha técnica de cada prenda.
-    
+                .col-lg-10.col-md-12.col-12         
+                  p.my-2 #[b Tener en cuenta:] recuerde siempre que en este contenido se trabaja sobre un ejemplo, en la aplicación de estos conocimientos a nivel industrial será indispensable aplicar los requerimientos del diseño indicados en la documentación y en la ficha técnica de cada prenda.
     
         .row.justify-content-center.mb-4
           .col-sm-12.col-lg-10
-            .row 
-              .col-lg-5 
-                img.img-a.img-t(src="@/assets/curso/tema6/1130.png", alt="tema 6")
+            .row.justify-content-center
+              .col-lg-5.col-md-10.col-10 
+                img.img-a.img-t.mb-4(src="@/assets/curso/tema6/1130.png", alt="tema 6")
               .col-lg-7     
                 ul.lista-ul--color
                   li.d-flex
@@ -200,34 +196,34 @@
                     i.fas.fa-car-side
                     p.mb-2 Para el trazo de cuellos, se debe tener siempre la referencia del tipo de cuello, medidas de cada uno de los escotes y el plano de la prenda con la que se va trabajar.
     
-    .row.justify-content-center.items-align-center.mb-5
-      .col-sm-6.col-lg-4.mb-4.mb-lg-4
+    .row.justify-content-center.align-items-center.mb-4
+      .col-lg-4.col-md-8.col-12.mb-4
         p En el siguiente video se muestra el paso a paso del trazo de cuellos – generalidades y comportamientos:
-        .fondo21e.p-4
-          .row.justify-content-center.mb-4
-            .col-3.my-2
-              figure
-                img.d-none.d-lg-block(src='@/assets/curso/tema6/vieo.svg', , alt="tema 6")
-            h4.text-center Paso a paso del trazo de cuellos 
-            p.text-center.irr Adicionalmente, observe con atención el video “Paso a paso del trazo de cuellos - generalidades y comportamientos”, que se encuentra en el material complementario.
-            .col-sm-auto.mb-5
-              a.boton.color-acento-botones.my-3(href="https://www.youtube.com/watch?v=agDscYys1CY&t=105s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
-                span Ver video
-                i.fas.fa-video
-      
-      .col-sm-6.col-lg-4.mb-4.mb-lg-4
+        .fondo21e
+          .row.justify-content-center.align-items-center.mb-4
+            .col-lg-11.col-md-11.col-12
+              img.img-a.img-t.mt-4(src='@/assets/curso/tema6/vieo.svg', alt="tema 5")
+              h4.text-center.mt-4 Paso a paso del trazo de cuellos 
+              p.mb-3.my-4 Adicionalmente, observe con atención el video “Paso a paso del trazo de cuellos - generalidades y comportamientos”, que se encuentra en el material complementario.
+              .row.justify-content-center.align-items-center
+                .col-sm-auto
+                  a.boton.color-acento-botones.my-2(href="https://www.youtube.com/watch?v=agDscYys1CY&t=105s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+                    span Ver video
+                    i.fas.fa-video
+
+      .col-lg-4.col-md-8.col-12.mb-4
         p Ahora veremos el paso a paso del trazo de manga, puño y cuello – de la camisa clásica y #[em slim fit:] 
-        .fondo21e.p-3
-          .row.justify-content-center.mb-4
-            .col-3.my-2
-              figure
-                img.d-none.d-lg-block(src='@/assets/curso/tema6/vieo.svg', , alt="tema 6")
-            h4.text-center Paso a paso del trazo de manga, puño y cuello
-            p.text-center.irr Adicionalmente, observe con atención el video “Paso a paso del trazo de manga, puño y cuello - de la camisa clásica y #[em slim fit]”, que se encuentra en el material complementario.
-            .col-sm-auto.mb-5
-              a.boton.color-acento-botones.my-0(href="https://www.youtube.com/watch?v=ktU9DxgPvH8&t=446s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
-                span Ver video
-                i.fas.fa-video
+        .fondo21e
+          .row.justify-content-center.align-items-center.mb-4
+            .col-lg-11.col-md-11.col-12
+              img.img-a.img-t.mt-4(src='@/assets/curso/tema6/vieo.svg', alt="tema 5")
+              h4.text-center.mt-3  Paso a paso del trazo de manga, puño y cuello
+              p.mb-3.my-2 Adicionalmente, observe con atención el video “Paso a paso del trazo de manga, puño y cuello - de la camisa clásica y #[em slim fit]”, que se encuentra en el material complementario.
+              .row.justify-content-center.align-items-center
+                .col-sm-auto
+                  a.boton.color-acento-botones.my-1(href="https://www.youtube.com/watch?v=ktU9DxgPvH8&t=446s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+                    span Ver video
+                    i.fas.fa-video
     
     .row.justify-content-center.items-align-center.mb-5
       .col-sm-12.col-lg-4
@@ -246,7 +242,7 @@
     p.mb-5 Para iniciar el trazo de la base inferior de pantalón masculino, se debe tomar las siguientes medidas:
 
     .row.justify-content-center.mb-5
-      .col-sm-12.col-lg-4
+      .col-md-10.col-lg-4.col-10
         img.img-a.img-t.mb-4(src='@/assets/curso/tema6/6.5.png', alt="tema 6")
       .col-lg-8.mb-4.mb-md-0(data-aos="zoom-in-up")
         .tabla-a.color-acento-contenido.mb-5.my-4 
@@ -269,7 +265,7 @@
                 td.text-center Tipo de papel sugerido
                 td.text-center Cartón cartulina o cartulina
     
-    .row.align-items-center.mb-5
+    .row.align-items-center.mb-3
       .col-lg-6.mb-4.mb-md-0(data-aos="fade-right")
         p.mb-4 El trazo de la base de pantalón no cumple con las mismas referencias de los básicos anteriormente trazados, para poder hacer el trazo de pantalón en cualquier línea es necesario tener en cuenta el funcionamiento y las características:
         ul.lista-ul--color
@@ -283,32 +279,30 @@
             | La base de pantalón en masculina, sale sin margen de costura.
         .cajon.color-acento-contenido.p-4.mb-5
           p.mb-4.mx-3.my-4 En este caso, el manual sugiere trabajar la base de pantalón sin margen de costura, sin embargo, se puede trabajar de cualquier manera, es decir, se puede implementar el cuadro de margen de costura, trabajado en infantil, o se puede hacer el trazo tal cual como indica el manual.
-      .col-lg-6.mb-4.mb-md-0(data-aos="fade-left")
+      .col-lg-6(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido
           h5 Figura 21. 
           | Pantalón base
         figure
           img(src='@/assets/curso/tema6/imgh.svg' , alt="tema 6")
           figcaption.mb-5.text-black Fuente: SENA, 2021
-    
+
     
     TabsC.color-acento-botones.mb-5(data-aos="zoom-in-left")
-      .py-3.py-md-4(titulo="Trazo del pantalón clásico masculino ")
-        .row.justify-content-center
-          .col-lg-7.mb-4.mb-md-0
+      .py-3.py-md-4.bg26.px-3(titulo="Trazo del pantalón clásico masculino ")
+        .row.align-items-center.justify-content-center
+          .col-lg-7.col-md-12.col-12
             .h4.mb-4.mx-3 Trazo del pantalón clásico masculino 
             p.mb-3.mx-3 Para el trazo de pantalón clásico, por medio del plano de referencia, se construye partiendo de la base inferior y se transforman aplicando desahogos, sistemas de cierre y complementos (prenses, bolsillo – boca, fondo, falso y vista de bolsillo, bolsillo de ribete, pretina recta) para el trazo de un pantalón formal o clásico, debe tener en cuenta que cada prenda, diseño, referencia, dibujo plano, ficha técnica o imagen, tiene unas referencias específicas, las cuales van de la mano a todos los conceptos de diseño o requerimientos que se entregan para producción. 
             p.mx-3 Teniendo en cuenta que el desarrollo del trazo de pantalón clásico, sale desde el básico o la base inferior de pantalón masculino, es importante tener claras las medidas y las referencias de construcción, con el fin de modificar o trabajar ajustes desde la base y no iniciar el trazo del diseño de pantalón desde cero.
             p.mx-3 Para el trazo del plano desde los básicos se debe iniciar trazando una línea de referencia, en el caso de las bases inferiores de pantalón, se traza una línea de manera horizontal en el papel, sobre la cual quedará alineados o aplomados desde la línea base de construcción, en prendas inferiores, la línea de aplome o línea base será la línea de altura de cadera o tiro.
-          .col-lg-5.mb-4.mb-md-0
-            .row.justify-content-center.mb-4
-              .col-lg-9.mb-4.mb-lg-0
-                .titulo-sexto.color-acento-contenido
-                  h5 Figura 22. 
-                  | Pantalón Clásico Masculino
-                figure
-                  img(src='@/assets/curso/tema6/malej.svg', alt="tema 6")
-                  figcaption.text-black Fuente: SENA, 2021
+          .col-lg-4.col-md-7
+            .titulo-sexto.color-acento-contenido
+              h5 Figura 22. 
+              | Pantalón Clásico Masculino
+            figure
+              img.img-a.img-t(src='@/assets/curso/tema6/malej.svg', alt="tema 6")
+              figcaption.text-black.mb-5 Fuente: SENA, 2021
                   
         .row.justify-content-center.align-items-center.mb-5 
           .col-sm-12.col-lg-8
@@ -341,16 +335,16 @@
                         span Ver video
                         i.fas.fa-video 
 
-      .py-3.py-md-4(titulo="Trazo de Pantalón Tipo Jean <em>Slim</em> Fit")
-        .row.justify-content-center
-          .col-lg-7.mb-4.mb-md-0
+      .py-3.py-md-4.bg26.px-3(titulo="Trazo de Pantalón Tipo <em>Jean Slim Fit</em>")
+        .row.align-items-center.justify-content-center
+          .col-lg-7.col-md-12.my-3
             .h4.mb-4.mx-3 Trazo de Pantalón Tipo Jean #[em Slim Fit] 
             p.mb-5.mx-3 Teniendo en cuenta que el desarrollo del trazo de pantalón tipo jean silueta #[em Slim fit] (ajustado), sale desde el básico o la base inferior de pantalón masculino, es importante tener claras las medidas y las referencias de construcción, con el fin de modificar o trabajar ajustes desde la base y no iniciar el trazo del diseño de pantalón desde cero. En este caso, se realizarán ajustes por anchos, contornos y gancho o extensión de tiro, tomando como referencia o punto de anclaje la línea de aplome.
-            .col-sm-12.col-lg-12.mx-5
+            .col-sm-12.col-lg-12
               .fondo21.p-3.mb-2
-                .row.justify-content-around.align-items-center
+                .row.justify-content-center.align-items-center
                   .col-sm-12.col-lg-2
-                    img.img-a.img-t(src="@/assets/curso/tema6/pfd.svg", alt="tema 6")
+                    img.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema6/pfd.svg", alt="tema 6")
                   .col
                     .row.justify-content-between.align-items-center
                       .col.mb-3.mb-sm-0          
@@ -361,13 +355,13 @@
                           span Descargar
                           i.fas.fa-file-download 
             p.mb-5 
-            .col-sm-12.col-lg-12.mx-5
+            .col-sm-12.col-lg-12
               .fondo21.p-3.mb-2
-                .row.justify-content-around.align-items-center
+                .row.justify-content-center.align-items-center
                   .col-sm-12.col-lg-2
-                    img.img-a.img-t(src="@/assets/curso/tema6/vieo.svg", alt="tema 6")
+                    img.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema6/vieo.svg", alt="tema 6")
                   .col
-                    .row.justify-content-between.align-items-center
+                    .row.justify-content-center.align-items-center
                       .col.mb-3.mb-sm-0          
                         h4.mb-1 Trazo de pantalón tipo Jean #[em Slim fit] masculino
                         p.mb-0.irr Adicionalmente, observe con atención el video “Trazo de pantalón tipo Jean #[em Slim fit] masculino”, que se encuentra en el material complementario.
@@ -375,20 +369,14 @@
                         a.boton.color-acento-botones(href="https://www.youtube.com/watch?app=desktop&v=RE-fVkNZIOo&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                           span Ver video
                           i.fas.fa-video 
-          
-          
-          
-          
-          
-          .col-lg-5.mb-4.mb-md-0
-            .row.justify-content-center.mb-4
-              .col-lg-9.mb-4.mb-lg-0
-                .titulo-sexto.color-acento-contenido
-                  h5 Figura 23. 
-                  | Pantalón Tipo #[em Jean #[em Slim Fit]]
-                figure
-                  img(src='@/assets/curso/tema6/maleja.svg' , alt="tema 6")
-                  figcaption.text-black Fuente: SENA, 2021
+
+          .col-lg-4.col-md-7.col-10
+            .titulo-sexto.color-acento-contenido
+              h5 Figura 23. 
+              | Pantalón Tipo #[em Jean #[em Slim Fit]]
+            figure
+              img.img-a.img-t(src='@/assets/curso/tema6/maleja.svg' , alt="tema 6")
+              figcaption.text-black Fuente: SENA, 2021
 
         
 

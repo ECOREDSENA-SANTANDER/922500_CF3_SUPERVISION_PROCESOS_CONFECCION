@@ -9,7 +9,7 @@
       h1 Introducción
     
     .row.justify-content-center.align-items-center.mt-5
-      .col-lg-5
+      .col-lg-5.mb-4
         img.img-t.img-a.my-2(src='@/assets/curso/introduccion/img01.svg', alt='Introducción') 
       .col-lg-7
         p.mb-4 Dentro de los procesos que se llevan a cabo en la industria de la producción de prendas, 

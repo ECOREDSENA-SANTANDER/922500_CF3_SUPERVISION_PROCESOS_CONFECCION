@@ -17,7 +17,7 @@
             .cajon.color-acento-contenido.p-4.mb-5
               p A lo largo de la historia, el ser humano se ha vestido para suplir una necesidad básica, la cual reside en poder cubrirse con textiles que permitan su protección, por ejemplo, vestirse para cubrirse del frío y cubrirse para evitar quemaduras del sol por altas temperaturas. Antiguamente, se pueden observar en figuras rupestres, papiros y dibujos, cómo el ser humano, más que una prenda elaborada, usaba amplias telas que permitieran su cubrimiento, como lo eran los persas, griegos, romanos, egipcios entre otros, lo que más predominaba, eran amarrados que pudieran sostenerse en el cuerpo.
           
-      .col-sm-12.col-lg-4
+      .col-sm-12.col-lg-4.mb-4
         .titulo-sexto.color-acento-contenido
           h5 Figura 1. 
           | Matriz DOFA

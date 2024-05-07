@@ -7,9 +7,9 @@
         span 7
       h1  Escalado manual de prendas
     
-    .row.align-items.mb-4
-      .col-lg-5.mb-4.mb-md-0(data-aos="fade-left")
-        img(src='@/assets/curso/tema7/img01.png' , alt="tema 7")
+    .row.justify-content-center.mb-4
+      .col-lg-5.col-md-10.col-10(data-aos="fade-left")
+        img.mb-4(src='@/assets/curso/tema7/img01.png' , alt="tema 7")
       
       .col-lg-7.mb-4.mb-md-0(data-aos="fade-right")
         p.mb-4 Cuando se inicia con el proceso de escalado, se debe tener en cuenta referencias como cuadros de tallas, metodología y lógica de construcción, pieza o molde que se va escalar, es decir, en este caso se hace referencia a una base inferior de falda, quiere decir un molde que no tiene margen de costura, ni es una prenda, se trabajará el escalado de una base en las diferentes tallas, de igual manera se debe tener en cuenta el tipo de escalado que se va a trabajar, los aumentos y disminuciones por talla.
@@ -47,7 +47,7 @@
                       .fondo21.p-3.mb-2
                         .row.justify-content-around.align-items-center
                           .col-3.col-sm-2.col-lg-2
-                            img.d-none.d-lg-block(src="@/assets/curso/tema7/pdf.svg", alt="tema 7")
+                            img(src="@/assets/curso/tema7/pdf.svg", alt="tema 7")
                           .col
                             .row.justify-content-between.align-items-center
                               .col.mb-4.mb-sm-0          
@@ -62,7 +62,7 @@
                       .fondo21.p-3.mb-2
                         .row.justify-content-center.align-items-center
                           .col-3.col-sm-2.col-lg-2
-                            img.d-none.d-lg-block(src="@/assets/curso/tema7/pdf.svg", alt="tema 7")
+                            img(src="@/assets/curso/tema7/pdf.svg", alt="tema 7")
                           .col
                             .row.justify-content-center.align-items-center
                               .col.mb-4.mb-sm-0        
@@ -76,7 +76,7 @@
                       .fondo21.p-3.mb-2
                         .row.justify-content-around.align-items-center
                           .col-3.col-sm-2.col-lg-2
-                            img.d-none.d-lg-block(src="@/assets/curso/tema7/pdf.svg", alt="tema 7")
+                            img(src="@/assets/curso/tema7/pdf.svg", alt="tema 7")
                           .col
                             .row.justify-content-between.align-items-center
                               .col.mb-3.mb-sm-0          
@@ -90,7 +90,7 @@
                       .fondo21.p-3.mb-2
                         .row.justify-content-around.align-items-center
                           .col-3.col-sm-2.col-lg-2
-                            img.d-none.d-lg-block(src="@/assets/curso/tema7/pdf.svg", alt="tema 7")
+                            img(src="@/assets/curso/tema7/pdf.svg", alt="tema 7")
                           .col
                             .row.justify-content-between.align-items-center
                               .col.mb-3.mb-sm-0          
@@ -104,7 +104,7 @@
                       .fondo21.p-3.mb-2
                         .row.justify-content-around.align-items-center
                           .col-3.col-sm-2.col-lg-2
-                            img.d-none.d-lg-block(src="@/assets/curso/tema7/pdf.svg", alt="tema 7")
+                            img(src="@/assets/curso/tema7/pdf.svg", alt="tema 7")
                           .col
                             .row.justify-content-between.align-items-center
                               .col.mb-3.mb-sm-0          
@@ -122,7 +122,7 @@
                       .fondo21.p-3.mb-2
                         .row.justify-content-around.align-items-center
                           .col-3.col-sm-2.col-lg-2
-                            img.d-none.d-lg-block(src="@/assets/curso/tema7/video.svg", alt="tema 7")
+                            img(src="@/assets/curso/tema7/video.svg", alt="tema 7")
                           .col
                             .row.justify-content-between.align-items-center
                               .col.mb-3.mb-sm-0          
@@ -137,7 +137,7 @@
                       .fondo21.p-3.mb-2
                         .row.justify-content-around.align-items-center
                           .col-3.col-sm-2.col-lg-2
-                            img.d-none.d-lg-block(src="@/assets/curso/tema7/video.svg", alt="tema 7")
+                            img(src="@/assets/curso/tema7/video.svg", alt="tema 7")
                           .col
                             .row.justify-content-between.align-items-center
                               .col.mb-3.mb-sm-0          
@@ -152,7 +152,7 @@
                       .fondo21.p-3.mb-2
                         .row.justify-content-around.align-items-center
                           .col-3.col-sm-2.col-lg-2
-                            img.d-none.d-lg-block(src="@/assets/curso/tema7/video.svg", alt="tema 7")
+                            img(src="@/assets/curso/tema7/video.svg", alt="tema 7")
                           .col
                             .row.justify-content-between.align-items-center
                               .col.mb-3.mb-sm-0          
@@ -167,7 +167,7 @@
                       .fondo21.p-3.mb-2
                         .row.justify-content-around.align-items-center
                           .col-3.col-sm-2.col-lg-2
-                            img.d-none.d-lg-block(src="@/assets/curso/tema7/video.svg", alt="tema 7")
+                            img(src="@/assets/curso/tema7/video.svg", alt="tema 7")
                           .col
                             .row.justify-content-between.align-items-center
                               .col.mb-3.mb-sm-0          
@@ -182,7 +182,7 @@
                       .fondo21.p-3.mb-2
                         .row.justify-content-around.align-items-center
                           .col-3.col-sm-2.col-lg-2
-                            img.d-none.d-lg-block(src="@/assets/curso/tema7/video.svg", alt="tema 7")
+                            img(src="@/assets/curso/tema7/video.svg", alt="tema 7")
                           .col
                             .row.justify-content-between.align-items-center
                               .col.mb-3.mb-sm-0          
