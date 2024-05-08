@@ -78,7 +78,7 @@
                         p.mb-0.irr Adicionalmente, observe con atención el video “Paso a paso de la base superior masculina #[em slim fit]”, que se encuentra en el material complementario.
                       .col-sm-auto
                         a.boton.color-acento-botones(href="https://www.youtube.com/watch?app=desktop&v=rximz1xBJM8&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
-                          span Ver video
+                          span Ir al sitio
                           i.fas.fa-video 
 
           .col-sm-12.col-lg-4.mb-5
@@ -163,7 +163,7 @@
                       p.mb-0.irr Adicionalmente, observe con atención el video “Cuellos, mangas y sus variaciones”, que se encuentra en el material complementario.
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=PKd_D-0U968&t=76s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
-                        span Ver video
+                        span Ir al sitio
                         i.fas.fa-video
         
         
@@ -208,7 +208,7 @@
               .row.justify-content-center.align-items-center
                 .col-sm-auto
                   a.boton.color-acento-botones.my-2(href="https://www.youtube.com/watch?v=agDscYys1CY&t=105s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
-                    span Ver video
+                    span Ir al sitio
                     i.fas.fa-video
 
       .col-lg-4.col-md-8.col-12.mb-4
@@ -222,7 +222,7 @@
               .row.justify-content-center.align-items-center
                 .col-sm-auto
                   a.boton.color-acento-botones.my-1(href="https://www.youtube.com/watch?v=ktU9DxgPvH8&t=446s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
-                    span Ver video
+                    span Ir al sitio
                     i.fas.fa-video
     
     .row.justify-content-center.items-align-center.mb-5
@@ -332,7 +332,7 @@
                       p.mb-0.irr Adicionalmente, observe con atención el video “trazo del pantalón clásico masculino”, que se encuentra en el material complementario.
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?app=desktop&v=4FG5qSekuLc&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
-                        span Ver video
+                        span Ir al sitio
                         i.fas.fa-video 
 
       .py-3.py-md-4.bg26.px-3(titulo="Trazo de Pantalón Tipo <em>Jean Slim Fit</em>")
@@ -367,7 +367,7 @@
                         p.mb-0.irr Adicionalmente, observe con atención el video “Trazo de pantalón tipo Jean #[em Slim fit] masculino”, que se encuentra en el material complementario.
                       .col-sm-auto
                         a.boton.color-acento-botones(href="https://www.youtube.com/watch?app=desktop&v=RE-fVkNZIOo&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
-                          span Ver video
+                          span Ir al sitio
                           i.fas.fa-video 
 
           .col-lg-4.col-md-7.col-10

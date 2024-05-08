@@ -129,7 +129,7 @@
                                 p.my-2 Anexo. Escalado de falda_femenino
                               .col-sm-auto
                                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=ddrsedOxtKA" target="_blank")
-                                  span Ver video 
+                                  span Ir al sitio
                                   i.fas.fa-video
                 
                   .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
@@ -144,7 +144,7 @@
                                 p.my-2 Video. Escalado de base con pinzas_superior
                               .col-sm-auto
                                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=ui7cNs-qD1k" target="_blank")
-                                  span Ver video
+                                  span Ir al sitio
                                   i.fas.fa-video
                   
                   .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
@@ -159,7 +159,7 @@
                                 p.my-2 Video. Escalado de básico de pantalón
                               .col-sm-auto
                                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=GS5jZ-Tw9vc" target="_blank")
-                                  span Ver video
+                                  span Ir al sitio
                                   i.fas.fa-video
                   
                   .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
@@ -174,7 +174,7 @@
                                 p.my-2 Video. Escalado Cortes, manga, cuello
                               .col-sm-auto
                                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=ENCEKC4EwKU" target="_blank")
-                                  span Ver video
+                                  span Ir al sitio
                                   i.fas.fa-video
                   
                   .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
@@ -189,7 +189,7 @@
                                 p.my-2 Video. Escalado Bibásico Análisis: Base superior masculina
                               .col-sm-auto
                                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=mN8946qBeGU&t=1177s" target="_blank")
-                                  span Ver video
+                                  span Ir al sitio
                                   i.fas.fa-video
 
 

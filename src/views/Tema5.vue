@@ -137,7 +137,7 @@
                       p.mb-0.irr Consulte el anexo Pasos para falda básica.
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=ljWlKVgj-Hw" target="_blank")
-                        span Ver video
+                        span Ir al sitio
                         i.fas.fa-video
               .hr.mb-3
               .row.justify-content-around.align-items-center.mb-1
@@ -150,7 +150,7 @@
                       p.mb-0.irr Adicionalmente, observe con atención el video “Base inferior falda femenino”, que se encuentra en el material complementario.
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=wl5EjrLU-8Y&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
-                        span Ver video
+                        span Ir al sitio
                         i.fas.fa-video
     
     
@@ -172,7 +172,7 @@
                   p.mb-0.irr Adicionalmente, observe con atención el video “Trazo de faldas rotondas”, que se encuentra en el material complementario.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
-                    span Ver video
+                    span Ir al sitio
                     i.fas.fa-video
           .hr.mb-3
           .row.justify-content-around.align-items-center.mb-4
@@ -185,9 +185,9 @@
                   p.mb-0.irr Adicionalmente, observe con atención el video “Modificación de básicos de falda”, que se encuentra en el material complementario.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?app=desktop&v=xtyPQh3vtuc&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
-                    span Ver video
+                    span Ir al sitio
                     i.fas.fa-video
-
+          .hr.mb-3
           .row.justify-content-around.align-items-center.mb-1
             .col-3.col-sm-2.col-lg-1
               img.img-a.img-t(src="@/assets/curso/tema5/pdff.svg", alt="tema 5")
@@ -355,7 +355,7 @@
                   p.mb-0.irr Adicionalmente, observe con atención el video “Pasos para el trazo de la base superior”, que se encuentra en el material complementario.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=p5r2Sm5N7nw&t=34s" target="_blank")
-                    span Ver video
+                    span Ir al sitio
                     i.fas.fa-video
           .hr.mb-3
           .row.justify-content-around.align-items-center.mb-1
@@ -368,7 +368,7 @@
                   p.mb-0.irr Adicionalmente, observe con atención el video “Trazo de falda y modificación de básicos de falda”, que se encuentra en el material complementario.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=xtyPQh3vtuc" target="_blank")
-                    span Ver video
+                    span Ir al sitio
                     i.fas.fa-video
   
     .mb-4.d-flex.mb-5
@@ -457,7 +457,7 @@
                       p.mb-0.irr.mx-4 Adicionalmente, observe con atención el video “Traslados de pinza correctiva de talles”, que se encuentra en el material complementario.
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=encNXGtE15Y" target="_blank")
-                        span Ver video
+                        span Ir al sitio
                         i.fas.fa-video
 
     .mb-4.d-flex.mb-5
@@ -487,7 +487,7 @@
                   p.mb-0.irr.mx-4 Adicionalmente, observe con atención el video “Análisis y trazo de sistema de ajuste pinzas y cortes”, que se encuentra en el material complementario.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=Tq_3F32nynw&t=1759s" target="_blank")
-                    span Ver video
+                    span Ir al sitio
                     i.fas.fa-video
     
     p.mb-4.text-center A continuación se exponen los siguientes contenidos, con las posibles  variaciones que presenta la prenda superior femenina:
@@ -504,7 +504,7 @@
               .row.justify-content-center.align-items-center
                 .col-sm-auto
                   a.boton.color-acento-botones.my-1(href="https://www.youtube.com/watch?v=56vyEeZhA-I&t=815s" target="_blank")
-                    span Ver video
+                    span Ir al sitio
                     i.fas.fa-video
 
       .col-lg-4.col-md-8.col-12.mb-4
@@ -517,7 +517,7 @@
               .row.justify-content-center.align-items-center
                 .col-sm-auto
                   a.boton.color-acento-botones.my-1(href="https://www.youtube.com/watch?v=euVdaqaTQlY&t=1523s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
-                    span Ver video
+                    span Ir al sitio
                     i.fas.fa-video
 
       .col-lg-4.col-md-8.col-12.mb-4
@@ -530,7 +530,7 @@
               .row.justify-content-center.align-items-center
                 .col-sm-auto
                   a.boton.color-acento-botones.my-1(href="https://www.youtube.com/watch?v=CxwJTRQh-aY" target="_blank")
-                    span Ver video
+                    span Ir al sitio
                     i.fas.fa-video  
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
@@ -564,7 +564,7 @@
               .row.justify-content-center.align-items-center
                 .col-sm-auto
                   a.boton.color-acento-botones.my-0(href="https://www.youtube.com/watch?app=desktop&v=JnFLa4-gUa4&t=187s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
-                    span Ver video
+                    span Ir al sitio
                     i.fas.fa-video
       
       .col-lg-4.col-md-8.col-12.mb-4
@@ -577,7 +577,7 @@
               .row.justify-content-center.align-items-center
                 .col-sm-auto
                   a.boton.color-acento-botones.my-0(href="https://www.youtube.com/watch?v=xjSPGOWXJw0&t=1499s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
-                    span Ver video
+                    span Ir al sitio
                     i.fas.fa-video
 
       .col-lg-4.col-md-8.col-12.mb-4
@@ -738,7 +738,7 @@
                       p.mb-0.irr.mx-4 Adicionalmente, observe con atención el video “Base inferior de pantalón femenino”, que se encuentra en el material complementario.
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://youtu.be/7XPqP_3v0L0?si=dcZaqEm6Ao1G6qD3" target="_blank")
-                        span Ver video
+                        span Ir al sitio
                         i.fas.fa-video
     
     p.mb-4 Según modificaciones de largos, amplitudes, detalles y cortes. Se pueden obtener los básicos inferiores. Las medidas de largos se deben tomar desde la cintura hasta el punto de la pierna que lo sugiera el diseño.
@@ -762,7 +762,7 @@
                     .row.justify-content-center.align-items-center
                       .col-sm-auto
                         a.boton.color-acento-botones.my-1(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
-                          span Ver video
+                          span Ir al sitio
                           i.fas.fa-video    
                 
             .col-lg-4.col-md-8.col-12.mb-4.my-5
@@ -775,7 +775,7 @@
                     .row.justify-content-center.align-items-center
                       .col-sm-auto
                         a.boton.color-acento-botones.my-0(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
-                          span Ver video
+                          span Ir al sitio
                           i.fas.fa-video
             .col-lg-1.col-md-8.col-12.mb-4.my-5
             
@@ -852,7 +852,7 @@
               .row.justify-content-center.align-items-center
                 .col-sm-auto
                   a.boton.color-acento-botones.my-2(href="https://www.youtube.com/watch?v=EAl_FBfkYUE&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
-                    span Ver video
+                    span Ir al sitio
                     i.fas.fa-video
       
       .col-lg-4.col-md-8.col-12.mb-4
@@ -882,7 +882,7 @@
               .row.justify-content-center.align-items-center
                 .col-sm-auto
                   a.boton.color-acento-botones.my-0(href="https://youtu.be/2a81MoVG6Dg" target="_blank")
-                    span Ver video
+                    span Ir al sitio
                     i.fas.fa-video
       
       .col-lg-4.col-md-8.col-12.mb-4
@@ -895,7 +895,7 @@
               .row.justify-content-center.align-items-center
                 .col-sm-auto
                   a.boton.color-acento-botones.my-1(href="https://youtu.be/tJWzjpSmkps" target="_blank")
-                    span Ver video
+                    span Ir al sitio
                     i.fas.fa-video
 
       .col-lg-4.col-md-8.col-12.mb-4
@@ -927,7 +927,7 @@
                   p.mb-0.irr Adicionalmente, observe con atención el video “Análisis e interpretación de capas”, que se encuentra en el material complementario.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://youtu.be/ZbGipLzdDTY" target="_blank")
-                    span Ver video
+                    span Ir al sitio
                     i.fas.fa-video
           .hr.mb-3
           .row.justify-content-around.align-items-center.mb-4
@@ -940,7 +940,7 @@
                   p.mb-0.irr Adicionalmente, observe con atención el video “Abrigo asimétrico”, que se encuentra en el material complementario.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://youtu.be/-t2RPXBUsLA" target="_blank")
-                    span Ver video
+                    span Ir al sitio
                     i.fas.fa-video 
           .hr.mb-3
           .row.justify-content-around.align-items-center.mb-4
@@ -953,7 +953,7 @@
                   p.mb-0.irr Adicionalmente, observe con atención el video “Interpretación de pantalón sastre femenino”, que se encuentra en el material complementario.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://youtu.be/8d20OBO4tHI" target="_blank")
-                    span Ver video
+                    span Ir al sitio
                     i.fas.fa-video
           .hr.mb-3
           .row.justify-content-around.align-items-center.mb-1
@@ -966,7 +966,7 @@
                   p.mb-0.irr Adicionalmente, observe con atención el video “Análisis e interpretación de pantalón sudadera”, que se encuentra en el material complementario.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=xcUi9S-ZqzI" target="_blank")
-                    span Ver video
+                    span Ir al sitio
                     i.fas.fa-video
 
 </template>

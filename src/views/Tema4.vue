@@ -54,7 +54,7 @@
                     p.text-small El punto donde se cortan recibe el nombre de origen (Punto cero o Punto muerto).
                   .col-md-4
                     .titulo-sexto.color-acento-contenido
-                      h5 Figura 10. 
+                      h5 Figura 7. 
                       | Plano cartesiano
                     img(src='@/assets/curso/tema4/img02.svg' , alt="tema 4")
 

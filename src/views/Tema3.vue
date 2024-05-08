@@ -183,7 +183,7 @@
                                 p.my-2 video toma de medidas
                               .col-sm-auto
                                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=7tzquX5wI-4&t=2s" target="_blank")
-                                  span Ver video
+                                  span Ir al sitio
                                   i.fas.fa-video
 
 </template>
