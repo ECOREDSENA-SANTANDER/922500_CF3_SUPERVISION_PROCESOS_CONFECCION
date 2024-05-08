@@ -141,7 +141,7 @@
                     .col.mb-8.mb-sm-0          
                       p.my-2 Anexo. Clasificación de las medidas
                     .col-sm-auto
-                      a.boton.color-acento-botones.mx-2(href="/downloads/Anexo_2_Clasificacion_de_las_medidas.pdf" target="_blank")
+                      a.boton.color-acento-botones.mx-2(:href="obtenerLink('/downloads/Anexo_2_Clasificacion_de_las_medidas.pdf')" target="_blank")
                         span Descargar
                         i.fas.fa-file-download
 
