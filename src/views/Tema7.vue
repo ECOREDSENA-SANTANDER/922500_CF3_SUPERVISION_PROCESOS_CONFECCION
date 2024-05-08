@@ -53,7 +53,7 @@
                               .col.mb-4.mb-sm-0          
                                 p.my-2 Anexo. Escalado de falda_femenino
                               .col-sm-auto
-                                a.boton.color-acento-botones(href="/downloads/Anexo_8_ESCALADO_DE_FALDA_FEMENINO.pdf" target="_blank")
+                                a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_8_ESCALADO_DE_FALDA_FEMENINO.pdf')" target="_blank")
                                   span Descargar
                                   i.fas.fa-file-download 
                 
@@ -68,7 +68,7 @@
                               .col.mb-4.mb-sm-0        
                                 p.my-2 Anexo. Escalado de base con pinzas_superior
                               .col-sm-auto
-                                a.boton.color-acento-botones(href="/downloads/Anexo_9_ESCALADO_DE_BASE_CON PINZAS_SUPERIOR.pdf" target="_blank")
+                                a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_9_ESCALADO_DE_BASE_CON PINZAS_SUPERIOR.pdf')" target="_blank")
                                   span Descargar
                                   i.fas.fa-file-download
                   .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
@@ -82,7 +82,7 @@
                               .col.mb-3.mb-sm-0          
                                 p.my-2 Anexo. Escalado de básico de pantalón
                               .col-sm-auto
-                                a.boton.color-acento-botones.justify-content-center(href="/downloads/Anexo_10_ESCALADO_DE BASICO_DE_PANTALON.pdf" target="_blank")
+                                a.boton.color-acento-botones.justify-content-center(:href="obtenerLink('/downloads/Anexo_10_ESCALADO_DE BASICO_DE_PANTALON.pdf')" target="_blank")
                                   span Descargar
                                   i.fas.fa-file-download 
                   .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
@@ -96,7 +96,7 @@
                               .col.mb-3.mb-sm-0          
                                 p.my-2 Anexo. Escalado Cortes, manga, cuello
                               .col-sm-auto
-                                a.boton.color-acento-botones(href="/downloads/Anexo_11_ESCALADO_CORTES_MANGA_CUELLO.pdf" target="_blank")
+                                a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_11_ESCALADO_CORTES_MANGA_CUELLO.pdf')" target="_blank")
                                   span Descargar
                                   i.fas.fa-file-download
                   .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
@@ -110,7 +110,7 @@
                               .col.mb-3.mb-sm-0          
                                 p.my-2 Anexo. Escalado Bibásico Análisis: Base superior masculina
                               .col-sm-auto
-                                a.boton.color-acento-botones(href="/downloads/Anexo_12_ESCALADO_BIBASICO-ANALISIS_BASE_SUPERIOR_MASCULINA.pdf" target="_blank")
+                                a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_12_ESCALADO_BIBASICO-ANALISIS_BASE_SUPERIOR_MASCULINA.pdf')" target="_blank")
                                   span Descargar
                                   i.fas.fa-file-download 
         
