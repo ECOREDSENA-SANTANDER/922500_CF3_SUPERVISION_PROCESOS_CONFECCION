@@ -107,7 +107,7 @@
                 .col
                   .row.justify-content-center.align-items-center
                     .col.mb-3.mb-sm-0          
-                      p.my-2.mx-4 Gamas de mercado Universos de vestuarios - ocasiones de uso
+                      p.my-2.mx-4 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhGamas de mercado Universos de vestuarios - ocasiones de uso
                     .col-sm-auto
                       a.boton.color-acento-botones.mx-4(href="https://www.youtube.com/watch?v=YXT2HTjiB3Q" target="_blank")
                         span Ir al sitio
