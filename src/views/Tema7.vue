@@ -41,7 +41,7 @@
                 .tarje.color-primario.my-4.he-4-cus.px-4.my-4.pt-4
                     
                   .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
-                    .col-lg-5
+                    .col-lg-5.mb-3
                       .fondo21.p-3.mb-2
                         .row.justify-content-around.align-items-center
                           .col-3.col-sm-2.col-lg-2
@@ -55,7 +55,7 @@
                                   span Ir al sitio
                                   i.fas.fa-video
                 
-                    .col-lg-5
+                    .col-lg-5.mb-3
                       .fondo21.p-3.mb-2
                         .row.justify-content-around.align-items-center
                           .col-3.col-sm-2.col-lg-2
@@ -70,7 +70,7 @@
                                   i.fas.fa-video
                   
                   
-                    .col-lg-5
+                    .col-lg-5.mb-3
                       .fondo21.p-3.mb-2
                         .row.justify-content-around.align-items-center
                           .col-3.col-sm-2.col-lg-2
@@ -85,7 +85,7 @@
                                   i.fas.fa-video
                   
                   
-                    .col-lg-5
+                    .col-lg-5.mb-3
                       .fondo21.p-3.mb-2
                         .row.justify-content-around.align-items-center
                           .col-3.col-sm-2.col-lg-2
