@@ -82,7 +82,7 @@
                   .row
                     .col-auto
                       a.boton.color-acento-botones.indicador__container(@click="modal1 = true")
-                        span Ver figura de escalado monobásico
+                        span Figura de escalado monobásico
                         .indicador--click(v-if="mostrarIndicador")
                 
                   ModalA(:abrir-modal.sync="modal1")
@@ -103,7 +103,7 @@
                   .row
                     .col-auto
                       a.boton.color-acento-botones.indicador__container(@click="modal2 = true")
-                        span Ver figura de escalado relativo
+                        span Figura de escalado relativo
                         .indicador--click(v-if="mostrarIndicador")
             
                   
@@ -136,8 +136,8 @@
             img.img-t.img-a(src='@/assets/curso/tema4/4.2.png', alt='Introducción') 
           .col-lg-9.mb-4
             .boq.p-3
-              p.mb-4.mx-3.my-3 Los cuadros de tallas como se ha mencionado son el punto importante dentro del escalado industrial de prendas, por ello se debe tener en cuenta:
-              ul.lista-ul--color
+              p.mb-5.mx-3.my-3 Los cuadros de tallas como se ha mencionado son el punto importante dentro del escalado industrial de prendas, por ello se debe tener en cuenta:
+              ul.lista-ul--color.mb-5
                 li.d-flex
                   i.fas.fa-car-side.mx-3
                   p.mb-0
@@ -153,16 +153,24 @@
                   p.mb-0 
                     strong Incremento:  
                     | el crecimiento de talla por talla en cada uno de los apartados de las medidas antropométricas.
-    
-              .row.justify-content.align-items.mt-5
-                .col-sm-12.col-lg-7
-                  a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=q62l2sbPAaE" target="_blank")
-                    .anexo__icono
-                      img(src="@/assets/template/icono-link.svg" , alt="tema 4")
-                    .anexo__texto
-                      strong Enlace web. 
-                      | Introducción y contextualización de escalado de prendas de vestir.
-    
+              p.mx-3.mb-5 Una vez es analizado y determinado da como resultado los valores, proporciones y rupturas de las tallas. Revisemos este proceso a profundidad.
+              
+              .row.justify-content-center.align-items-center
+                .col-sm-12.col-lg-8
+                  .fondo21.p-3.mb-4
+                    .row.justify-content-center.align-items-center
+                      .col-3.col-sm-2.col-lg-2
+                        img(src="@/assets/curso/tema7/video.svg", alt="tema 3")
+                      .col
+                        .row.justify-content-between.align-items-center
+                          .col.mb-3.mb-sm-0          
+                            p.my-2 Anexo. Introducción y contextualización de escalado de prendas de vestir
+                          .col-sm-auto
+                            a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=q62l2sbPAaE" target="_blank")
+                              span Ir al sitio
+                              i.fas.fa-video
+              
+            
 </template>
 
 <script>

@@ -21,7 +21,14 @@
               img.mx-4.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema6/alert.svg", alt="tema 6")
             .col-lg-10.col-md-12.col-12         
               p.my-2 #[b Tener en cuenta:] al desarrollar el modelo o diseño se realiza a partir de la unidad de medida en centímetros, pero si se toma de guía el del manual, se encontrará que está en pulgadas la tabla, se recomienda realizar la conversión para facilitar el procesamiento de líneas.
-    
+        
+    .row.justify-content-center.align-items-center.mb-5 
+      .col-lg-10.col-md-12.col-12
+        .row.justify-content-center
+          .col-lg-12.col-md-12.col-12
+            .cajon.color-acento-contenido.p-4.mb-0
+              p.mb-0 El manejo de siluetas en masculino el manual trabaja sobre dos tipos de siluetas: una clásica y otra #[em Slim fit,] si bien el desarrollo de los planos y moldes cumplen con los mismos pasos o el mismo orden secuencial, lo que varían son las fórmulas, específicamente para el desarrollo de los básicos.
+
     p.mb-4(data-aos="fade-left") Para la implementación y modificación de básicos es importante tener claridad en cada uno de los conceptos de patronaje como, medidas, pasos, elementos y vocabulario técnico que se irá implementando en el desarrollo de los trazos, moldes o planos. En este punto, para la implementación de los básicos se debe tomar como referencia los pasos del patronaje, sobre la metodología utilizada por el SENA.
 
     separador
@@ -36,36 +43,30 @@
         .row.justify-content-center.align-items-center.mb-5 
           .col-lg-10.col-md-12.col-12
             .row.justify-content-center
-              .col-lg-7.col-md-12.col-12
+              .col-lg-12.col-md-12.col-12
                 .cajon.color-acento-contenido.p-4.mb-5
-                  p.mb-5 Cuando se habla de la base superior, es la copia de la horma del cuerpo, partiendo del cuello hasta el largo que es ubicado entre la cintura y altura de cadera, según el propósito del diseño, dicha base será la plantilla que se adecuará para convertirse en camisa, camiseta, chaqueta, chaleco, etc.
+                  p.mb-0 Cuando se habla de la base superior, es la copia de la horma del cuerpo, partiendo del cuello hasta el largo que es ubicado entre la cintura y altura de cadera, según el propósito del diseño, dicha base será la plantilla que se adecuará para convertirse en camisa, camiseta, chaqueta, chaleco, etc.
                 p.mb-4 Lo primero a tener en cuenta, es el manejo de los básicos dependiendo del tipo de silueta, en este caso se sugiere trabajar el básico de silueta #[em Slim fit]. En este proceso de aprendizaje encontrará un plano de referencia e identificará sistemas de cierre y complementos. Para dar inicio al trazo, se debe trazar una línea de manera horizontal en el papel, sobre el que quedarán alineados o aplomados como línea base de construcción, en prendas superiores, la línea de aplome o línea base será la línea de profundidad de sisa.
-              .col-lg-5.col-md-12.col-12
+            .row.justify-content-center
+              .col-lg-5.col-md-12.col-12.mb-4
                 .titulo-sexto.color-acento-contenido
                   h5 Figura 16. 
                   | Base de superior masculina
                 figure
                   img(src='@/assets/curso/tema6/img02.svg' , alt="Molde parte superior masculina parte delantera y parte trasera unida por el lado estableciendo los respectivos cortes y medidas para cada diseño.")
                   figcaption.text-black Fuente: SENA, 2021
-    
+              .col-sm-12.col-lg-5.mb-4
+                .titulo-sexto.color-acento-contenido
+                  h5 Figura 17. 
+                  | Base masculino Slim fil
+                figure
+                  img(src='@/assets/curso/tema6/img02.svg', alt="tema 6")
+                  figcaption.text-black Fuente: SENA, 2021
+        
+        
         .row.justify-content-center.align-items-center.mb-4 
           .col-sm-12.col-lg-6
-            p.mb-4 Tal y como se muestra en el esquema del patrón base masculino clásico (pág. 65) y el esquema del patrón base masculino #[em Slim fit.]
-            .col-lg-12.mb-4
-              .fondo21.p-3.mb-2
-                .row.justify-content-around.align-items-center
-                  .col-3.col-sm-2.col-lg-2
-                    img(src="@/assets/curso/tema6/pfd.svg")
-                  .col
-                    .row.justify-content-between.align-items-center
-                      .col.mb-3.mb-sm-0          
-                        h4.mb-1 Anexo
-                        p.mb-0.irr Leer de la páginas 65,a 67.
-                      .col-sm-auto
-                        a.boton.color-acento-botones(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CDC8FDE9468D98E37FFD127332113A29?sequence=1" target="_blank")
-                          span Descargar
-                          i.fas.fa-file-download 
-            p.mb-4 Para complementar observemos el video:
+            p.mb-4 Para complementar consulte el video:
             .col-lg-12
               .fondo21.p-3.mb-5
                 .row.justify-content-around.align-items-center
@@ -75,19 +76,13 @@
                     .row.justify-content-between.align-items-center
                       .col.mb-3.mb-sm-0          
                         h4.mb-1 Paso a paso de la base superior masculina #[em slim fit.] 
-                        p.mb-0.irr Adicionalmente, observe con atención el video “Paso a paso de la base superior masculina #[em slim fit]”, que se encuentra en el material complementario.
+                        p.mb-0.irr Consulte el video “Paso a paso de la base superior masculina #[em slim fit]”, que se encuentra en el material complementario.
                       .col-sm-auto
                         a.boton.color-acento-botones(href="https://www.youtube.com/watch?app=desktop&v=rximz1xBJM8&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                           span Ir al sitio
                           i.fas.fa-video 
 
-          .col-sm-12.col-lg-4.mb-5
-            .titulo-sexto.color-acento-contenido
-              h5 Figura 17. 
-              | Base masculino Slip fil
-            figure
-              img(src='@/assets/curso/tema6/img02.svg', alt="tema 6")
-              figcaption.text-black Fuente: SENA, 2021
+          
 
     separador
     #t_6_2.titulo-segundo
@@ -160,7 +155,7 @@
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0          
                       h4.mb-1 Cuellos, mangas y sus variaciones
-                      p.mb-0.irr Adicionalmente, observe con atención el video “Cuellos, mangas y sus variaciones”, que se encuentra en el material complementario.
+                      p.mb-0.irr Consulte el video “Cuellos, mangas y sus variaciones”, que se encuentra en el material complementario.
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=PKd_D-0U968&t=76s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                         span Ir al sitio
@@ -203,11 +198,11 @@
           .row.justify-content-center.align-items-center.mb-4
             .col-lg-11.col-md-11.col-12
               img.img-a.img-t.mt-4(src='@/assets/curso/tema6/vieo.svg', alt="tema 5")
-              h4.text-center.mt-4 Paso a paso del trazo de cuellos 
-              p.mb-3.my-4 Adicionalmente, observe con atención el video “Paso a paso del trazo de cuellos - generalidades y comportamientos”, que se encuentra en el material complementario.
+              h4.text-center.mt-3 Paso a paso del trazo de cuellos 
+              p.mb-5.my-0 Consulte el video “Paso a paso del trazo de cuellos - generalidades y comportamientos”, que se encuentra en el material complementario.
               .row.justify-content-center.align-items-center
                 .col-sm-auto
-                  a.boton.color-acento-botones.my-2(href="https://www.youtube.com/watch?v=agDscYys1CY&t=105s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+                  a.boton.color-acento-botones.my-1(href="https://www.youtube.com/watch?v=agDscYys1CY&t=105s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                     span Ir al sitio
                     i.fas.fa-video
 
@@ -217,8 +212,8 @@
           .row.justify-content-center.align-items-center.mb-4
             .col-lg-11.col-md-11.col-12
               img.img-a.img-t.mt-4(src='@/assets/curso/tema6/vieo.svg', alt="tema 5")
-              h4.text-center.mt-3  Paso a paso del trazo de manga, puño y cuello
-              p.mb-3.my-2 Adicionalmente, observe con atención el video “Paso a paso del trazo de manga, puño y cuello - de la camisa clásica y #[em slim fit]”, que se encuentra en el material complementario.
+              h4.text-center.mt-2 Paso a paso del trazo de manga, puño y cuello
+              p.mb-2.my-0 Consulte el video “Paso a paso del trazo de manga, puño y cuello - de la camisa clásica y #[em slim fit]”, que se encuentra en el material complementario.
               .row.justify-content-center.align-items-center
                 .col-sm-auto
                   a.boton.color-acento-botones.my-1(href="https://www.youtube.com/watch?v=ktU9DxgPvH8&t=446s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
@@ -329,7 +324,7 @@
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0          
                       h4.mb-1 trazo del pantalón clásico masculino 
-                      p.mb-0.irr Adicionalmente, observe con atención el video “trazo del pantalón clásico masculino”, que se encuentra en el material complementario.
+                      p.mb-0.irr Consulte el video “trazo del pantalón clásico masculino”, que se encuentra en el material complementario.
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?app=desktop&v=4FG5qSekuLc&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                         span Ir al sitio
@@ -364,7 +359,7 @@
                     .row.justify-content-center.align-items-center
                       .col.mb-3.mb-sm-0          
                         h4.mb-1 Trazo de pantalón tipo Jean #[em Slim fit] masculino
-                        p.mb-0.irr Adicionalmente, observe con atención el video “Trazo de pantalón tipo Jean #[em Slim fit] masculino”, que se encuentra en el material complementario.
+                        p.mb-0.irr Consulte el video “Trazo de pantalón tipo Jean #[em Slim fit] masculino”, que se encuentra en el material complementario.
                       .col-sm-auto
                         a.boton.color-acento-botones(href="https://www.youtube.com/watch?app=desktop&v=RE-fVkNZIOo&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                           span Ir al sitio

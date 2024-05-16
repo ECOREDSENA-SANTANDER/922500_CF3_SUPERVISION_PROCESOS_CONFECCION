@@ -28,7 +28,7 @@
     
     separador
     #t_5_1.titulo-segundo
-      .h2 5.1 Análisis de cuadros de tallas
+      .h2 5.1 Trazo de falda
 
     .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
       .col-lg-10.col-md-10.col-10
@@ -40,7 +40,12 @@
             .col-lg-4.mb-4.mb-lg-0
               img.img-a.img-t.mb-4(src="@/assets/curso/tema5/img02.svg", alt="tema2")
 
-
+    
+    .mb-5.d-flex
+      .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
+        h5.col.px-4.mb-0.text-white.mx-5(data-aos="fade-right") Trazado de la falda básica
+        img.clase2(src='@/assets/curso/tema3/vot.svg', alt="tema 5") 
+    
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-sm-12.col-lg-12.mb-4.mb-md-0
         .cajon.color-acento-contenido.p-4
@@ -67,11 +72,6 @@
             img(src='@/assets/curso/tema5/img04.png' , alt=" La circunferencia de la cintura puede ser tan baja como por debajo del ombligo y tan alta como por encima de la cintura.")
             figcaption.texte.text-black Fuente: SENA, 2021
         
-    
-    .mb-4.d-flex
-      .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h5.col.px-4.mb-0.text-white.mx-5(data-aos="fade-right") Trazado de la falda básica
-        img.clase2(src='@/assets/curso/tema3/vot.svg', alt="tema 5") 
 
     .row.justify-content.align-items.mt-5.mb-5
       .col-sm-12.col-lg-12
@@ -147,7 +147,7 @@
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0          
                       h4 Base inferior falda femenino
-                      p.mb-0.irr Adicionalmente, observe con atención el video “Base inferior falda femenino”, que se encuentra en el material complementario.
+                      p.mb-0.irr Consulte el video “Base inferior falda femenino”, que se encuentra en el material complementario.
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=wl5EjrLU-8Y&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                         span Ir al sitio
@@ -169,7 +169,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-2.mb-sm-0          
                   h4 Trazo de faldas rotondas
-                  p.mb-0.irr Adicionalmente, observe con atención el video “Trazo de faldas rotondas”, que se encuentra en el material complementario.
+                  p.mb-0.irr Consulte el video “Trazo de faldas rotondas”, que se encuentra en el material complementario.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                     span Ir al sitio
@@ -182,7 +182,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0          
                   h4 Trazo de falda y modificacion de basicos de falda 
-                  p.mb-0.irr Adicionalmente, observe con atención el video “Modificación de básicos de falda”, que se encuentra en el material complementario.
+                  p.mb-0.irr Consulte el video “Modificación de básicos de falda”, que se encuentra en el material complementario.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?app=desktop&v=xtyPQh3vtuc&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                     span Ir al sitio
@@ -352,7 +352,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0          
                   h4 Pasos para el trazo de la base superior  
-                  p.mb-0.irr Adicionalmente, observe con atención el video “Pasos para el trazo de la base superior”, que se encuentra en el material complementario.
+                  p.mb-0.irr Consulte el video “Pasos para el trazo de la base superior”, que se encuentra en el material complementario.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=p5r2Sm5N7nw&t=34s" target="_blank")
                     span Ir al sitio
@@ -365,7 +365,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0          
                   h4 Trazo de falda y modificación de básicos de falda
-                  p.mb-0.irr Adicionalmente, observe con atención el video “Trazo de falda y modificación de básicos de falda”, que se encuentra en el material complementario.
+                  p.mb-0.irr Consulte el video “Trazo de falda y modificación de básicos de falda”, que se encuentra en el material complementario.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=xtyPQh3vtuc" target="_blank")
                     span Ir al sitio
@@ -373,7 +373,7 @@
   
     .mb-4.d-flex.mb-5
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h5.col.px-4.mb-0.text-white.mx-5(data-aos="fade-right") Pinza correctiva de taller
+        h5.col.px-4.mb-0.text-white.mx-5(data-aos="fade-right") Pinza correctiva de talle
         img.clase2(src='@/assets/curso/tema3/vot.svg' , alt="tema 5") 
 
     .row.justify-content-center.align-items-center.mb-4
@@ -454,7 +454,7 @@
                   .row.justify-content-between.align-items-center
                     .col.mb-2.mb-sm-0          
                       h4.mx-4 Traslados de pinza correctiva de talles
-                      p.mb-0.irr.mx-4 Adicionalmente, observe con atención el video “Traslados de pinza correctiva de talles”, que se encuentra en el material complementario.
+                      p.mb-0.irr.mx-4 Consulte el video “Traslados de pinza correctiva de talles”, que se encuentra en el material complementario.
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=encNXGtE15Y" target="_blank")
                         span Ir al sitio
@@ -484,7 +484,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-2.mb-sm-0          
                   h4.mx-4.my-1 Análisis y trazo de sistema de ajuste pinzas y cortes
-                  p.mb-0.irr.mx-4 Adicionalmente, observe con atención el video “Análisis y trazo de sistema de ajuste pinzas y cortes”, que se encuentra en el material complementario.
+                  p.mb-0.irr.mx-4 Consulte el video “Análisis y trazo de sistema de ajuste pinzas y cortes”, que se encuentra en el material complementario.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=Tq_3F32nynw&t=1759s" target="_blank")
                     span Ir al sitio
@@ -500,10 +500,10 @@
             .col-lg-11.col-md-11.col-11
               img.img-a.img-t.mt-4(src='@/assets/curso/tema5/vide.svg', alt="tema 5")
               h4.text-center.mt-4 Pasos para el trazo de la base superior
-              p.mb-5.my-3 Adicionalmente, observe con atención el video “Trazo base superior”.
+              p.mb-5.my-3 Consulte el video “Trazo base superior”.
               .row.justify-content-center.align-items-center
-                .col-sm-auto
-                  a.boton.color-acento-botones.my-1(href="https://www.youtube.com/watch?v=56vyEeZhA-I&t=815s" target="_blank")
+                .col-sm-auto.mb-5
+                  a.boton.color-acento-botones.my-4(href="https://www.youtube.com/watch?v=56vyEeZhA-I&t=815s" target="_blank")
                     span Ir al sitio
                     i.fas.fa-video
 
@@ -513,10 +513,10 @@
             .col-lg-11.col-md-11.col-11
               img.img-a.img-t.mt-4(src='@/assets/curso/tema5/vide.svg', alt="tema 5")
               h4.text-center.mt-4 Trazo blusa con almilla y cuello camisero
-              p.mb-4.my-3 Adicionalmente, observe con atención el video “Trazo básico blusa”, que se encuentra en el material complementario.
+              p.mb-4.my-3 Consulte el video “Trazo básico blusa”, que se encuentra en el material complementario.
               .row.justify-content-center.align-items-center
                 .col-sm-auto
-                  a.boton.color-acento-botones.my-1(href="https://www.youtube.com/watch?v=euVdaqaTQlY&t=1523s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+                  a.boton.color-acento-botones.my-4(href="https://www.youtube.com/watch?v=euVdaqaTQlY&t=1523s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                     span Ir al sitio
                     i.fas.fa-video
 
@@ -529,7 +529,7 @@
               p.mb-4.my-3 Para ampliar su conocimiento, observe los ejemplos expuestos en el documento anexo denominado “Piezas complementarias”.
               .row.justify-content-center.align-items-center
                 .col-sm-auto
-                  a.boton.color-acento-botones.my-1(href="https://www.youtube.com/watch?v=CxwJTRQh-aY" target="_blank")
+                  a.boton.color-acento-botones.my-0(href="https://www.youtube.com/watch?v=CxwJTRQh-aY" target="_blank")
                     span Ir al sitio
                     i.fas.fa-video  
 
@@ -560,7 +560,7 @@
             .col-lg-11.col-md-11.col-11
               img.img-a.img-t.mt-4(src='@/assets/curso/tema5/vide.svg', alt="tema 5")
               h4.text-center.mt-4 Trazo de la Bata o vestido
-              p.mb-4.my-3 Adicionalmente, observe con atención el video “Trazo de la Bata o vestido”, que se encuentra en el material complementario.
+              p.mb-4.my-3 Consulte el video “Trazo de la Bata o vestido”, que se encuentra en el material complementario.
               .row.justify-content-center.align-items-center
                 .col-sm-auto
                   a.boton.color-acento-botones.my-0(href="https://www.youtube.com/watch?app=desktop&v=JnFLa4-gUa4&t=187s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
@@ -573,7 +573,7 @@
             .col-lg-11.col-md-11.col-11
               img.img-a.img-t.mt-4(src='@/assets/curso/tema5/vide.svg', alt="tema 5")
               h4.text-center.mt-4 Cuellos y solapas
-              p.mb-4.my-3 Adicionalmente, observe con atención el video “Cuellos y solapas”, que se encuentra en el material complementario.
+              p.mb-4.my-3 Consulte el video “Cuellos y solapas”, que se encuentra en el material complementario.
               .row.justify-content-center.align-items-center
                 .col-sm-auto
                   a.boton.color-acento-botones.my-0(href="https://www.youtube.com/watch?v=xjSPGOWXJw0&t=1499s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
@@ -586,10 +586,10 @@
             .col-lg-11.col-md-11.col-11
               img.img-a.img-t.mt-4(src='@/assets/curso/tema5/pdff.svg', alt="tema 5")
               h4.text-center.mt-4 Variación del vestido
-              p.mb-4.my-3 Consulte el anexo “Variación del vestido”. Leer de la página 59 a 62.
+              p.mb-3.my-3 Consulte el anexo “Variación del vestido”. Leer de la página 59 a 62.
               .row.justify-content-center.align-items-center
                 .col-sm-auto
-                  a.boton.color-acento-botones.my-3(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4844/3081_modisteria_trazado_vestido_unidad3.pdf?sequence=1&isAllowed=y" target="_blank")
+                  a.boton.color-acento-botones.my-1(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4844/3081_modisteria_trazado_vestido_unidad3.pdf?sequence=1&isAllowed=y" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
@@ -735,12 +735,17 @@
                   .row.justify-content-between.align-items-center
                     .col.mb-2.mb-sm-0          
                       h4.mx-4.my-2 Base inferior de pantalón femenino
-                      p.mb-0.irr.mx-4 Adicionalmente, observe con atención el video “Base inferior de pantalón femenino”, que se encuentra en el material complementario.
+                      p.mb-0.irr.mx-4 Consulte el video “Base inferior de pantalón femenino”, que se encuentra en el material complementario.
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://youtu.be/7XPqP_3v0L0?si=dcZaqEm6Ao1G6qD3" target="_blank")
                         span Ir al sitio
                         i.fas.fa-video
     
+    .mb-4.d-flex.mb-5
+      .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
+        h5.col.px-4.mb-0.text-white.mx-5(data-aos="fade-right") Variantes de pantalón femenino
+        img.clase2(src='@/assets/curso/tema3/vot.svg' data-aos="fade-left") 
+
     p.mb-4 Según modificaciones de largos, amplitudes, detalles y cortes. Se pueden obtener los básicos inferiores. Las medidas de largos se deben tomar desde la cintura hasta el punto de la pierna que lo sugiera el diseño.
     p.mb-5 En los siguientes recursos podremos apreciar las diferentes variantes del pantalón femenino: 
     
@@ -758,7 +763,7 @@
                   .col-lg-11.col-md-11.col-11
                     img.img-a.img-t.mt-4(src='@/assets/curso/tema5/vide.svg', alt="tema 5")
                     h4.text-center.mt-4 Interpretación de prendas de vestir
-                    p.mb-4.my-3 Adicionalmente, observe con atención el video “Interpretación de prendas de vestir”, que se encuentra en el material complementario.
+                    p.mb-4.my-3 Consulte el video “Interpretación de prendas de vestir”, que se encuentra en el material complementario.
                     .row.justify-content-center.align-items-center
                       .col-sm-auto
                         a.boton.color-acento-botones.my-1(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
@@ -771,7 +776,7 @@
                   .col-lg-11.col-md-11.col-11
                     img.img-a.img-t.mt-4(src='@/assets/curso/tema5/vide.svg', alt="tema 5")
                     h4.text-center.mt-3 Análisis e interpretación de pantalón y sudadera
-                    p.mb-3.my-1 Adicionalmente, observe con atención el video “Análisis e interpretación de pantalón y sudadera”, que se encuentra en el material complementario.
+                    p.mb-3.my-1 Consulte el video “Análisis e interpretación de pantalón y sudadera”, que se encuentra en el material complementario.
                     .row.justify-content-center.align-items-center
                       .col-sm-auto
                         a.boton.color-acento-botones.my-0(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
@@ -824,6 +829,7 @@
               p.my-2 #[b Tener en cuenta:] que el largo de manga siempre será el mismo, sin importar que tipo de prenda o cabeza de manga se implemente.
 
         p.mb-4 En el desarrollo de curvas y trazos en las cabezas de manga existen varias formas de trazarlas, las implementadas y guiadas en el vídeo que se presenta a continuación, hace referencia a un acercamiento general de todos los trazos del manual.
+        p.mb-4 #[b Medidas]
         ul.lista-ul--color.mb-4
           li.d-flex
             i.fas.fa-car-side
@@ -848,7 +854,7 @@
             .col-lg-11.col-md-11.col-11
               img.img-a.img-t.mt-4(src='@/assets/curso/tema5/vide.svg', alt="tema 5")
               h4.text-center.mt-4 Trazo de manga y cabezas de manga
-              p.mb-4.my-3 Adicionalmente, observe con atención el video “Trazo de manga y cabezas de manga”, que se encuentra en el material complementario.
+              p.mb-4.my-3 Consulte el video “Trazo de manga y cabezas de manga”, que se encuentra en el material complementario.
               .row.justify-content-center.align-items-center
                 .col-sm-auto
                   a.boton.color-acento-botones.my-2(href="https://www.youtube.com/watch?v=EAl_FBfkYUE&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
@@ -878,10 +884,10 @@
             .col-lg-11.col-md-11.col-11
               img.img-a.img-t.mt-4(src='@/assets/curso/tema5/vide.svg', alt="tema 5")
               h4.text-center.mt-4 Interpretación de mangas
-              p.mb-4.my-3 Adicionalmente, observe con atención el video “Interpretación de mangas”, que se encuentra en el material complementario.
+              p.mb-4.my-3 Consulte el video “Interpretación de mangas”, que se encuentra en el material complementario.
               .row.justify-content-center.align-items-center
                 .col-sm-auto
-                  a.boton.color-acento-botones.my-0(href="https://youtu.be/2a81MoVG6Dg" target="_blank")
+                  a.boton.color-acento-botones.my-4(href="https://youtu.be/2a81MoVG6Dg" target="_blank")
                     span Ir al sitio
                     i.fas.fa-video
       
@@ -891,7 +897,7 @@
             .col-lg-11.col-md-11.col-11
               img.img-a.img-t.mt-4(src='@/assets/curso/tema5/vide.svg', alt="tema 5")
               h4.text-center.mt-3 Generalidades de la manga kimono y ranglan
-              p.mb-2.my-0 Adicionalmente, observe con atención el video “Generalidades de la manga kimono y ranglan”, que se encuentra en el material complementario.
+              p.mb-2.my-0 Consulte el video “Generalidades de la manga kimono y ranglan”, que se encuentra en el material complementario.
               .row.justify-content-center.align-items-center
                 .col-sm-auto
                   a.boton.color-acento-botones.my-1(href="https://youtu.be/tJWzjpSmkps" target="_blank")
@@ -924,7 +930,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-2.mb-sm-0          
                   h4 Análisis e interpretación de capas
-                  p.mb-0.irr Adicionalmente, observe con atención el video “Análisis e interpretación de capas”, que se encuentra en el material complementario.
+                  p.mb-0.irr Consulte el video “Análisis e interpretación de capas”, que se encuentra en el material complementario.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://youtu.be/ZbGipLzdDTY" target="_blank")
                     span Ir al sitio
@@ -937,7 +943,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0          
                   h4 Abrigo asimétrico
-                  p.mb-0.irr Adicionalmente, observe con atención el video “Abrigo asimétrico”, que se encuentra en el material complementario.
+                  p.mb-0.irr Consulte el video “Abrigo asimétrico”, que se encuentra en el material complementario.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://youtu.be/-t2RPXBUsLA" target="_blank")
                     span Ir al sitio
@@ -950,7 +956,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0          
                   h4 Interpretación de pantalón sastre femenino
-                  p.mb-0.irr Adicionalmente, observe con atención el video “Interpretación de pantalón sastre femenino”, que se encuentra en el material complementario.
+                  p.mb-0.irr Consulte el video “Interpretación de pantalón sastre femenino”, que se encuentra en el material complementario.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://youtu.be/8d20OBO4tHI" target="_blank")
                     span Ir al sitio
@@ -963,7 +969,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0          
                   h4 Análisis e interpretación de pantalón sudadera
-                  p.mb-0.irr Adicionalmente, observe con atención el video “Análisis e interpretación de pantalón sudadera”, que se encuentra en el material complementario.
+                  p.mb-0.irr Consulte el video “Análisis e interpretación de pantalón sudadera”, que se encuentra en el material complementario.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=xcUi9S-ZqzI" target="_blank")
                     span Ir al sitio

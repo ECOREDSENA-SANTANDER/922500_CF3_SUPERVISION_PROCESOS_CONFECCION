@@ -41,7 +41,7 @@
             .row.justify-content-center.align-items-top(titulo="Siglo XVIII - 1769")
               .col-sm-12.col-lg-6
                 h4.text-cus.mb-4.my-0 #[b Siglo XVIII - 1769]
-                p El patronaje de prendas comienza a ser más visible.  En 1769, M. Garsault publica la "Enciclopedia del corte y la confección", generando interés en la publicación y venta de patrones.
+                p El patronaje de prendas comienza a ser más visible.  En 1769, #[em M. Garsault] publica la "Enciclopedia del corte y la confección", generando interés en la publicación y venta de patrones.
               .col-sm-12.col-lg-4
                 figure
                   img.img-a.img-t.my-2(src='@/assets/curso/tema1/2.svg', alt='tema1')      
@@ -49,7 +49,7 @@
             .row.justify-content-center.align-items-top(titulo="1976")
               .col-sm-12.col-lg-6
                 h4.text-cus.mb-4.my-0 #[b 1976]
-                p En Londres, se inicia la reproducción de "The Taylor´s Complete Guide", una guía de confección y corte de vestidos que se vuelve popular en esa epoca.
+                p En Londres, se inicia la reproducción de #[em "The Taylor´s Complete Guide",] una guía de confección y corte de vestidos que se vuelve popular en esa epoca.
               .col-sm-12.col-lg-4
                 figure
                   img.img-a.img-t.my-2(src='@/assets/curso/tema1/3.svg', alt='tema1')      
@@ -57,7 +57,7 @@
             .row.justify-content-center.align-items-top(titulo="1822")
               .col-sm-12.col-lg-6
                 h4.text-cus.mb-4.my-0 #[b 1822]
-                p Los mismos autores de “The Taylor´s Complete Guide” publican “The Taylor´s Friendly Instructor”, una guía para modistas.
+                p Los mismos autores de #[em “The Taylor´s Complete Guide” publican “The Taylor´s Friendly ]Instructor”, una guía para modistas.
               .col-sm-12.col-lg-4
                 figure
                   img.img-a.img-t.my-2(src='@/assets/curso/tema1/4.svg', alt='tema1')      
@@ -65,7 +65,7 @@
             .row.justify-content-center.align-items-top(titulo="Siglo XIX")
               .col-sm-12.col-lg-6
                 h4.text-cus.mb-4.my-0 #[b Siglo XIX]
-                p La publicación de patrones se vuelve más masiva a través de revistas de moda o figurines, como se llamaba para aquella época. Se destacan la Revista Vogue, Patrones Weldon y el famoso Pattern Book, entre otros.
+                p La publicación de patrones se vuelve más masiva a través de revistas de moda o figurines, como se llamaba para aquella época. Se destacan la Revista #[em Vogue,] Patrones #[em Weldon] y el famoso #[em Pattern Book,] entre otros.
               .col-sm-12.col-lg-4
                 figure
                   img.img-a.img-t.my-2(src='@/assets/curso/tema1/5.svg', alt='tema1')      

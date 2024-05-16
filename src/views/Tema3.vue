@@ -180,7 +180,7 @@
                           .col
                             .row.justify-content-between.align-items-center
                               .col.mb-3.mb-sm-0          
-                                p.my-2 video toma de medidas
+                                p.my-2 Adicionalmente, revise con atención el video “Toma de medidas”.
                               .col-sm-auto
                                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=7tzquX5wI-4&t=2s" target="_blank")
                                   span Ir al sitio

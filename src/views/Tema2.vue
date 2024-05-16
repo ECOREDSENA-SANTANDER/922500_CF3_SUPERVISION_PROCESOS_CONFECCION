@@ -37,7 +37,7 @@
             .row.justify-content-center.align-items-start(titulo="Patronaje industrial")
               .col-lg-8.col-md-12.col-12
                 p.text-cus #[b Patronaje industrial]
-                p.mb-5 El patronaje es un proceso meticuloso que implica un análisis antropométrico detallado, abarcando la figura humana en 3D. Este método se distingue por su precisión en cada paso, desde el levantamiento de los básicos hasta el desarrollo de los patrones y moldes, junto con sus correspondientes transformaciones. Se lleva a cabo tanto en formato 2D, en papel o mediante #[em software] especializado como Audaces 360, Optitex, Gerber, y Lectra, entre otros.
+                p.mb-5 El patronaje es un proceso meticuloso que implica un análisis antropométrico detallado, abarcando la figura humana en 3D. Este método se distingue por su precisión en cada paso, desde el levantamiento de los básicos hasta el desarrollo de los patrones y moldes, junto con sus correspondientes transformaciones. Se lleva a cabo tanto en formato 2D, en papel o mediante #[em software] especializado como Audaces 360, #[em Optitex, Gerber, y Lectra,] entre otros.
                 p Este enfoque comienza con tablas de medidas establecidas geométricamente, adaptadas al uso final de la prenda. Estas tablas permiten implementar técnicas de escalado, evitando la necesidad de crear patrones y moldes completamente nuevos para cada talla. En su lugar, se utilizan las medidas base para calcular los incrementos entre tallas y se desarrollan fórmulas para ajustar los moldes en cada punto, facilitando así la producción masiva en entornos industriales.
               .col-lg-3.col-md-10.col-10
                 figure
@@ -82,7 +82,7 @@
             
               .col-md-3
                 figure
-                  img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema2/img09.png', alt='tema1')      
+                  img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema2/img09.png', alt='El patronaje también se destaca por su atención a la ergonomía y funcionalidad de las prendas. Se emplea especialmente para crear prendas completamente personalizadas para clientes exclusivos, siendo una práctica común entre marcas orientadas a un público selecto. Este proceso implica la toma de medidas antropométricas del cliente, seguida de una premuestra para ajustes preliminares antes de la confección final.')      
                   
             .row.justify-content-center.align-items-start(titulo="El patronaje sobre medidas comprende")   
               .col-lg-10.col-md-12.col-12.mb-4
