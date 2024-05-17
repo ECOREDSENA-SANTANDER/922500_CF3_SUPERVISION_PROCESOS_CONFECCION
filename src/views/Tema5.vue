@@ -110,7 +110,7 @@
                       h4 Manual de patronaje básico
                       p.mb-0.irr Consulte el “Manual de patronaje básico e interpretación de diseños - Conocimiento de los puntos de referencia para el trazado de las faldas”. Leer de la página 15 a 17.
                     .col-sm-auto
-                      a.boton.color-acento-botones(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=B929C4B6338D41F855E80661E0B9A970?sequence=1" target="_blank")
+                      a.boton.color-acento-botones(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF?sequence=1&isAllowed=y" target="_blank")
                         span Descargar
                         i.fas.fa-file-download
               .hr.mb-3
@@ -750,10 +750,22 @@
     p.mb-5 En los siguientes recursos podremos apreciar las diferentes variantes del pantalón femenino: 
     
     
-    .row.fondo5.justify-content-center.align-items-center.py-4.mb-5
+    .row.fondo5.justify-content-center.align-items-center.py-0.mb-5
       .col-sm-12.col-lg-12.px-lg-5.px-4
-        .row.justify-content-center.mb-4(data-aos="fade-down")
+        .row.justify-content-center.mb-0(data-aos="fade-down")
         
+          .row.justify-content-center.align-items-center.mb-2
+              .col-sm-12.col-lg-12
+                .row.d-flex.justify-content-center
+                  .col-sm-12.col-lg-5.mt-2
+                    .tarje.color-primario.my-4.he-4-cus.px-4.my-4.pt-4
+                      .row.justify-content-center
+                        .titulo-sexto.color-acento-contenido
+                          h5 Figura 15. 
+                          | Tipologia de pantalon segun largo
+                        img.mb-4(src='@/assets/curso/tema5/img14.png' , alt="Molde de pantalón con marcas punteadas dependiendo de estilo o diseño que se necesite según las variantes del pantalón femenino: Capri, toreador, bermuda, etc.")
+                        figcaption.text-black Fuente: SENA, 2021
+          
           .row.justify-content-center.align-items-center.mb-0(data-aos="fade-down")
             .col-sm-12.col-lg-3
               img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema5/imgcinco.svg', alt="tema 5")
@@ -784,17 +796,7 @@
                           i.fas.fa-video
             .col-lg-1.col-md-8.col-12.mb-4.my-5
             
-            .row.justify-content-center.align-items-center.mb-4
-              .col-sm-12.col-lg-12
-                .row.d-flex.justify-content-center
-                  .col-sm-12.col-lg-5.mt-2
-                    .tarje.color-primario.my-4.he-4-cus.px-4.my-4.pt-4
-                      .row.justify-content-center
-                        .titulo-sexto.color-acento-contenido
-                          h5 Figura 15. 
-                          | Tipologia de pantalon segun largo
-                        img.mb-4(src='@/assets/curso/tema5/img14.png' , alt="Molde de pantalón con marcas punteadas dependiendo de estilo o diseño que se necesite según las variantes del pantalón femenino: Capri, toreador, bermuda, etc.")
-                        figcaption.text-black Fuente: SENA, 2021
+            
 
     separador
     #t_5_4.titulo-segundo

@@ -144,8 +144,8 @@
                       a.boton.color-acento-botones.mx-2(:href="obtenerLink('/downloads/Anexo_2_Clasificacion_de_las_medidas.pdf')" target="_blank")
                         span Descargar
                         i.fas.fa-file-download
-
-
+                        
+                      
     Separador
     #t_3_2.titulo-segundo
       .h2 3.2 Análisis de medidas y cuadros de tallas
