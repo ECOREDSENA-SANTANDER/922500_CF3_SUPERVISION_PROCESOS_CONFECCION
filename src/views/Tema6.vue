@@ -296,7 +296,7 @@
               h5 Figura 22. 
               | Pantalón Clásico Masculino
             figure
-              img.img-a.img-t(src='@/assets/curso/tema6/malej.svg', alt="tema 6")
+              img.img-a.img-t(src='@/assets/curso/tema6/malej.svg', alt="la figura presenta dos molde de pantalón masculino, el primero es la base inferior de pantalón, y en el segundo se destaca un molde superpuesto donde se señalizan medidas y trazos importantes.")
               figcaption.text-black.mb-5 Fuente: SENA, 2021
                   
         .row.justify-content-center.align-items-center.mb-5 
@@ -361,7 +361,7 @@
                         h4.mb-1 Trazo de pantalón tipo Jean #[em Slim fit] masculino
                         p.mb-0.irr Consulte el video “Trazo de pantalón tipo Jean #[em Slim fit] masculino”, que se encuentra en el material complementario.
                       .col-sm-auto
-                        a.boton.color-acento-botones(href="https://www.youtube.com/watch?app=desktop&v=RE-fVkNZIOo&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+                        a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=BsbFLlxOeGE" target="_blank")
                           span Ir al sitio
                           i.fas.fa-video 
 
@@ -370,7 +370,7 @@
               h5 Figura 23. 
               | Pantalón Tipo #[em Jean #[em Slim Fit]]
             figure
-              img.img-a.img-t(src='@/assets/curso/tema6/maleja.svg' , alt="tema 6")
+              img.img-a.img-t(src='@/assets/curso/tema6/maleja.svg' , alt="la figura presenta dos molde de pantalón masculino, el primero es la base inferior de pantalón, y en el segundo se destaca el molde de jean ajustado superpuesto sobre la misma base en linea punteada, adicionalmente se destacan detalles y medidas importantes a tener en cuenta.")
               figcaption.text-black Fuente: SENA, 2021
 
         

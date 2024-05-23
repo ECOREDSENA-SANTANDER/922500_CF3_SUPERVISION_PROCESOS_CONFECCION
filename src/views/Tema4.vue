@@ -87,13 +87,14 @@
                 
                   ModalA(:abrir-modal.sync="modal1")
                     .row.justify-content-center.align-items-center
-                      .col-lg-6.col-md-10.col-10.mb-4
+                      .col-lg-6.col-md-12.col-12.mb-4
                         .fondo4
                           .titulo-sexto.color-acento-contenido
                             h5 Figura 8
                             | Escalado monobásico
                           figure
                             img.img-a.img-t(src='@/assets/curso/tema4/modal1.svg', alt='La imagen muestra un diagrama de un patrón de costura con diversas medidas anotadas en distintos puntos del patrón. El título de la figura es “Escalado monobásico.” Las medidas incluyen anchura de hombros, longitud de sisa, y otras dimensiones específicas para la confección de la prenda. El diagrama está detallado con líneas y flechas que indican dónde se deben tomar o ajustar las medidas.')
+                            figcaption Fuente.https://mimundodemoda.com/wp-content/uploads/2020/12/Manual_patronaje_basico-y-costura.pdf
                             
 
                 .kaha.p-4.mb-4.shadow 
@@ -109,13 +110,14 @@
                   
                   ModalA(:abrir-modal.sync="modal2")
                     .row.justify-content-center.align-items-center
-                      .col-lg-6.col-md-10.col-10.mb-4
+                      .col-lg-6.col-md-12.col-12.mb-4
                         .fondo4.p-5 
                           .titulo-sexto.color-acento-contenido
                             h5 Figura 9 
-                            |  Simple o relativo/diferencial
+                            | Simple o relativo/diferencial
                           figure
                             img.img-a.img-t(src='@/assets/curso/tema4/modal1.1.svg', alt='La imagen muestra un diagrama de patrones de costura etiquetado como “Figura 9 Simple o relativo/diferencial.” El diagrama presenta múltiples contornos de diferentes colores superpuestos, que probablemente representan distintos tamaños o ajustes del patrón. Las líneas y marcas indican cómo se debe escalar o ajustar el patrón para diferentes medidas.')
+                            figcaption Fuente.https://mimundodemoda.com/wp-content/uploads/2020/12/Manual_patronaje_basico-y-costura.pdf
                 
                 .kaha.p-4.mb-4.shadow  
                   h4.color Escalado bibásico

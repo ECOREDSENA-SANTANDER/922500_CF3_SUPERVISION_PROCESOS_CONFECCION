@@ -778,7 +778,7 @@
                     p.mb-4.my-3 Consulte el video “Interpretación de prendas de vestir”, que se encuentra en el material complementario.
                     .row.justify-content-center.align-items-center
                       .col-sm-auto
-                        a.boton.color-acento-botones.my-1(href="https://www.youtube.com/watch?v=K2SbwvDv7eA" target="_blank")
+                        a.boton.color-acento-botones.my-1(href="https://www.youtube.com/watch?v=fkHL3e5EOPI" target="_blank")
                           span Ir al sitio
                           i.fas.fa-video    
                 
