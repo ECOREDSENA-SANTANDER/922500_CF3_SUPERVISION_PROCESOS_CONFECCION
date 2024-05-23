@@ -67,7 +67,7 @@
     
     .row.justify-content-center.mb-4(data-aos="zoom-in-up")
       .col-lg-4
-        a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=V81Fjuq8XWs" target="_blank")
+        a.anexo.mb-4.mb-lg-0(href="https://youtu.be/9UZwjgAYxMY" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg" alt="tema 3")
           .anexo__texto
@@ -182,7 +182,7 @@
                               .col.mb-3.mb-sm-0          
                                 p.my-2 Adicionalmente, revise con atención el video “Toma de medidas”.
                               .col-sm-auto
-                                a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=7tzquX5wI-4&t=2s" target="_blank")
+                                a.boton.color-acento-botones(href="https://youtu.be/XxCRQGNL_G4" target="_blank")
                                   span Ir al sitio
                                   i.fas.fa-video
 

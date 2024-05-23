@@ -415,6 +415,11 @@ export default {
           cargo: 'Desarrollador Fullstack',
           centro: 'Regional Santander - Centro Agroturístico',
         },
+        {
+          nombre: 'Maria Alejandra Vera Briceño',
+          cargo: 'Animadora y Productora Multimedia',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
       ],
     },
     {

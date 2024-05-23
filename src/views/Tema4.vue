@@ -56,8 +56,8 @@
                     .titulo-sexto.color-acento-contenido
                       h5 Figura 7. 
                       | Plano cartesiano
-                    img(src='@/assets/curso/tema4/img02.svg' , alt="tema 4")
-
+                    img(src='@/assets/curso/tema4/img02.svg' , alt="La figura presenta una cuadricula con los ejes X y Y del plano cartesiano, y tres puntos señalado; (2,3),(-3,1)(-1,-2)")
+                    figcaption Fuente.https://www.significados.com/plano-cartesiano/
   
     Separador
     #t_4_1.titulo-segundo
@@ -93,7 +93,7 @@
                             h5 Figura 8
                             | Escalado monobásico
                           figure
-                            img.img-a.img-t(src='@/assets/curso/tema4/modal1.svg', alt='Se aplica la ampliación a largo y ancho de forma escalada y proporcional para crecimiento de talla')
+                            img.img-a.img-t(src='@/assets/curso/tema4/modal1.svg', alt='La imagen muestra un diagrama de un patrón de costura con diversas medidas anotadas en distintos puntos del patrón. El título de la figura es “Escalado monobásico.” Las medidas incluyen anchura de hombros, longitud de sisa, y otras dimensiones específicas para la confección de la prenda. El diagrama está detallado con líneas y flechas que indican dónde se deben tomar o ajustar las medidas.')
                             
 
                 .kaha.p-4.mb-4.shadow 
@@ -115,7 +115,7 @@
                             h5 Figura 9 
                             |  Simple o relativo/diferencial
                           figure
-                            img.img-a.img-t(src='@/assets/curso/tema4/modal1.1.svg', alt='La imagen expone el aumento de talla en lo ancho y no en lo largo')
+                            img.img-a.img-t(src='@/assets/curso/tema4/modal1.1.svg', alt='La imagen muestra un diagrama de patrones de costura etiquetado como “Figura 9 Simple o relativo/diferencial.” El diagrama presenta múltiples contornos de diferentes colores superpuestos, que probablemente representan distintos tamaños o ajustes del patrón. Las líneas y marcas indican cómo se debe escalar o ajustar el patrón para diferentes medidas.')
                 
                 .kaha.p-4.mb-4.shadow  
                   h4.color Escalado bibásico
@@ -166,7 +166,7 @@
                           .col.mb-3.mb-sm-0          
                             p.my-2 Anexo. Introducción y contextualización de escalado de prendas de vestir
                           .col-sm-auto
-                            a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=q62l2sbPAaE" target="_blank")
+                            a.boton.color-acento-botones(href="https://youtu.be/4oVw2Gutt5A" target="_blank")
                               span Ir al sitio
                               i.fas.fa-video
               

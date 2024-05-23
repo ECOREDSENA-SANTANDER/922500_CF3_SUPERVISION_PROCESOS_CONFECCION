@@ -110,7 +110,7 @@
                       h4 Manual de patronaje básico
                       p.mb-0.irr Consulte el “Manual de patronaje básico e interpretación de diseños - Conocimiento de los puntos de referencia para el trazado de las faldas”. Leer de la página 15 a 17.
                     .col-sm-auto
-                      a.boton.color-acento-botones(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF?sequence=1&isAllowed=y" target="_blank")
+                      a.boton.color-acento-botones(:href="obtenerLink('/downloads/Manual_patronaje_básico_interpretacion_diseños.pdf')" target="_blank")
                         span Descargar
                         i.fas.fa-file-download
               .hr.mb-3
@@ -123,7 +123,7 @@
                       h4 Manual de patronaje básico
                       p.mb-0.irr Consulte el “Manual de patronaje básico e interpretación de diseños - Conocimiento de los puntos de referencia para el trazado de las faldas”. Leer de la página 31 a 32.
                     .col-sm-auto
-                      a.boton.color-acento-botones(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=B929C4B6338D41F855E80661E0B9A970?sequence=1" target="_blank")
+                      a.boton.color-acento-botones(:href="obtenerLink('/downloads/Manual_patronaje_básico_interpretacion_diseños.pdf')" target="_blank")
                         span Descargar
                         i.fas.fa-file-download
               .hr.mb-3
@@ -136,7 +136,7 @@
                       h4 Patronaje delantero falda básica
                       p.mb-0.irr Consulte el anexo Pasos para falda básica.
                     .col-sm-auto
-                      a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=ljWlKVgj-Hw" target="_blank")
+                      a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=Zlc9gtFlJLw" target="_blank")
                         span Ir al sitio
                         i.fas.fa-video
               .hr.mb-3
@@ -149,7 +149,7 @@
                       h4 Base inferior falda femenino
                       p.mb-0.irr Consulte el video “Base inferior falda femenino”, que se encuentra en el material complementario.
                     .col-sm-auto
-                      a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=wl5EjrLU-8Y&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+                      a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=kw9nde2uyBs" target="_blank")
                         span Ir al sitio
                         i.fas.fa-video
     
@@ -171,7 +171,7 @@
                   h4 Trazo de faldas rotondas
                   p.mb-0.irr Consulte el video “Trazo de faldas rotondas”, que se encuentra en el material complementario.
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=DJIfqv1L4FA" target="_blank")
                     span Ir al sitio
                     i.fas.fa-video
           .hr.mb-3
@@ -184,7 +184,7 @@
                   h4 Trazo de falda y modificacion de basicos de falda 
                   p.mb-0.irr Consulte el video “Modificación de básicos de falda”, que se encuentra en el material complementario.
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?app=desktop&v=xtyPQh3vtuc&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=gfHPZ8-gzwQ" target="_blank")
                     span Ir al sitio
                     i.fas.fa-video
           .hr.mb-3
@@ -197,7 +197,7 @@
                   h4 Manual de interpretación de diseño
                   p.mb-0.irr Consulte el “Manual de patronaje básico e interpretación de diseños - Diseño de faldas”. Leer de la página 33 a 38.
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=B929C4B6338D41F855E80661E0B9A970?sequence=1" target="_blank")
+                  a.boton.color-acento-botones(href="/downloads/Manual_patronaje_básico_interpretacion_diseños.pdf" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
   
@@ -213,7 +213,7 @@
           .row.justify-content-center.align-items-center.mb-5
             .col-lg-7.col-md-12.col-12.mb-0
               p.mx-4.my-5 El manejo de volúmenes es un factor crucial en el desarrollo de prendas, ya que se logran mediante el uso de pinzas y sistemas de ajuste; es importante tener en cuenta que, independientemente del diseño trabajado, la metodología y los pasos a seguir son siempre los mismos, lo que lleva a determinar que este enfoque secuencial permite una mejor asimilación de la metodología.
-            .col-lg-5.col-md-6.col-6
+            .col-lg-5.col-md-9.col-9
               img.img-t.img-a.my-2.mover(src='@/assets/curso/tema5/img123.svg', alt="tema 5") 
     
     .mb-4.d-flex
@@ -341,7 +341,7 @@
                   h4 Manual de patronaje básico e interpretación de diseños
                   p.mb-0.irr Consulte el “Manual de patronaje básico e interpretación de diseños - Conocimiento para hace patrón base superior femenino”. Leer de la página 20 a 25.
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF?sequence=1&isAllowed=y" target="_blank")
+                  a.boton.color-acento-botones(href="/downloads/Manual_patronaje_básico_interpretacion_diseños.pdf" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
           .hr.mb-3
@@ -354,7 +354,7 @@
                   h4 Pasos para el trazo de la base superior  
                   p.mb-0.irr Consulte el video “Pasos para el trazo de la base superior”, que se encuentra en el material complementario.
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=p5r2Sm5N7nw&t=34s" target="_blank")
+                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=HzUZmIGpKjs" target="_blank")
                     span Ir al sitio
                     i.fas.fa-video
           .hr.mb-3
@@ -367,7 +367,7 @@
                   h4 Trazo de falda y modificación de básicos de falda
                   p.mb-0.irr Consulte el video “Trazo de falda y modificación de básicos de falda”, que se encuentra en el material complementario.
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=xtyPQh3vtuc" target="_blank")
+                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=gfHPZ8-gzwQ" target="_blank")
                     span Ir al sitio
                     i.fas.fa-video
   
@@ -456,7 +456,7 @@
                       h4.mx-4 Traslados de pinza correctiva de talles
                       p.mb-0.irr.mx-4 Consulte el video “Traslados de pinza correctiva de talles”, que se encuentra en el material complementario.
                     .col-sm-auto
-                      a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=encNXGtE15Y" target="_blank")
+                      a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=EpSXWyWzcPo" target="_blank")
                         span Ir al sitio
                         i.fas.fa-video
 
@@ -486,7 +486,7 @@
                   h4.mx-4.my-1 Análisis y trazo de sistema de ajuste pinzas y cortes
                   p.mb-0.irr.mx-4 Consulte el video “Análisis y trazo de sistema de ajuste pinzas y cortes”, que se encuentra en el material complementario.
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=Tq_3F32nynw&t=1759s" target="_blank")
+                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=pb0f6QFi9Y8" target="_blank")
                     span Ir al sitio
                     i.fas.fa-video
     
@@ -503,7 +503,7 @@
               p.mb-5.my-3 Consulte el video “Trazo base superior”.
               .row.justify-content-center.align-items-center
                 .col-sm-auto.mb-5
-                  a.boton.color-acento-botones.my-4(href="https://www.youtube.com/watch?v=56vyEeZhA-I&t=815s" target="_blank")
+                  a.boton.color-acento-botones.my-4(href="https://www.youtube.com/watch?v=MJJln-zDjfc" target="_blank")
                     span Ir al sitio
                     i.fas.fa-video
 
@@ -516,7 +516,7 @@
               p.mb-4.my-3 Consulte el video “Trazo básico blusa”, que se encuentra en el material complementario.
               .row.justify-content-center.align-items-center
                 .col-sm-auto
-                  a.boton.color-acento-botones.my-4(href="https://www.youtube.com/watch?v=euVdaqaTQlY&t=1523s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+                  a.boton.color-acento-botones.my-4(href="https://www.youtube.com/watch?v=DamxUrw0CZM" target="_blank")
                     span Ir al sitio
                     i.fas.fa-video
 
@@ -529,7 +529,7 @@
               p.mb-4.my-3 Para ampliar su conocimiento, observe los ejemplos expuestos en el documento anexo denominado “Piezas complementarias”.
               .row.justify-content-center.align-items-center
                 .col-sm-auto
-                  a.boton.color-acento-botones.my-0(href="https://www.youtube.com/watch?v=CxwJTRQh-aY" target="_blank")
+                  a.boton.color-acento-botones.my-0(href="https://www.youtube.com/watch?v=YgPcDIMHU8U" target="_blank")
                     span Ir al sitio
                     i.fas.fa-video  
 
@@ -563,7 +563,7 @@
               p.mb-4.my-3 Consulte el video “Trazo de la Bata o vestido”, que se encuentra en el material complementario.
               .row.justify-content-center.align-items-center
                 .col-sm-auto
-                  a.boton.color-acento-botones.my-0(href="https://www.youtube.com/watch?app=desktop&v=JnFLa4-gUa4&t=187s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+                  a.boton.color-acento-botones.my-0(href="https://www.youtube.com/watch?v=eH7LRTKK040" target="_blank")
                     span Ir al sitio
                     i.fas.fa-video
       
@@ -576,7 +576,7 @@
               p.mb-4.my-3 Consulte el video “Cuellos y solapas”, que se encuentra en el material complementario.
               .row.justify-content-center.align-items-center
                 .col-sm-auto
-                  a.boton.color-acento-botones.my-0(href="https://www.youtube.com/watch?v=xjSPGOWXJw0&t=1499s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+                  a.boton.color-acento-botones.my-0(href="https://www.youtube.com/watch?v=fMp3RRQ384s" target="_blank")
                     span Ir al sitio
                     i.fas.fa-video
 
@@ -589,7 +589,7 @@
               p.mb-3.my-3 Consulte el anexo “Variación del vestido”. Leer de la página 59 a 62.
               .row.justify-content-center.align-items-center
                 .col-sm-auto
-                  a.boton.color-acento-botones.my-1(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4844/3081_modisteria_trazado_vestido_unidad3.pdf?sequence=1&isAllowed=y" target="_blank")
+                  a.boton.color-acento-botones.my-1(href="/downloads/Manual_patronaje_básico_interpretacion_diseños.pdf" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
@@ -719,7 +719,7 @@
                       h4.mx-4.my-2 Manual de patronaje básico para interpretación de diseños
                       p.mb-0.irr.mx-4 Consulte el “Manual de patronaje básico para interpretación de diseños”. Leer de la página 28 a la 30.
                     .col-sm-auto
-                      a.boton.color-acento-botones(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CDC8FDE9468D98E37FFD127332113A29?sequence=1" target="_blank")
+                      a.boton.color-acento-botones(href="/downloads/Manual_patronaje_básico_interpretacion_diseños.pdf" target="_blank")
                         span Descargar
                         i.fas.fa-file-download
         
@@ -737,7 +737,7 @@
                       h4.mx-4.my-2 Base inferior de pantalón femenino
                       p.mb-0.irr.mx-4 Consulte el video “Base inferior de pantalón femenino”, que se encuentra en el material complementario.
                     .col-sm-auto
-                      a.boton.color-acento-botones(href="https://youtu.be/7XPqP_3v0L0?si=dcZaqEm6Ao1G6qD3" target="_blank")
+                      a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=k0-m6ftaKts" target="_blank")
                         span Ir al sitio
                         i.fas.fa-video
     
@@ -768,7 +768,7 @@
           
           .row.justify-content-center.align-items-center.mb-0(data-aos="fade-down")
             .col-sm-12.col-lg-3
-              img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema5/imgcinco.svg', alt="tema 5")
+              img.img-a.img-t.d-none.d-lg-block.mt-3(src='@/assets/curso/tema5/imgcinco.svg', alt="tema 5")
             .col-lg-4.col-md-8.col-12.mb-4.my-5
               .fondo21e
                 .row.justify-content-center.align-items-center.mb-4
@@ -778,7 +778,7 @@
                     p.mb-4.my-3 Consulte el video “Interpretación de prendas de vestir”, que se encuentra en el material complementario.
                     .row.justify-content-center.align-items-center
                       .col-sm-auto
-                        a.boton.color-acento-botones.my-1(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+                        a.boton.color-acento-botones.my-1(href="https://www.youtube.com/watch?v=K2SbwvDv7eA" target="_blank")
                           span Ir al sitio
                           i.fas.fa-video    
                 
@@ -791,7 +791,7 @@
                     p.mb-3.my-1 Consulte el video “Análisis e interpretación de pantalón y sudadera”, que se encuentra en el material complementario.
                     .row.justify-content-center.align-items-center
                       .col-sm-auto
-                        a.boton.color-acento-botones.my-0(href="https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+                        a.boton.color-acento-botones.my-0(href="https://www.youtube.com/watch?v=8vgwqHz6Qio" target="_blank")
                           span Ir al sitio
                           i.fas.fa-video
             .col-lg-1.col-md-8.col-12.mb-4.my-5
@@ -859,7 +859,7 @@
               p.mb-4.my-3 Consulte el video “Trazo de manga y cabezas de manga”, que se encuentra en el material complementario.
               .row.justify-content-center.align-items-center
                 .col-sm-auto
-                  a.boton.color-acento-botones.my-2(href="https://www.youtube.com/watch?v=EAl_FBfkYUE&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+                  a.boton.color-acento-botones.my-2(href="https://www.youtube.com/watch?v=bOKMgtgSzM4" target="_blank")
                     span Ir al sitio
                     i.fas.fa-video
       
@@ -873,7 +873,7 @@
               p.mb-2.my-3 Consulte el anexo “Manual de patronaje básico para interpretación de diseños”. Leer de la página 26 a 44.
               .row.justify-content-center.align-items-center
                 .col-sm-auto
-                  a.boton.color-acento-botones.my-1(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CDC8FDE9468D98E37FFD127332113A29?sequence=1" target="_blank")
+                  a.boton.color-acento-botones.my-1(href="/downloads/Manual_patronaje_básico_interpretacion_diseños.pdf" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
@@ -889,7 +889,7 @@
               p.mb-4.my-3 Consulte el video “Interpretación de mangas”, que se encuentra en el material complementario.
               .row.justify-content-center.align-items-center
                 .col-sm-auto
-                  a.boton.color-acento-botones.my-4(href="https://youtu.be/2a81MoVG6Dg" target="_blank")
+                  a.boton.color-acento-botones.my-4(href="https://www.youtube.com/watch?v=jAAy_cQfRok" target="_blank")
                     span Ir al sitio
                     i.fas.fa-video
       
@@ -902,7 +902,7 @@
               p.mb-2.my-0 Consulte el video “Generalidades de la manga kimono y ranglan”, que se encuentra en el material complementario.
               .row.justify-content-center.align-items-center
                 .col-sm-auto
-                  a.boton.color-acento-botones.my-1(href="https://youtu.be/tJWzjpSmkps" target="_blank")
+                  a.boton.color-acento-botones.my-1(href="https://www.youtube.com/watch?v=bsxn_w-kS5Y" target="_blank")
                     span Ir al sitio
                     i.fas.fa-video
 
@@ -915,7 +915,7 @@
               p.mb-2.my-3 Consulte el anexo “Manga Kimono”. Leer página 48 y manga ranglan formal e informal. Leer páginas 49 y 50.
               .row.justify-content-center.align-items-center
                 .col-sm-auto
-                  a.boton.color-acento-botones.my-2(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CDC8FDE9468D98E37FFD127332113A29?sequence=1" target="_blank")
+                  a.boton.color-acento-botones.my-2(href="/downloads/Manual_patronaje_básico_interpretacion_diseños.pdf" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
@@ -934,7 +934,7 @@
                   h4 Análisis e interpretación de capas
                   p.mb-0.irr Consulte el video “Análisis e interpretación de capas”, que se encuentra en el material complementario.
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://youtu.be/ZbGipLzdDTY" target="_blank")
+                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=N-2DugIICpw" target="_blank")
                     span Ir al sitio
                     i.fas.fa-video
           .hr.mb-3
@@ -947,7 +947,7 @@
                   h4 Abrigo asimétrico
                   p.mb-0.irr Consulte el video “Abrigo asimétrico”, que se encuentra en el material complementario.
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://youtu.be/-t2RPXBUsLA" target="_blank")
+                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=aga8T_qGAFs" target="_blank")
                     span Ir al sitio
                     i.fas.fa-video 
           .hr.mb-3
@@ -960,7 +960,7 @@
                   h4 Interpretación de pantalón sastre femenino
                   p.mb-0.irr Consulte el video “Interpretación de pantalón sastre femenino”, que se encuentra en el material complementario.
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://youtu.be/8d20OBO4tHI" target="_blank")
+                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=VZZQsjRcc7k" target="_blank")
                     span Ir al sitio
                     i.fas.fa-video
           .hr.mb-3
@@ -973,7 +973,7 @@
                   h4 Análisis e interpretación de pantalón sudadera
                   p.mb-0.irr Consulte el video “Análisis e interpretación de pantalón sudadera”, que se encuentra en el material complementario.
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=xcUi9S-ZqzI" target="_blank")
+                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=8vgwqHz6Qio" target="_blank")
                     span Ir al sitio
                     i.fas.fa-video
 

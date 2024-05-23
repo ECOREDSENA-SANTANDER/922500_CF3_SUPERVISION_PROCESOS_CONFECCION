@@ -8,8 +8,8 @@
           i.fas.fa-info
       h1 Introducción
     
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-5.mb-4
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-5.col-md-10.col-10.mb-4
         img.img-t.img-a.my-2(src='@/assets/curso/introduccion/img01.svg', alt='Introducción') 
       .col-lg-7
         p.mb-4 Dentro de los procesos que se llevan a cabo en la industria de la producción de prendas, 
@@ -19,6 +19,10 @@
           strong.palabra abordar el patronaje industrial dentro de las líneas femenino y masculino
           | , así como el escalado que se logra a través del mismo análisis en los cuadros de tallas, permitiendo agilizar el proceso de producción. Este abordaje permite comprender la estructura corporal como punto de partida para la construcción de cuadros de tallas, el patronaje, y su interpretación, posibilitando tener una visión integral en los procesos de confección en planta.
     
+    figure
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/rtUJ57k2kkY?si=czCruVJZYVStBBOP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+      figcaption Video: Leyenda del video
 
 
 </template>

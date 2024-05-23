@@ -66,8 +66,8 @@
                   h5 Figura 2. 
                   | Patronaje industrial de chaqueta
                 figure
-                  img.img-a.img-t(src='@/assets/curso/tema2/img08.svg', alt='Se exhiben 18 piezas de telas que conforman cada uno de los cortes que debe tener la tela para obtener el patrón completo para una chaqueta.')      
-              
+                  img(src='@/assets/curso/tema2/img08.svg', alt='Se exhiben 18 piezas de telas que conforman cada uno de los cortes que debe tener la tela para obtener el patrón completo para una chaqueta.')      
+                  figcaption Fuente. https://www.aitex.es/tag/servef-2016/
             .row.justify-content-center.align-items-start(titulo="Patronaje sobre medidas")
               .col-lg-8.col-md-12.col-12.mt-4.texto-superior
                 p.text-cus.mb-5 #[b Patronaje sobre medidas]
@@ -109,7 +109,7 @@
                     .col.mb-3.mb-sm-0          
                       p.my-2.mx-4 Gamas de mercado Universos de vestuarios - ocasiones de uso
                     .col-sm-auto
-                      a.boton.color-acento-botones.mx-4(href="https://www.youtube.com/watch?v=YXT2HTjiB3Q" target="_blank")
+                      a.boton.color-acento-botones.mx-4(href="https://youtu.be/VsTacEciP3k" target="_blank")
                         span Ir al sitio
                         i.fas.fa-video 
         
@@ -117,21 +117,21 @@
     
         .row
           .col-lg-4.mb-4.mb-md-0
-            a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=FHhqkd0h4Kw" target="_blank")
+            a.anexo.mb-4.mb-lg-0(href="https://youtu.be/wdtlMZurv_w" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg" alt="Imagen decorativa")
               .anexo__texto
                 strong.or Enlace web. 
                 | Reconocimientos de las prendas
           .col-lg-4.mb-4.mb-md-0
-            a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=5YOLIDHLiCw&t=122s" target="_blank")
+            a.anexo.mb-4.mb-lg-0(href="https://youtu.be/dcFVqOqjFg4" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg" alt="Imagen decorativa")
               .anexo__texto
                 strong.or Enlace web. 
                 | Introducción a la ficha técnica
           .col-lg-4.mb-4.mb-md-0
-            a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=ck4jApUj5ss" target="_blank")
+            a.anexo.mb-4.mb-lg-0(href="https://youtu.be/PfYp-Hsyb6I" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg" alt="Imagen decorativa")
               .anexo__texto

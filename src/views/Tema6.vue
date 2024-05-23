@@ -58,9 +58,9 @@
               .col-sm-12.col-lg-5.mb-4
                 .titulo-sexto.color-acento-contenido
                   h5 Figura 17. 
-                  | Base masculino Slim fil
+                  | Base masculino Slim fit
                 figure
-                  img(src='@/assets/curso/tema6/img02.svg', alt="tema 6")
+                  img(src='@/assets/curso/tema6/img02.svg', alt="La figura presenta un molde de la base de una camisa ajustada de hombre.")
                   figcaption.text-black Fuente: SENA, 2021
         
         
@@ -78,7 +78,7 @@
                         h4.mb-1 Paso a paso de la base superior masculina #[em slim fit.] 
                         p.mb-0.irr Consulte el video “Paso a paso de la base superior masculina #[em slim fit]”, que se encuentra en el material complementario.
                       .col-sm-auto
-                        a.boton.color-acento-botones(href="https://www.youtube.com/watch?app=desktop&v=rximz1xBJM8&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+                        a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=zEqZGyEEhnU" target="_blank")
                           span Ir al sitio
                           i.fas.fa-video 
 
@@ -96,7 +96,7 @@
           h5 Figura 18 
           |Trasformación de base a camisa masculino #[em Slim fit]
         figure
-          img(src='@/assets/curso/tema6/imggg.svg', alt="tema 6")
+          img(src='@/assets/curso/tema6/imggg.svg', alt="la figura presenta un molde de camisa de hombre ajustada adicionando detalles de botones, y cuello. ")
           figcaption.mb-5.text-black Fuente: SENA, 2021
       .col-lg-4.col-md-10.col-10
         img.img-a.img-t.my-5(src='@/assets/curso/tema6/immm.png' , alt="tema 6")
@@ -120,7 +120,7 @@
           h5 Figura 19. 
           | Camisa clásica
         figure
-          img(src='@/assets/curso/tema6/camil.svg', alt="tema 6")
+          img(src='@/assets/curso/tema6/camil.svg', alt="la figura presenta el molde de una camisa tipo clásica masculina adicionando detalles como el bolsillo, los botones y el cuello.")
           figcaption.mb-4.text-black Fuente: SENA, 2021
 
     
@@ -142,7 +142,7 @@
                       h4.mb-1 Manual de patronaje básico SENA
                       p.mb-0.irr Consulte “El Manual de patronaje básico SENA.” Leer páginas 66 y 67.
                     .col-sm-auto
-                      a.boton.color-acento-botones(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CDC8FDE9468D98E37FFD127332113A29?sequence=1" target="_blank")
+                      a.boton.color-acento-botones(href="/downloads/Manual_patronaje_básico_interpretacion_diseños.pdf" target="_blank")
                         span Descargar
                         i.fas.fa-file-download
           p.mb-5 
@@ -157,7 +157,7 @@
                       h4.mb-1 Cuellos, mangas y sus variaciones
                       p.mb-0.irr Consulte el video “Cuellos, mangas y sus variaciones”, que se encuentra en el material complementario.
                     .col-sm-auto
-                      a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=PKd_D-0U968&t=76s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+                      a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=UwIdbbg5-fA" target="_blank")
                         span Ir al sitio
                         i.fas.fa-video
         
@@ -202,7 +202,7 @@
               p.mb-5.my-0 Consulte el video “Paso a paso del trazo de cuellos - generalidades y comportamientos”, que se encuentra en el material complementario.
               .row.justify-content-center.align-items-center
                 .col-sm-auto
-                  a.boton.color-acento-botones.my-1(href="https://www.youtube.com/watch?v=agDscYys1CY&t=105s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+                  a.boton.color-acento-botones.my-1(href="https://www.youtube.com/watch?v=cfkxQlf6Vfw" target="_blank")
                     span Ir al sitio
                     i.fas.fa-video
 
@@ -216,7 +216,7 @@
               p.mb-2.my-0 Consulte el video “Paso a paso del trazo de manga, puño y cuello - de la camisa clásica y #[em slim fit]”, que se encuentra en el material complementario.
               .row.justify-content-center.align-items-center
                 .col-sm-auto
-                  a.boton.color-acento-botones.my-1(href="https://www.youtube.com/watch?v=ktU9DxgPvH8&t=446s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+                  a.boton.color-acento-botones.my-1(href="https://www.youtube.com/watch?v=VMJYcQqIKBQ" target="_blank")
                     span Ir al sitio
                     i.fas.fa-video
     
@@ -226,7 +226,7 @@
           h5 Figura 20. 
           | Camisa clásica
         figure
-          img(src='@/assets/curso/tema6/fig20.svg', alt="tema 6")
+          img(src='@/assets/curso/tema6/fig20.svg', alt="La figura presenta el molde y detalles de medidas de una manga de camisa ajustada. ")
           figcaption.text-black Fuente: SENA, 2021
     
     
@@ -279,7 +279,7 @@
           h5 Figura 21. 
           | Pantalón base
         figure
-          img(src='@/assets/curso/tema6/imgh.svg' , alt="tema 6")
+          img(src='@/assets/curso/tema6/imgh.svg' , alt="la figura presenta un molde de pantalón con señalización y detalles de las medidas ")
           figcaption.mb-5.text-black Fuente: SENA, 2021
 
     
@@ -311,7 +311,7 @@
                       h4.mb-1 Manual de patronaje básico de interpretación de diseños
                       p.mb-0.irr Consulte “Manual de patronaje básico de interpretación de diseños.” Leer páginas 79.
                     .col-sm-auto
-                      a.boton.color-acento-botones(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CDC8FDE9468D98E37FFD127332113A29?sequence=1" target="_blank")
+                      a.boton.color-acento-botones(href="/downloads/Manual_patronaje_básico_interpretacion_diseños.pdf" target="_blank")
                         span Descargar
                         i.fas.fa-file-download 
           p.mb-5 
@@ -326,7 +326,7 @@
                       h4.mb-1 trazo del pantalón clásico masculino 
                       p.mb-0.irr Consulte el video “trazo del pantalón clásico masculino”, que se encuentra en el material complementario.
                     .col-sm-auto
-                      a.boton.color-acento-botones(href="https://www.youtube.com/watch?app=desktop&v=4FG5qSekuLc&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+                      a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=M-vqfL1whC4" target="_blank")
                         span Ir al sitio
                         i.fas.fa-video 
 
@@ -346,7 +346,7 @@
                         h4.mb-1 Manual de patronaje básico de interpretación de diseños
                         p.mb-0.irr Consulte “Manual de patronaje básico de interpretación de diseños.” Leer páginas 80.
                       .col-sm-auto
-                        a.boton.color-acento-botones(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CDC8FDE9468D98E37FFD127332113A29?sequence=1" target="_blank")
+                        a.boton.color-acento-botones(href="/downloads/Manual_patronaje_básico_interpretacion_diseños.pdf" target="_blank")
                           span Descargar
                           i.fas.fa-file-download 
             p.mb-5 
