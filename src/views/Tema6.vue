@@ -154,8 +154,8 @@
                 .col
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0          
-                      h4.mb-1 Cuellos, mangas y sus variaciones
-                      p.mb-0.irr Consulte el video “Cuellos, mangas y sus variaciones”, que se encuentra en el material complementario.
+                      h4.mb-1 Trazo de camisa clásica
+                      p.mb-0.irr Consulte el video “Trazo de camisa clásica”, que se encuentra en el material complementario.
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=UwIdbbg5-fA" target="_blank")
                         span Ir al sitio
