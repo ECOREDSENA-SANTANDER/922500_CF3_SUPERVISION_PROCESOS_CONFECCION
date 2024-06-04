@@ -58,7 +58,7 @@
               .col-sm-12.col-lg-5.mb-4
                 .titulo-sexto.color-acento-contenido
                   h5 Figura 17. 
-                  | Base masculino Slim fit
+                  | Base masculino #[em Slim fit]
                 figure
                   img(src='@/assets/curso/tema6/img02.svg', alt="La figura presenta un molde de la base de una camisa ajustada de hombre.")
                   figcaption.text-black Fuente: SENA, 2021
@@ -76,7 +76,7 @@
                     .row.justify-content-between.align-items-center
                       .col.mb-3.mb-sm-0          
                         h4.mb-1 Paso a paso de la base superior masculina #[em slim fit.] 
-                        p.mb-0.irr Consulte el video “Paso a paso de la base superior masculina #[em slim fit]”, que se encuentra en el material complementario.
+                        p.mb-0.irr Consulte el video “Base superior masculina #[em Slim Fit]”.
                       .col-sm-auto
                         a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=zEqZGyEEhnU" target="_blank")
                           span Ir al sitio
@@ -155,7 +155,7 @@
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0          
                       h4.mb-1 Trazo de camisa clásica
-                      p.mb-0.irr Consulte el video “Trazo de camisa clásica”, que se encuentra en el material complementario.
+                      p.mb-0.irr Consulte el video “Trazo de camisa clásica”.
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=UwIdbbg5-fA" target="_blank")
                         span Ir al sitio
@@ -199,10 +199,10 @@
             .col-lg-11.col-md-11.col-12
               img.img-a.img-t.mt-4(src='@/assets/curso/tema6/vieo.svg', alt="tema 5")
               h4.text-center.mt-3 Paso a paso del trazo de cuellos 
-              p.mb-5.my-0 Consulte el video “Paso a paso del trazo de cuellos - generalidades y comportamientos”, que se encuentra en el material complementario.
+              p.mb-5.my-2 Consulte el video “Trazo de cuellos generalidades y comportamientos”.
               .row.justify-content-center.align-items-center
                 .col-sm-auto
-                  a.boton.color-acento-botones.my-1(href="https://www.youtube.com/watch?v=cfkxQlf6Vfw" target="_blank")
+                  a.boton.color-acento-botones.my-3(href="https://www.youtube.com/watch?v=cfkxQlf6Vfw" target="_blank")
                     span Ir al sitio
                     i.fas.fa-video
 
@@ -213,7 +213,7 @@
             .col-lg-11.col-md-11.col-12
               img.img-a.img-t.mt-4(src='@/assets/curso/tema6/vieo.svg', alt="tema 5")
               h4.text-center.mt-2 Paso a paso del trazo de manga, puño y cuello
-              p.mb-2.my-0 Consulte el video “Paso a paso del trazo de manga, puño y cuello - de la camisa clásica y #[em slim fit]”, que se encuentra en el material complementario.
+              p.mb-5.my-0 Consulte el video “Trazo de manga, puño y cuello - Camisa clásica y #[em Slim Fit]”.
               .row.justify-content-center.align-items-center
                 .col-sm-auto
                   a.boton.color-acento-botones.my-1(href="https://www.youtube.com/watch?v=VMJYcQqIKBQ" target="_blank")
@@ -323,8 +323,8 @@
                 .col
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0          
-                      h4.mb-1 trazo del pantalón clásico masculino 
-                      p.mb-0.irr Consulte el video “trazo del pantalón clásico masculino”, que se encuentra en el material complementario.
+                      h4.mb-1 Trazo del pantalón clásico masculino 
+                      p.mb-0.irr Consulte el video “Trazo del pantalón clásico masculino”.
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=M-vqfL1whC4" target="_blank")
                         span Ir al sitio
@@ -333,8 +333,8 @@
       .py-3.py-md-4.bg26.px-3(titulo="Trazo de Pantalón Tipo <em>Jean Slim Fit</em>")
         .row.align-items-center.justify-content-center
           .col-lg-7.col-md-12.my-3
-            .h4.mb-4.mx-3 Trazo de Pantalón Tipo Jean #[em Slim Fit] 
-            p.mb-5.mx-3 Teniendo en cuenta que el desarrollo del trazo de pantalón tipo jean silueta #[em Slim fit] (ajustado), sale desde el básico o la base inferior de pantalón masculino, es importante tener claras las medidas y las referencias de construcción, con el fin de modificar o trabajar ajustes desde la base y no iniciar el trazo del diseño de pantalón desde cero. En este caso, se realizarán ajustes por anchos, contornos y gancho o extensión de tiro, tomando como referencia o punto de anclaje la línea de aplome.
+            .h4.mb-4.mx-3 Trazo de Pantalón Tipo #[em Jean Slim Fit] 
+            p.mb-5.mx-3 Teniendo en cuenta que el desarrollo del trazo de pantalón tipo #[em jean] silueta #[em Slim fit] (ajustado), sale desde el básico o la base inferior de pantalón masculino, es importante tener claras las medidas y las referencias de construcción, con el fin de modificar o trabajar ajustes desde la base y no iniciar el trazo del diseño de pantalón desde cero. En este caso, se realizarán ajustes por anchos, contornos y gancho o extensión de tiro, tomando como referencia o punto de anclaje la línea de aplome.
             .col-sm-12.col-lg-12
               .fondo21.p-3.mb-2
                 .row.justify-content-center.align-items-center
@@ -358,8 +358,8 @@
                   .col
                     .row.justify-content-center.align-items-center
                       .col.mb-3.mb-sm-0          
-                        h4.mb-1 Trazo de pantalón tipo Jean #[em Slim fit] masculino
-                        p.mb-0.irr Consulte el video “Trazo de pantalón tipo Jean #[em Slim fit] masculino”, que se encuentra en el material complementario.
+                        h4.mb-1 Trazo de pantalón tipo  #[em Jean Slim fit] masculino
+                        p.mb-0.irr Consulte el video “Trazo de pantalón tipo Jean #[em Slim fit] ”.
                       .col-sm-auto
                         a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=BsbFLlxOeGE" target="_blank")
                           span Ir al sitio
@@ -368,7 +368,7 @@
           .col-lg-4.col-md-7.col-10
             .titulo-sexto.color-acento-contenido
               h5 Figura 23. 
-              | Pantalón Tipo #[em Jean #[em Slim Fit]]
+              | Pantalón Tipo #[em Jean Slim Fit]
             figure
               img.img-a.img-t(src='@/assets/curso/tema6/maleja.svg' , alt="la figura presenta dos molde de pantalón masculino, el primero es la base inferior de pantalón, y en el segundo se destaca el molde de jean ajustado superpuesto sobre la misma base en linea punteada, adicionalmente se destacan detalles y medidas importantes a tener en cuenta.")
               figcaption.text-black Fuente: SENA, 2021

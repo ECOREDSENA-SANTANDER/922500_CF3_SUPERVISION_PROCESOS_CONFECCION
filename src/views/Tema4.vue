@@ -99,7 +99,7 @@
 
                 .kaha.p-4.mb-4.shadow 
                   h4.color Simple o relativo/diferencial
-                  p.mb-3 Es implementado cuando en los cuadros de tallas se observa que los incrementos entre tallas varían dentro de la serie, por ejemplo, no hay mayor incremento en estatura (largos totales) pero si en anchos. 
+                  p.mb-3 Es implementado cuando en los cuadros de tallas se indique que los incrementos entre tallas varían dentro de la serie, por ejemplo, no hay mayor incremento en estatura (largos totales) pero si en anchos. 
                 
                   .row
                     .col-auto
@@ -166,7 +166,7 @@
                       .col
                         .row.justify-content-between.align-items-center
                           .col.mb-3.mb-sm-0          
-                            p.my-2 Anexo. Introducción y contextualización de escalado de prendas de vestir
+                            p.my-2 Anexo. Introducción y contextualización-escalado
                           .col-sm-auto
                             a.boton.color-acento-botones(href="https://youtu.be/4oVw2Gutt5A" target="_blank")
                               span Ir al sitio

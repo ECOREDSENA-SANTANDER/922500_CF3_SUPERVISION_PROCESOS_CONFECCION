@@ -54,7 +54,7 @@
             .col-lg-10.col-sm-12.col-12
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0          
-                  p.my-2.mx-4 #[b División del cuerpo:] conocer el cuerpo humano es sumamente importante para traducir su estructura en medidas y patronaje de prendas, por lo que, a continuación, se podrá visualizar la división a tener en cuenta para su análisis. 
+                  p.my-2.mx-4 #[b División del cuerpo:] conocer el cuerpo humano es sumamente importante para traducir su estructura en medidas y patronaje de prendas, por lo que, a continuación, se presenta la división a tener en cuenta para su análisis. 
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
@@ -170,7 +170,7 @@
 
               .col-lg-6.col-md-10.col-12.mt-2
                 .tarje.color-primario.my-4.he-4-cus.px-4.my-4.pt-4
-                  p.mb-3 #[b También será importante que visualice el video en donde se explica el proceso de toma de medidas.]
+                  p.mb-3 #[b También será importante que explore el video en donde se explica el proceso de toma de medidas.]
                   .row.justify-content-center.align-items-center
                     .col-sm-12.col-lg-12
                       .fondo21.p-3.mb-4

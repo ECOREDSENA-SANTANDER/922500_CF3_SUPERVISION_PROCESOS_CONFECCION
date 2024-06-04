@@ -49,7 +49,7 @@
             .row.justify-content-center.align-items-top(titulo="1976")
               .col-sm-12.col-lg-6
                 h4.text-cus.mb-4.my-0 #[b 1976]
-                p En Londres, se inicia la reproducción de #[em "The Taylor´s Complete Guide",] una guía de confección y corte de vestidos que se vuelve popular en esa epoca.
+                p En Londres, se inicia la reproducción de #[em "The Taylor´s Complete Guide",] una guía de confección y corte de vestidos que se vuelve popular en esa época.
               .col-sm-12.col-lg-4
                 figure
                   img.img-a.img-t.my-2(src='@/assets/curso/tema1/3.svg', alt='tema1')      

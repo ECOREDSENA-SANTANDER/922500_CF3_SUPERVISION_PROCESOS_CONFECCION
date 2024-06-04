@@ -17,7 +17,7 @@
     .row.align-items-center.justify-content-center.mb-4
       .col-md-8.mb-4.mb-md-0.mb-5
         .cajon.color-acento-contenido.p-4
-          p.pt-3.mx-2 Los patrones bases o básicos se crean según el tipo de prenda, como se observa en la siguiente figura:
+          p.pt-3.mx-2 Los patrones bases o básicos se crean según el tipo de prenda, como se presenta en la siguiente figura:
 
     .row.justify-content-center.mb-4
           .col-sm-12.col-lg-8
@@ -134,7 +134,7 @@
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0          
                       h4 Patronaje delantero falda básica
-                      p.mb-0.irr Consulte el anexo Pasos para falda básica.
+                      p.mb-0.irr Consulte el video “Patronaje delantero falda básica”.
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=Zlc9gtFlJLw" target="_blank")
                         span Ir al sitio
@@ -147,7 +147,7 @@
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0          
                       h4 Base inferior falda femenino
-                      p.mb-0.irr Consulte el video “Base inferior falda femenino”, que se encuentra en el material complementario.
+                      p.mb-0.irr Consulte el video “Base inferior falda femenino”.
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=kw9nde2uyBs" target="_blank")
                         span Ir al sitio
@@ -169,7 +169,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-2.mb-sm-0          
                   h4 Trazo de faldas rotondas
-                  p.mb-0.irr Consulte el video “Trazo de faldas rotondas”, que se encuentra en el material complementario.
+                  p.mb-0.irr Consulte el video “Trazo de faldas rotondas”.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=DJIfqv1L4FA" target="_blank")
                     span Ir al sitio
@@ -181,8 +181,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0          
-                  h4 Trazo de falda y modificacion de basicos de falda 
-                  p.mb-0.irr Consulte el video “Modificación de básicos de falda”, que se encuentra en el material complementario.
+                  h4 Trazo de falda y modificación de básicos de falda 
+                  p.mb-0.irr Consulte el video “Trazo de falda y modificación de básicos de falda”.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=gfHPZ8-gzwQ" target="_blank")
                     span Ir al sitio
@@ -237,7 +237,7 @@
                     p Existen prendas más grandes que el cuerpo, iguales o más pequeñas como las elaboradas en tejidos de punto o con telas licradas. La diferencia entre la prenda y el cuerpo que visten recibe el nombre de desahogo, el mayor o menor desahogo condiciona el volumen de la prenda. El desahogo de una prenda debe mantenerse constante en todas las tallas del mismo diseño.
       
               
-          p.mb-4 A continuación, se muestran los valores de desahogo (en centímetros) estimados según el tipo de prenda y volumen deseado:
+          p.mb-4 A continuación, se presentan los valores de desahogo (en centímetros) estimados según el tipo de prenda y volumen deseado:
           
             .row.m-0.justify-content-center
               .col-lg-10.mb-4.mb-lg-0
@@ -352,7 +352,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0          
                   h4 Pasos para el trazo de la base superior  
-                  p.mb-0.irr Consulte el video “Pasos para el trazo de la base superior”, que se encuentra en el material complementario.
+                  p.mb-0.irr Consulte el video “Trazo de la base superior femenina”.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=HzUZmIGpKjs" target="_blank")
                     span Ir al sitio
@@ -365,7 +365,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0          
                   h4 Trazo de falda y modificación de básicos de falda
-                  p.mb-0.irr Consulte el video “Trazo de falda y modificación de básicos de falda”, que se encuentra en el material complementario.
+                  p.mb-0.irr Consulte el video “Trazo de falda y modificación de básicos de falda”.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=gfHPZ8-gzwQ" target="_blank")
                     span Ir al sitio
@@ -398,7 +398,7 @@
 
     
     h4.mb-4  Técnicas de transformación
-    p.mb-3 Estas técnicas hacen referencia a métodos que permiten el desplazamiento de las pinzas y su reubicación. Veamos las dos más utilizadas:
+    p.mb-3 Estas técnicas hacen referencia a métodos que permiten el desplazamiento de las pinzas y su reubicación. Se presentan las dos más utilizadas:
     
 
     .row.fonfu.align-items-center.py-4.py-md-5.mb-5 
@@ -427,8 +427,8 @@
                     h5 Figura 13. 
                     | Puntos de traslado de pinza
                   .col-lg-12
-                    img.mb-3.my-5(src='@/assets/curso/tema5/errr.svg' , alt="Los puntos en que se hace posible el traslado de la pinza son los siguientes:")
-                    figcaption Fuente. Adaptadeo de SENA, 2021
+                    img.mb-3.my-5(src='@/assets/curso/tema5/errr.svg' , alt="La imagen muestra los puntos de traslados  de pinza, dependiendo la amplitud que requiera la prenda por ellos se especifican en los diferentes cortes de la prenda.")
+                    figcaption Fuente. Adaptado de SENA, 2021
           
           .col-sm-6.col-lg-5.mb-4.mb-lg-4
             p.mb-4 A continuación, se observa la transformación que sufre el patrón de acuerdo a la técnica aplicada y la necesidad de la prenda.
@@ -439,22 +439,22 @@
                     h5 Figura 14. 
                     | Traslados de pinza en base
                   .col-lg-12
-                    img(src='@/assets/curso/tema5/aer.svg', alt="A continuación, se observa la transformación que sufre el patrón de acuerdo a la técnica aplicada y la necesidad de la prenda.")
-                    figcaption Fuente. Adaptadeo de SENA, 2021
+                    img(src='@/assets/curso/tema5/aer.svg', alt="EL patrón sufre unos cambios, según los traslados de pinzas, teniendo en cuenta los cortes que se hacen a la pieza según el estilo que se le quiere dar a la prenda")
+                    figcaption Fuente. Adaptado de SENA, 2021
                   
-        p.mb-4.text-center Para comprender este proceso podrá ver el video explicativo sobre cómo se hacen traslados de pinza correcta de talles.
+        p.mb-4.text-center Para comprender este proceso podrá explorar el video explicativo sobre cómo se hacen traslados de pinza correcta de talles.
 
         .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
           .col-sm-12.col-lg-10
             .fondo21.p-3.mb-4
-              .row.justify-content-around.align-items-center.mb-4
+              .row.justify-content-around.align-items-center.mb-0
                 .col-3.col-sm-2.col-lg-1
                   img.img-a.img-t.mx-4(src="@/assets/curso/tema5/vide.svg", alt="tema 5")
                 .col
                   .row.justify-content-between.align-items-center
                     .col.mb-2.mb-sm-0          
                       h4.mx-4 Traslados de pinza correctiva de talles
-                      p.mb-0.irr.mx-4 Consulte el video “Traslados de pinza correctiva de talles”, que se encuentra en el material complementario.
+                      p.mb-0.irr.mx-4 Consulte el video “Traslados de pinza correctiva de talles”.
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=EpSXWyWzcPo" target="_blank")
                         span Ir al sitio
@@ -468,7 +468,7 @@
     .row.justify-content-center.align-items-center
       .col-sm-12.col-lg-8
         p.mb-4 Dentro del desarrollo de moldes y patrones, se hace indispensable el manejo de pinzas, como sistema de ajuste o como insumo principal para el manejo de volúmenes, las pinzas en femenino son un punto de partida primordial y especifico el cual es necesario comprender desde la base funcional estructural y matemática.
-        p.mb-4 Para comprender el funcionamiento de las pinzas, se trabajará únicamente la parte superior femenina, contemplando la circunferencia y el volumen del busto, de igual manera el contorno de cintura y el contorno de cadera, cada uno de estos contornos maneja características como volúmenes más protuberantes de los tops o los bottoms y punto unión o encuentro entre la división del cuerpo.
+        p.mb-4 Para comprender el funcionamiento de las pinzas, se trabajará únicamente la parte superior femenina, contemplando la circunferencia y el volumen del busto, de igual manera el contorno de cintura y el contorno de cadera, cada uno de estos contornos maneja características como volúmenes más protuberantes de los #[em tops] o los #[em bottoms] y punto unión o encuentro entre la división del cuerpo.
         p.mb-4 En el manejo de pinzas únicamente se trabajará con los contornos relevantes o que se toman como punto de partida para la construcción de básicos (contorno de busto – contorno de cintura – contorno de cadera).
         p.mb-4 Sin importar el tipo de prenda, los desahogos o la interpretación, las pinzas como sistema de ajuste siempre se trabajarán sobre esos contornos debido a que son los contornos con los que se trabaja la base o el básico. Consultar el siguiente video explicativo sobre cómo se hace el trazo de sistemas de ajuste de pinzas y cortes.
       .col-md-10.col-lg-4.col-10
@@ -477,14 +477,14 @@
     .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10
         .fondo21.p-3.mb-5
-          .row.justify-content-around.align-items-center.mb-4
+          .row.justify-content-around.align-items-center.mb-0
             .col-3.col-sm-2.col-lg-1
               img.img-a.img-t.mx-3(src="@/assets/curso/tema5/vide.svg", alt="tema 5")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-2.mb-sm-0          
                   h4.mx-4.my-1 Análisis y trazo de sistema de ajuste pinzas y cortes
-                  p.mb-0.irr.mx-4 Consulte el video “Análisis y trazo de sistema de ajuste pinzas y cortes”, que se encuentra en el material complementario.
+                  p.mb-0.irr.mx-4 Consulte el video “Análisis y trazo de sistema de ajuste pinzas y cortes”.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=pb0f6QFi9Y8" target="_blank")
                     span Ir al sitio
@@ -500,7 +500,7 @@
             .col-lg-11.col-md-11.col-11
               img.img-a.img-t.mt-4(src='@/assets/curso/tema5/vide.svg', alt="tema 5")
               h4.text-center.mt-4 Pasos para el trazo de la base superior
-              p.mb-5.my-3 Consulte el video “Trazo base superior”.
+              p.mb-5.my-3 Consulte el video “Base superior femenino”.
               .row.justify-content-center.align-items-center
                 .col-sm-auto.mb-5
                   a.boton.color-acento-botones.my-4(href="https://www.youtube.com/watch?v=MJJln-zDjfc" target="_blank")
@@ -513,7 +513,7 @@
             .col-lg-11.col-md-11.col-11
               img.img-a.img-t.mt-4(src='@/assets/curso/tema5/vide.svg', alt="tema 5")
               h4.text-center.mt-4 Trazo blusa con almilla y cuello camisero
-              p.mb-4.my-3 Consulte el video “Trazo básico blusa”, que se encuentra en el material complementario.
+              p.mb-5.my-3 Consulte el video “Trazo de blusa femenina”.
               .row.justify-content-center.align-items-center
                 .col-sm-auto
                   a.boton.color-acento-botones.my-4(href="https://www.youtube.com/watch?v=DamxUrw0CZM" target="_blank")
@@ -525,8 +525,8 @@
           .row.justify-content-center.align-items-center.mb-4
             .col-lg-11.col-md-11.col-11
               img.img-a.img-t.mt-4(src='@/assets/curso/tema2/video.svg', alt="tema 5")
-              h4.text-center.mt-4 Trazo de prendas superiores - camisa
-              p.mb-4.my-3 Para ampliar su conocimiento, observe los ejemplos expuestos en el documento anexo denominado “Piezas complementarias”.
+              h4.text-center.mt-4 Trazo de prendas superiores - Camisa
+              p.mb-5.my-3 Consulte el video “Trazo de prendas superiores - Camisa”.
               .row.justify-content-center.align-items-center
                 .col-sm-auto
                   a.boton.color-acento-botones.my-0(href="https://www.youtube.com/watch?v=YgPcDIMHU8U" target="_blank")
@@ -560,7 +560,7 @@
             .col-lg-11.col-md-11.col-11
               img.img-a.img-t.mt-4(src='@/assets/curso/tema5/vide.svg', alt="tema 5")
               h4.text-center.mt-4 Trazo de la Bata o vestido
-              p.mb-4.my-3 Consulte el video “Trazo de la Bata o vestido”, que se encuentra en el material complementario.
+              p.mb-4.my-3 Consulte el video “Trazo de prendas - Bata o vestido”.
               .row.justify-content-center.align-items-center
                 .col-sm-auto
                   a.boton.color-acento-botones.my-4(href="https://www.youtube.com/watch?v=eH7LRTKK040" target="_blank")
@@ -573,7 +573,7 @@
             .col-lg-11.col-md-11.col-11
               img.img-a.img-t.mt-4(src='@/assets/curso/tema5/vide.svg', alt="tema 5")
               h4.text-center.mt-4 Cuellos y solapas
-              p.mb-4.my-3 Consulte el video “Cuellos y solapas”, que se encuentra en el material complementario.
+              p.mb-4.my-3 Consulte el video “Trazo de escotes y tipos de cuellos”.
               .row.justify-content-center.align-items-center
                 .col-sm-auto
                   a.boton.color-acento-botones.my-4(href="https://www.youtube.com/watch?v=fMp3RRQ384s" target="_blank")
@@ -586,7 +586,7 @@
             .col-lg-11.col-md-11.col-11
               img.img-a.img-t.mt-4(src='@/assets/curso/tema5/pdff.svg', alt="tema 5")
               h4.text-center.mt-4 Variación del vestido
-              p.mb-4.my-2 Consulte el anexo “Variación del vestido”. Leer de la página 59 a 62.
+              p.mb-3.my-3 Consulte el anexo “Variación del vestido”. Leer de la página 59 a 62.
               .row.justify-content-center.align-items-center
                 .col-sm-auto
                   a.boton.color-acento-botones.my-4(:href="obtenerLink('/downloads/Manual_patronaje_básico_interpretacion_diseños.pdf')" target="_blank")
@@ -597,12 +597,17 @@
     separador
     #t_5_3.titulo-segundo
       .h2 5.3 El pantalón femenino y sus variantes
-
+    
+    .mb-4.d-flex.mb-5
+      .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
+        h5.col.px-4.mb-0.text-white.mx-5(data-aos="fade-right") Trazado de la falda basica
+        img.clase2(src='@/assets/curso/tema3/vot.svg' data-aos="fade-left") 
+    
     .row.justify-content-center.align-items-center.mb-4
       .col-md-8.col-lg-4.col-8
         img.mb-5(src='@/assets/curso/tema5/img12.png' , alt="tema 5")
       .col-sm-12.col-lg-8
-        p.mb-5 Cuando se habla de una base inferior, se refiere a una copia de la horma del cuerpo que parte de la cintura hasta el suelo, dicha base, será la plantilla que se adecuará para convertirse en diferentes tipologías según modificaciones de largos, amplitudes, detalles y cortes. Se pueden obtener los básicos de short, capri, jean, bermudas, entre otros.
+        p.mb-5 Cuando se habla de una base inferior, se refiere a una copia de la horma del cuerpo que parte de la cintura hasta el suelo, dicha base, será la plantilla que se adecuará para convertirse en diferentes tipologías según modificaciones de largos, amplitudes, detalles y cortes. Se pueden obtener los básicos de #[em short, capri, jean, bermudas,] entre otros.
         .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
           .col-lg-12.col-md-12.col-12
             .fondo211.p-3.mb-2
@@ -710,7 +715,7 @@
         .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
           .col-sm-12.col-lg-10
             .fondo21.p-3.mb-5
-              .row.justify-content-around.align-items-center.mb-4
+              .row.justify-content-around.align-items-center.mb-0
                 .col-3.col-sm-2.col-lg-1
                   img.img-a.img-t.mx-3(src="@/assets/curso/tema5/pdff.svg", alt="tema 5")
                 .col
@@ -723,19 +728,19 @@
                         span Descargar
                         i.fas.fa-file-download
         
-        p.mb-5.text-center También será importante visualizar el siguiente video explicativo sobre cómo realizar la base inferior del pantalón femenino.
+        p.mb-5.text-center También será importante explorar el siguiente video explicativo sobre cómo realizar la base inferior del pantalón femenino.
         
         .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
           .col-sm-12.col-lg-10
             .fondo21.p-3.mb-5
-              .row.justify-content-around.align-items-center.mb-4
+              .row.justify-content-around.align-items-center.mb-0
                 .col-3.col-sm-2.col-lg-1
                   img.img-a.img-t.mx-3(src="@/assets/curso/tema5/vide.svg", alt="tema 5")
                 .col
                   .row.justify-content-between.align-items-center
                     .col.mb-2.mb-sm-0          
                       h4.mx-4.my-2 Base inferior de pantalón femenino
-                      p.mb-0.irr.mx-4 Consulte el video “Base inferior de pantalón femenino”, que se encuentra en el material complementario.
+                      p.mb-0.irr.mx-4 Consulte el video “Base inferior de pantalón femenino”.
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=k0-m6ftaKts" target="_blank")
                         span Ir al sitio
@@ -775,10 +780,10 @@
                   .col-lg-11.col-md-11.col-11
                     img.img-a.img-t.mt-4(src='@/assets/curso/tema5/vide.svg', alt="tema 5")
                     h4.text-center.mt-4 Interpretación de prendas de vestir
-                    p.mb-4.my-3 Consulte el video “Interpretación de prendas de vestir”, que se encuentra en el material complementario.
+                    p.mb-5.my-4 Consulte el video “Interpretación de prendas inferiores”.
                     .row.justify-content-center.align-items-center
                       .col-sm-auto
-                        a.boton.color-acento-botones.my-1(href="https://www.youtube.com/watch?v=fkHL3e5EOPI" target="_blank")
+                        a.boton.color-acento-botones.my-0(href="https://www.youtube.com/watch?v=fkHL3e5EOPI" target="_blank")
                           span Ir al sitio
                           i.fas.fa-video    
                 
@@ -787,11 +792,11 @@
                 .row.justify-content-center.align-items-center.mb-4
                   .col-lg-11.col-md-11.col-11
                     img.img-a.img-t.mt-4(src='@/assets/curso/tema5/vide.svg', alt="tema 5")
-                    h4.text-center.mt-3 Análisis e interpretación de pantalón y sudadera
-                    p.mb-3.my-1 Consulte el video “Análisis e interpretación de pantalón y sudadera”, que se encuentra en el material complementario.
+                    h4.text-center.mt-4 Análisis e interpretación de pantalón y sudadera
+                    p.mb-3 Consulte el video “Análisis e interpretación de pantalón sudadera”.
                     .row.justify-content-center.align-items-center
                       .col-sm-auto
-                        a.boton.color-acento-botones.my-0(href="https://www.youtube.com/watch?v=8vgwqHz6Qio" target="_blank")
+                        a.boton.color-acento-botones.my-4(href="https://www.youtube.com/watch?v=8vgwqHz6Qio" target="_blank")
                           span Ir al sitio
                           i.fas.fa-video
             .col-lg-1.col-md-8.col-12.mb-4.my-5
@@ -856,7 +861,7 @@
             .col-lg-11.col-md-11.col-11
               img.img-a.img-t.mt-4(src='@/assets/curso/tema5/vide.svg', alt="tema 5")
               h4.text-center.mt-4 Trazo de manga y cabezas de manga
-              p.mb-4.my-3 Consulte el video “Trazo de manga y cabezas de manga”, que se encuentra en el material complementario.
+              p.mb-5.my-3 Consulte el video “Trazo de manga y cabezas de manga”.
               .row.justify-content-center.align-items-center
                 .col-sm-auto
                   a.boton.color-acento-botones.my-2(href="https://www.youtube.com/watch?v=bOKMgtgSzM4" target="_blank")
@@ -886,7 +891,7 @@
             .col-lg-11.col-md-11.col-11
               img.img-a.img-t.mt-4(src='@/assets/curso/tema5/vide.svg', alt="tema 5")
               h4.text-center.mt-4 Interpretación de mangas
-              p.mb-4.my-3 Consulte el video “Interpretación de mangas”, que se encuentra en el material complementario.
+              p.mb-5.my-3 Consulte el video “Interpretación de mangas”.
               .row.justify-content-center.align-items-center
                 .col-sm-auto
                   a.boton.color-acento-botones.my-4(href="https://www.youtube.com/watch?v=jAAy_cQfRok" target="_blank")
@@ -899,10 +904,10 @@
             .col-lg-11.col-md-11.col-11
               img.img-a.img-t.mt-4(src='@/assets/curso/tema5/vide.svg', alt="tema 5")
               h4.text-center.mt-3 Generalidades de la manga kimono y ranglan
-              p.mb-2.my-0 Consulte el video “Generalidades de la manga kimono y ranglan”, que se encuentra en el material complementario.
+              p.mb-4 Consulte el video “Generalidades de manga kimono y ranglan”.
               .row.justify-content-center.align-items-center
                 .col-sm-auto
-                  a.boton.color-acento-botones.my-1(href="https://www.youtube.com/watch?v=bsxn_w-kS5Y" target="_blank")
+                  a.boton.color-acento-botones.my-3(href="https://www.youtube.com/watch?v=bsxn_w-kS5Y" target="_blank")
                     span Ir al sitio
                     i.fas.fa-video
 
@@ -932,7 +937,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-2.mb-sm-0          
                   h4 Análisis e interpretación de capas
-                  p.mb-0.irr Consulte el video “Análisis e interpretación de capas”, que se encuentra en el material complementario.
+                  p.mb-0.irr Consulte el video “Análisis e interpretación de capas”.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=N-2DugIICpw" target="_blank")
                     span Ir al sitio
@@ -945,7 +950,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0          
                   h4 Abrigo asimétrico
-                  p.mb-0.irr Consulte el video “Abrigo asimétrico”, que se encuentra en el material complementario.
+                  p.mb-0.irr Consulte el video “Abrigo asimétrico”.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=aga8T_qGAFs" target="_blank")
                     span Ir al sitio
@@ -958,7 +963,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0          
                   h4 Interpretación de pantalón sastre femenino
-                  p.mb-0.irr Consulte el video “Interpretación de pantalón sastre femenino”, que se encuentra en el material complementario.
+                  p.mb-0.irr Consulte el video “Interpretación de pantalón sastre femenino”.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=VZZQsjRcc7k" target="_blank")
                     span Ir al sitio
@@ -971,7 +976,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0          
                   h4 Análisis e interpretación de pantalón sudadera
-                  p.mb-0.irr Consulte el video “Análisis e interpretación de pantalón sudadera”, que se encuentra en el material complementario.
+                  p.mb-0.irr Consulte el video “Análisis e interpretación de pantalón sudadera”.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=8vgwqHz6Qio" target="_blank")
                     span Ir al sitio

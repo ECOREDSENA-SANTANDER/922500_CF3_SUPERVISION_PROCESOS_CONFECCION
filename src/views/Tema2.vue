@@ -75,10 +75,10 @@
                 ul.lista-ul--color.mb-5
                   li.d-flex.mt-5
                     i.fas.fa-car-side
-                    | El levantamiento de patrones en plano: similar al industrial, pero aquí el patronista implementa también técnicas y fórmulas que considere necesarias. 
+                    p El levantamiento de patrones en plano: similar al industrial, pero aquí el patronista implementa también técnicas y fórmulas que considere necesarias. 
                   li.d-flex.mt-5
                     i.fas.fa-car-side
-                    | Patronaje sobre maniquí: técnica que es requerida en la construcción de prendas con drapeado o la aplicación de metodologías empleados como el Moulage, que es muy similar al drapeado, sobre el maniquí suelen generarse dichos moldes dado que suelen anudarse, doblarse e incluso generar plisados y otros acabados cuyas texturas requieren de un trabajo mucho más arduo. Bajo esta técnica muchas empresas, marcas, diseñadores, patronistas, sastres o modistos suelen realizar prendas de fiesta, vestidos de matrimonio, trajes para caballero e incluso para público infantil.
+                    p Patronaje sobre maniquí: técnica que es requerida en la construcción de prendas con drapeado o la aplicación de metodologías empleados como el #[em Moulage], que es muy similar al drapeado, sobre el maniquí suelen generarse dichos moldes dado que suelen anudarse, doblarse e incluso generar plisados y otros acabados cuyas texturas requieren de un trabajo mucho más arduo. Bajo esta técnica muchas empresas, marcas, diseñadores, patronistas, sastres o modistos suelen realizar prendas de fiesta, vestidos de matrimonio, trajes para caballero e incluso para público infantil.
             
               .col-md-3
                 figure
@@ -113,7 +113,7 @@
                         span Ir al sitio
                         i.fas.fa-video 
         
-        p.mb-4(data-aos="fade-right") Dentro de los procesos productivos en las empresas todo el trabajo es guiado por fichas técnicas, las cuales permiten a cada uno de los integrantes de la empresa comprender el proceso a realizar, así como las especificaciones y datos que deben ser acatados con rigurosidad. Se invita a visualizar el posterior contenido con los siguientes fines: el primero es facilitar un reconocimiento de las partes de las prendas y el segundo permitirá identificar las fichas técnicas y su estructura.
+        p.mb-4(data-aos="fade-right") Dentro de los procesos productivos en las empresas todo el trabajo es guiado por fichas técnicas, las cuales permiten a cada uno de los integrantes de la empresa comprender el proceso a realizar, así como las especificaciones y datos que deben ser acatados con rigurosidad. Se invita a consultar el posterior contenido con los siguientes fines: el primero es facilitar un reconocimiento de las partes de las prendas y el segundo permitirá identificar las fichas técnicas y su estructura.
     
         .row
           .col-lg-4.mb-4.mb-md-0
@@ -122,7 +122,7 @@
                 img(src="@/assets/template/icono-link.svg" alt="Imagen decorativa")
               .anexo__texto
                 strong.or Enlace web. 
-                | Reconocimientos de las prendas
+                | Reconocimiento de las partes de las prendas
           .col-lg-4.mb-4.mb-md-0
             a.anexo.mb-4.mb-lg-0(href="https://youtu.be/dcFVqOqjFg4" target="_blank")
               .anexo__icono

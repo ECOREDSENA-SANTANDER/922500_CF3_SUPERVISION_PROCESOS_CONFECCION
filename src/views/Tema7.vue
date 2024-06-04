@@ -49,7 +49,7 @@
                           .col
                             .row.justify-content-between.align-items-center
                               .col.mb-3.mb-sm-0          
-                                p.my-2 Video. Escalado de falda_femenino
+                                p.my-2 Video. Escalado de falda femenino
                               .col-sm-auto
                                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=yzWUSqyVG4w" target="_blank")
                                   span Ir al sitio
@@ -63,7 +63,7 @@
                           .col
                             .row.justify-content-between.align-items-center
                               .col.mb-3.mb-sm-0          
-                                p.my-2 Video. Escalado de base con pinzas_superior
+                                p.my-2 Video. Escalado de base con pinzas superior
                               .col-sm-auto
                                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=M17NGVz1H3E" target="_blank")
                                   span Ir al sitio
@@ -93,7 +93,7 @@
                           .col
                             .row.justify-content-between.align-items-center
                               .col.mb-3.mb-sm-0          
-                                p.my-2 Video. Escalado Cortes, manga, cuello
+                                p.my-2 Video. Cortes, manga, cuello escalado
                               .col-sm-auto
                                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=xgAXsqfUxx0" target="_blank")
                                   span Ir al sitio
@@ -108,7 +108,7 @@
                           .col
                             .row.justify-content-between.align-items-center
                               .col.mb-3.mb-sm-0          
-                                p.my-2 Video. Escalado Bibásico Análisis: Base superior masculina
+                                p.my-2 Video. Base superior masculina - Análisis de escalado bibásico
                               .col-sm-auto
                                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=KtUb5VzsMLU" target="_blank")
                                   span Ir al sitio
