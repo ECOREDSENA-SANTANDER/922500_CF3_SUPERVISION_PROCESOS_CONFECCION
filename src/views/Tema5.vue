@@ -72,11 +72,6 @@
             img(src='@/assets/curso/tema5/img04.png' , alt=" La circunferencia de la cintura puede ser tan baja como por debajo del ombligo y tan alta como por encima de la cintura.")
             figcaption.texte.text-black Fuente: SENA, 2021
         
-    .mb-4.d-flex.mb-5
-      .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h5.col.px-4.mb-0.text-white.mx-5(data-aos="fade-right") Trazado de la falda basica
-        img.clase2(src='@/assets/curso/tema3/vot.svg' data-aos="fade-left") 
-    
     .row.justify-content.align-items.mt-5.mb-5
       .col-sm-12.col-lg-12
         .row.justify-content-center.mb-5
@@ -84,7 +79,7 @@
             img.img-t.img-a.my-2(src='@/assets/curso/tema5/ima3.png', alt="tema 5") 
           .col-lg-7
             .boqu.p-4.my-3
-              p.mb-4.mx-3.my-3 Como punto de partida se deben tomar las medidas anatómicas con precisión. No deben sumar centímetros de más, por ello se recomienda seguir con atención los pasos del manual de patronaje básico e interpretación de diseños que se relaciona a continuación, pues el básico inferior de falda, siempre se trabaja partiendo desde un rectángulo e identificando los siguientes puntos:
+              p.mb-4.mx-3.my-3 #[b Trazado de la falda basica:] Como punto de partida se deben tomar las medidas anatómicas con precisión. No deben sumar centímetros de más, por ello se recomienda seguir con atención los pasos del manual de patronaje básico e interpretación de diseños que se relaciona a continuación, pues el básico inferior de falda, siempre se trabaja partiendo desde un rectángulo e identificando los siguientes puntos:
               ul.lista-ul--color
                 li.d-flex
                   i.fas.fa-car-side.mx-3.mb-4
