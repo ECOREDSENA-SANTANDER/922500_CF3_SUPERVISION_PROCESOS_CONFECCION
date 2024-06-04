@@ -72,7 +72,11 @@
             img(src='@/assets/curso/tema5/img04.png' , alt=" La circunferencia de la cintura puede ser tan baja como por debajo del ombligo y tan alta como por encima de la cintura.")
             figcaption.texte.text-black Fuente: SENA, 2021
         
-
+    .mb-4.d-flex.mb-5
+      .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
+        h5.col.px-4.mb-0.text-white.mx-5(data-aos="fade-right") Trazado de la falda basica
+        img.clase2(src='@/assets/curso/tema3/vot.svg' data-aos="fade-left") 
+    
     .row.justify-content.align-items.mt-5.mb-5
       .col-sm-12.col-lg-12
         .row.justify-content-center.mb-5
@@ -597,12 +601,7 @@
     separador
     #t_5_3.titulo-segundo
       .h2 5.3 El pantalón femenino y sus variantes
-    
-    .mb-4.d-flex.mb-5
-      .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h5.col.px-4.mb-0.text-white.mx-5(data-aos="fade-right") Trazado de la falda basica
-        img.clase2(src='@/assets/curso/tema3/vot.svg' data-aos="fade-left") 
-    
+  
     .row.justify-content-center.align-items-center.mb-4
       .col-md-8.col-lg-4.col-8
         img.mb-5(src='@/assets/curso/tema5/img12.png' , alt="tema 5")
