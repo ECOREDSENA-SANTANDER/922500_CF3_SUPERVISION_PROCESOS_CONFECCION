@@ -20,7 +20,7 @@
       .col-sm-12.col-lg-4.mb-4
         .titulo-sexto.color-acento-contenido
           h5 Figura 1. 
-          | Matriz DOFA
+          | Vestimenta por cubrimiento con mantas
         img(src='@/assets/curso/tema1/img01.png' alt="Se describe paso a paso la forma como se colocaba sobre el cuerpo la túnica o manta que era utilizada como prenda de vestir en sus inicios ")
     p.mb-5 A medida que las diferentes civilizaciones fueron creciendo, el vestuario empezó a considerarse como un símbolo de distinción entre las diferentes esferas sociales, y los oficios de la producción de prendas empiezan a ser asumidos por personas a las que se les llamaba, modistos y costureros, dado el oficio del cosido de las prendas.
     

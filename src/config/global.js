@@ -252,7 +252,7 @@ export default {
     },
     {
       referencia:
-        'Gutiérrez Rengifo, Lucy Alejandra, Moncayo Velazco, Adriana Ximena Instructora, Tanaka, Kenji Instructora, Kimura, Funiyo Experta, and Moreno Brand, Diana Coordinadora. Manual de Patronaje Básico e Interpretación de Diseños. Bogotá: SENA, Japan Inernational Cooperation Agency "jica", 2011. Print.',
+        'Gutiérrez Rengifo, Lucy Alejandra, Moncayo Velazco, Adriana Ximena Instructora, Tanaka, Kenji Instructora, Kimura, Funiyo Experta, and Moreno Brand, Diana Coordinadora. Manual de Patronaje Básico e Interpretación de Diseños. Bogotá: SENA, Japan Inernational Cooperation Agency "jica", 2011. Print. ',
       link:
         'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000025496&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L&isFrbr=true',
     },
@@ -265,9 +265,8 @@ export default {
         'Hollahan, L.  (2010). Patrones de costura. Madrid: El Drac S. L.',
     },
     {
-      referencia: 'Fashion Snoops, Sistema de Bibliotecas SENA:',
-      link:
-        'https://login.bdigital.sena.edu.co/login?url=https://www.fashionsnoops.com/Default.aspx',
+      referencia: 'Fashion Snoops, Sistema de Bibliotecas SENA: ',
+      link: 'https://biblioteca.sena.edu.co/images/PDF/fashion.pdf',
     },
     {
       referencia:
@@ -283,25 +282,25 @@ export default {
     },
     {
       referencia:
-        'Origen del Patronaje y Patrones - Evolución | CurioSfera-Historia. (2021).',
+        'Origen del Patronaje y Patrones - Evolución | CurioSfera-Historia. (2021). ',
       link:
         'https://curiosfera-historia.com/historia-del-patronaje-y-patrones-de-papel/',
     },
     {
       referencia:
-        'Patronaje básico: sus inicios / Basic patterns: the beginning | mil dedales. (2015).',
+        'Patronaje básico: sus inicios / Basic patterns: the beginning | mil dedales. (2015). ',
       link:
         'http://mildedales.com/?p=453#:~:text=Si%20ahora%20buscamos%20su%20origen,persas%20(siglo%20V%20a.C.).&text=Ser%C3%A1%20durante%20la%20Edad%20Media,incuestionable%20la%20utilizaci%C3%B3n%20de%20patrones',
     },
     {
       referencia:
-        'SENA. (2021). Manual de patronaje básico de interpretación de diseños. Repositorios SENA.',
-      link: 'https://repositorio.sena.edu.co/',
+        'SENA. (2021). Manual de patronaje básico de interpretación de diseños. Repositorios SENA. ',
+      link: 'https://repositorio.sena.edu.co/handle/11404/4725',
     },
     {
       referencia:
-        'SENA.  (1996).  Patronaje y escalado línea ropa interior y deportiva.',
-      link: 'https://repositorio.sena.edu.co/',
+        'SENA.  (1996).  Patronaje y escalado línea ropa interior y deportiva. ',
+      link: 'https://repositorio.sena.edu.co/handle/11404/4811',
     },
   ],
   glosario: [

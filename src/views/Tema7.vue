@@ -7,7 +7,7 @@
         span 7
       h1  Escalado manual de prendas
     
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-0
       .col-lg-5.col-md-10.col-10(data-aos="fade-left")
         img.mb-4(src='@/assets/curso/tema7/img01.png' , alt="tema 7")
       
@@ -29,7 +29,7 @@
     
     .row.font.align-items-center.py-4.py-md-5.mb-5
       .col-lg-12.col-12.px-lg-5.px-4
-        .row.justify-content-center.mb-4(data-aos="fade-down")
+        .row.justify-content-center.mb-0(data-aos="fade-down")
     
         .row.justify-content-center.mb-4
           .col-lg-10.mb-4.mb-md-0

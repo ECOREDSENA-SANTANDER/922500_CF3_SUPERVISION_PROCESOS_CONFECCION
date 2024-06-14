@@ -18,13 +18,13 @@
               img(src="@/assets/curso/tema4/img01.svg", alt="tema2")
                 
 
-    p.mb-5 Es indispensable tener clara la terminología que se implementa en este proceso para evitar confundirse en la aplicación de esta metodología:
+    p.mb-1 Es indispensable tener clara la terminología que se implementa en este proceso para evitar confundirse en la aplicación de esta metodología:
 
-    .row.justify-content-center.align-items-center.mb-3
+    .row.justify-content-center.align-items-center.mb-0
       .col-sm-12.col-lg-10
         .row.justify-content-center.align-items-center
           .col-md-10.col-lg-5.col-10.mb-4.mb-md-0(data-aos="fade-left")
-            img.mb-3(src='@/assets/curso/tema3/img35.png' alt="tema 4")
+            img.mb-3.my-4(src='@/assets/curso/tema3/img35.png' alt="tema 4")
           .col-sm-12.col-lg-7
               SlyderA(tipo="b").bg1.p-4.mb-5.my-5
                 .row.justify-content-center.align-items-center
@@ -57,7 +57,7 @@
                       h5 Figura 7. 
                       | Plano cartesiano
                     img(src='@/assets/curso/tema4/img02.svg' , alt="La figura presenta una cuadricula con los ejes X y Y del plano cartesiano, y tres puntos señalado; (2,3),(-3,1)(-1,-2)")
-                    figcaption Fuente.https://www.significados.com/plano-cartesiano/
+                    figcaption Fuente. https://www.significados.com/plano-cartesiano/
   
     Separador
     #t_4_1.titulo-segundo
@@ -94,7 +94,7 @@
                             | Escalado monobásico
                           figure
                             img.img-a.img-t(src='@/assets/curso/tema4/modal1.svg', alt='La imagen muestra un diagrama de un patrón de costura con diversas medidas anotadas en distintos puntos del patrón. El título de la figura es “Escalado monobásico.” Las medidas incluyen anchura de hombros, longitud de sisa, y otras dimensiones específicas para la confección de la prenda. El diagrama está detallado con líneas y flechas que indican dónde se deben tomar o ajustar las medidas.')
-                            figcaption Fuente.https://mimundodemoda.com/wp-content/uploads/2020/12/Manual_patronaje_basico-y-costura.pdf
+                            figcaption Fuente. https://mimundodemoda.com/wp-content/uploads/2020/12/Manual_patronaje_basico-y-costura.pdf
                             
 
                 .kaha.p-4.mb-4.shadow 
@@ -117,7 +117,7 @@
                             | Simple o relativo/diferencial
                           figure
                             img.img-a.img-t(src='@/assets/curso/tema4/modal1.1.svg', alt='La imagen muestra un diagrama de patrones de costura etiquetado como “Figura 9 Simple o relativo/diferencial.” El diagrama presenta múltiples contornos de diferentes colores superpuestos, que probablemente representan distintos tamaños o ajustes del patrón. Las líneas y marcas indican cómo se debe escalar o ajustar el patrón para diferentes medidas.')
-                            figcaption Fuente.https://mimundodemoda.com/wp-content/uploads/2020/12/Manual_patronaje_basico-y-costura.pdf
+                            figcaption Fuente. https://mimundodemoda.com/wp-content/uploads/2020/12/Manual_patronaje_basico-y-costura.pdf
                 
                 .kaha.p-4.mb-4.shadow  
                   h4.color Escalado bibásico

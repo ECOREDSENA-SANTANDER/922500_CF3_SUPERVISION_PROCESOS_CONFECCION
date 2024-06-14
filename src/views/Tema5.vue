@@ -237,9 +237,12 @@
       
               
           p.mb-4 A continuación, se presentan los valores de desahogo (en centímetros) estimados según el tipo de prenda y volumen deseado:
-          
+            
             .row.m-0.justify-content-center
               .col-lg-10.mb-4.mb-lg-0
+                .titulo-sexto.color-acento-contenido
+                  h5 Tabla 1.
+                  | Valores de desahogo
                 .tabla-a.color-acento-contenido.mb-5 
                   table
                     thead
@@ -303,6 +306,9 @@
                 p.mb-4 En función al volumen del tejido, los anteriores valores pueden ser ajustados de la siguiente manera, y son aplicados al contorno.
                 .row.m-0.justify-content-center
                   .col-lg-10.mb-0.mb-lg-0
+                    .titulo-sexto.color-acento-contenido
+                      h5 Tabla 2.
+                      | Valores de desahogo según el volumen del tejido
                     .tabla-a.color-acento-contenido.mb-0
                       table
                         thead
@@ -681,6 +687,9 @@
         p.mb-4 En los patrones de pantalón femenino dependiendo de la tipología se adecuan ampliaciones, largos y cortes donde dan lugar a la creación de otros básicos que pueden ser utilizados para ser cortados en la tela. Para introducirnos en la comprensión de este tema se recomienda revisar el siguiente material:
         .row.justify-content-center.mb-4(data-aos="zoom-in")
           .col-lg-8.mb-4.mb-lg-0
+            .titulo-sexto.color-acento-contenido
+              h5 Tabla 3.
+              | Adecuaciones para la creación de otros básicos
             .tabla-a.color-acento-contenido.mb-5 
               table
                 thead

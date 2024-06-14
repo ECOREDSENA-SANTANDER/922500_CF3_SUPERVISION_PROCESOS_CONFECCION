@@ -37,7 +37,7 @@
             .row.justify-content-center.align-items-start(titulo="Patronaje industrial")
               .col-lg-8.col-md-12.col-12
                 p.text-cus #[b Patronaje industrial]
-                p.mb-5 El patronaje es un proceso meticuloso que implica un análisis antropométrico detallado, abarcando la figura humana en 3D. Este método se distingue por su precisión en cada paso, desde el levantamiento de los básicos hasta el desarrollo de los patrones y moldes, junto con sus correspondientes transformaciones. Se lleva a cabo tanto en formato 2D, en papel o mediante #[em software] especializado como Audaces 360, #[em Optitex, Gerber, y Lectra,] entre otros.
+                p.mb-4 El patronaje es un proceso meticuloso que implica un análisis antropométrico detallado, abarcando la figura humana en 3D. Este método se distingue por su precisión en cada paso, desde el levantamiento de los básicos hasta el desarrollo de los patrones y moldes, junto con sus correspondientes transformaciones. Se lleva a cabo tanto en formato 2D, en papel o mediante #[em software] especializado como Audaces 360, #[em Optitex, Gerber, y Lectra,] entre otros.
                 p Este enfoque comienza con tablas de medidas establecidas geométricamente, adaptadas al uso final de la prenda. Estas tablas permiten implementar técnicas de escalado, evitando la necesidad de crear patrones y moldes completamente nuevos para cada talla. En su lugar, se utilizan las medidas base para calcular los incrementos entre tallas y se desarrollan fórmulas para ajustar los moldes en cada punto, facilitando así la producción masiva en entornos industriales.
               .col-lg-3.col-md-10.col-10
                 figure
@@ -70,13 +70,13 @@
                   figcaption Fuente. https://www.aitex.es/tag/servef-2016/
             .row.justify-content-center.align-items-start(titulo="Patronaje sobre medidas")
               .col-lg-8.col-md-12.col-12.mt-4.texto-superior
-                p.text-cus.mb-5 #[b Patronaje sobre medidas]
-                p.mt-4 El patronaje también se destaca por su atención a la ergonomía y funcionalidad de las prendas. Se emplea especialmente para crear prendas completamente personalizadas para clientes exclusivos, siendo una práctica común entre marcas orientadas a un público selecto. Este proceso implica la toma de medidas antropométricas del cliente, seguida de una premuestra para ajustes preliminares antes de la confección final.
+                p.text-cus.mb-4 #[b Patronaje sobre medidas]
+                p.mb-4 El patronaje también se destaca por su atención a la ergonomía y funcionalidad de las prendas. Se emplea especialmente para crear prendas completamente personalizadas para clientes exclusivos, siendo una práctica común entre marcas orientadas a un público selecto. Este proceso implica la toma de medidas antropométricas del cliente, seguida de una premuestra para ajustes preliminares antes de la confección final.
                 ul.lista-ul--color.mb-5
-                  li.d-flex.mt-5
+                  li.d-flex.mb-2
                     i.fas.fa-car-side
                     p El levantamiento de patrones en plano: similar al industrial, pero aquí el patronista implementa también técnicas y fórmulas que considere necesarias. 
-                  li.d-flex.mt-5
+                  li.d-flex
                     i.fas.fa-car-side
                     p Patronaje sobre maniquí: técnica que es requerida en la construcción de prendas con drapeado o la aplicación de metodologías empleados como el #[em Moulage], que es muy similar al drapeado, sobre el maniquí suelen generarse dichos moldes dado que suelen anudarse, doblarse e incluso generar plisados y otros acabados cuyas texturas requieren de un trabajo mucho más arduo. Bajo esta técnica muchas empresas, marcas, diseñadores, patronistas, sastres o modistos suelen realizar prendas de fiesta, vestidos de matrimonio, trajes para caballero e incluso para público infantil.
             
@@ -116,21 +116,21 @@
         p.mb-4(data-aos="fade-right") Dentro de los procesos productivos en las empresas todo el trabajo es guiado por fichas técnicas, las cuales permiten a cada uno de los integrantes de la empresa comprender el proceso a realizar, así como las especificaciones y datos que deben ser acatados con rigurosidad. Se invita a consultar el posterior contenido con los siguientes fines: el primero es facilitar un reconocimiento de las partes de las prendas y el segundo permitirá identificar las fichas técnicas y su estructura.
     
         .row
-          .col-lg-4.mb-4.mb-md-0
+          .col-lg-4.mb-1.mb-md-0
             a.anexo.mb-4.mb-lg-0(href="https://youtu.be/wdtlMZurv_w" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg" alt="Imagen decorativa")
               .anexo__texto
                 strong.or Enlace web. 
                 | Reconocimiento de las partes de las prendas
-          .col-lg-4.mb-4.mb-md-0
+          .col-lg-4.mb-1.mb-md-0
             a.anexo.mb-4.mb-lg-0(href="https://youtu.be/dcFVqOqjFg4" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg" alt="Imagen decorativa")
               .anexo__texto
                 strong.or Enlace web. 
                 | Introducción a la ficha técnica
-          .col-lg-4.mb-4.mb-md-0
+          .col-lg-4.mb-1.mb-md-0
             a.anexo.mb-4.mb-lg-0(href="https://youtu.be/PfYp-Hsyb6I" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg" alt="Imagen decorativa")

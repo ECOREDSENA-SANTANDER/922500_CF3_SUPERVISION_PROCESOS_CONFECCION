@@ -131,11 +131,11 @@
         p.mb-5 Esta clasificación está dada según la metodología que se empleará en patronaje para la construcción de prendas, por ello es importante diferenciarlas, para así saber qué medidas tomar o no, si es sobre el cliente o solo se utilizan cuadros de tallas estandarizadas.
         img(src='@/assets/curso/tema3/cinta.svg' alt="tema3")
         .row.justify-content-center
-          .col-sm-12.col-lg-6
+          .col-sm-12.col-lg-10
             .fondo21.p-3.mb-2
               .row.justify-content-center.align-items-center
                 .col-3.col-sm-2.col-lg-2
-                  img.mx-2(src="@/assets/curso/tema7/pdf.svg", alt="tema 3")
+                  img.mx-2.img-a.img-t(src="@/assets/curso/tema7/video.svg", alt="tema 3")
                 .col
                   .row.justify-content-center.align-items-center
                     .col.mb-8.mb-sm-0          
@@ -143,9 +143,8 @@
                     .col-sm-auto
                       a.boton.color-acento-botones.mx-2(:href="obtenerLink('/downloads/Anexo_2_Clasificacion_de_las_medidas.pdf')" target="_blank")
                         span Descargar
-                        i.fas.fa-file-download
-                        
-                      
+                        i.fas.fa-file-download           
+    
     Separador
     #t_3_2.titulo-segundo
       .h2 3.2 Análisis de medidas y cuadros de tallas
