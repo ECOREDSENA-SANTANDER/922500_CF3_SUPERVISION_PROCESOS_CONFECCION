@@ -135,7 +135,7 @@
             .fondo21.p-3.mb-2
               .row.justify-content-center.align-items-center
                 .col-3.col-sm-2.col-lg-2
-                  img.mx-2.img-a.img-t(src="@/assets/curso/tema7/video.svg", alt="tema 3")
+                  img.mx-2.img-a.img-t(src="@/assets/curso/tema7/pdf.svg", alt="tema 3")
                 .col
                   .row.justify-content-center.align-items-center
                     .col.mb-8.mb-sm-0          

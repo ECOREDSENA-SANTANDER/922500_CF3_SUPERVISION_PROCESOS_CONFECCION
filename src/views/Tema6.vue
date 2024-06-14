@@ -191,35 +191,39 @@
                     i.fas.fa-car-side
                     p.mb-2 Para el trazo de cuellos, se debe tener siempre la referencia del tipo de cuello, medidas de cada uno de los escotes y el plano de la prenda con la que se va trabajar.
     
-    .row.justify-content-center.align-items-center.mb-4
-      .col-lg-4.col-md-8.col-12.mb-4
+    .row.justify-content-center.align-items-center.mb-3
+      .col-lg-8.col-md-12.col-12.mb-4
         p En el siguiente video se muestra el paso a paso del trazo de cuellos – generalidades y comportamientos:
-        .fondo21e.p-4
-          .row.justify-content-center.mb-4
-            .col-lg-11.col-md-12.col-12
-              img.img-a.img-t.mb-3(src='@/assets/curso/tema6/vieo.svg', alt="tema 5")
-              h4.mb-0 Paso a paso del trazo de cuellos
-              p.mb-4
-              p.mb-3.my-4 Consulte el video “Trazo de cuellos generalidades y comportamientos”.
+        .fondo21.p-3.mb-2
+          .row.justify-content-center.align-items-center
+            .col-3.col-sm-2.col-lg-2
+              img.mx-2.img-a.img-t(src="@/assets/curso/tema7/video.svg", alt="tema 3")
+            .col
               .row.justify-content-center.align-items-center
+                .col.mb-8.mb-sm-0          
+                  h4.mb-3 Paso a paso del trazo de cuellos
+                  p.mb-0 Consulte el video “Trazo de cuellos generalidades y comportamientos”.
                 .col-sm-auto
                   a.boton.color-acento-botones.my-4(href="https://www.youtube.com/watch?v=cfkxQlf6Vfw" target="_blank")
                     span Ir al sitio
-                    i.fas.fa-video
-
-      .col-lg-4.col-md-8.col-12.mb-4
+                    i.fas.fa-video  
+    
+    .row.justify-content-center.align-items-center.mb-4
+      .col-lg-8.col-md-12.col-12.mb-4
         p Ahora veremos el paso a paso del trazo de manga, puño y cuello – de la camisa clásica y #[em slim fit:] 
-        .fondo21e.p-4
-          .row.justify-content-center.align-items-center.mb-4
-            .col-lg-11.col-md-12.col-12
-              img.img-a.img-t.mb-2(src='@/assets/curso/tema6/vieo.svg', alt="tema 5")
-              h4.text-center.mt-2 Paso a paso del trazo de manga, puño y cuello
-              p.mb-4.my-0 Consulte el video “Trazo de manga, puño y cuello - Camisa clásica y #[em Slim Fit]”.
+        .fondo21.p-3.mb-2
+          .row.justify-content-center.align-items-center
+            .col-3.col-sm-2.col-lg-2
+              img.mx-2.img-a.img-t(src="@/assets/curso/tema7/video.svg", alt="tema 3")
+            .col
               .row.justify-content-center.align-items-center
+                .col.mb-8.mb-sm-0          
+                  h4.mb-3 Paso a paso del trazo de manga, puño y cuello
+                  p.mb-0 Consulte el video “Trazo de manga, puño y cuello - Camisa clásica y #[em Slim Fit]”.
                 .col-sm-auto
                   a.boton.color-acento-botones.my-4(href="https://www.youtube.com/watch?v=VMJYcQqIKBQ" target="_blank")
                     span Ir al sitio
-                    i.fas.fa-video
+                    i.fas.fa-video    
     
     .row.justify-content-center.items-align-center.mb-5
       .col-sm-12.col-lg-4

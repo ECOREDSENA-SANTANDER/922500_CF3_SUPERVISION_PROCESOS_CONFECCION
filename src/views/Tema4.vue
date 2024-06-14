@@ -46,18 +46,21 @@
                   h4.mb-4 Proporciones
                   p.mb-4 Identificadas de acuerdo al cuadro de tallas o medidas estandarizadas, estas son establecidas por cada empresa o fábrica.
                 .row.justify-content-center.align-items-center
-                  .col-sm-12.col-md-8
+                  .col-sm-12.col-md-5
                     h4.mb-4 Plano cartesiano
                     p.text-small.mb-4 Formado por rectas y perpendiculares, cuyo sistema es el que guía el movimiento de cada uno de los puntos o focos así:
                     p.text-small La recta horizontal es llamada eje de las abscisas o de las equis (x)
                     p.text-small La recta vertical, eje de las ordenadas o de las yes, (y)
                     p.text-small El punto donde se cortan recibe el nombre de origen (Punto cero o Punto muerto).
-                  .col-md-4
+                  .col-md-7
                     .titulo-sexto.color-acento-contenido
                       h5 Figura 7. 
                       | Plano cartesiano
                     img(src='@/assets/curso/tema4/img02.svg' , alt="La figura presenta una cuadricula con los ejes X y Y del plano cartesiano, y tres puntos señalado; (2,3),(-3,1)(-1,-2)")
-                    figcaption Fuente. https://www.significados.com/plano-cartesiano/
+                    figcaption.peq.text-small Fuente. https://mimundodemoda.com/wp-content/uploads/2020/12/Manual_patronaje
+                      | _basico-y-costura.pdf
+      
+
   
     Separador
     #t_4_1.titulo-segundo
