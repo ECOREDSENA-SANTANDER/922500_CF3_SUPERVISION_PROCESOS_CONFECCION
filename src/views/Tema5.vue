@@ -109,7 +109,7 @@
                       h4 Manual de patronaje básico
                       p.mb-0.irr Consulte el “Manual de patronaje básico e interpretación de diseños - Conocimiento de los puntos de referencia para el trazado de las faldas”. Leer de la página 15 a 17.
                     .col-sm-auto
-                      a.boton.color-acento-botones(:href="obtenerLink('/downloads/Manual_patronaje_básico_interpretacion_diseños.pdf')" target="_blank")
+                      a.boton.color-acento-botones(:href="obtenerLink('/downloads/Manual_patronaje_basico_interpretacion_disenos.pdf')" target="_blank")
                         span Descargar
                         i.fas.fa-file-download
               .hr.mb-3
@@ -122,7 +122,7 @@
                       h4 Manual de patronaje básico
                       p.mb-0.irr Consulte el “Manual de patronaje básico e interpretación de diseños - Conocimiento de los puntos de referencia para el trazado de las faldas”. Leer de la página 31 a 32.
                     .col-sm-auto
-                      a.boton.color-acento-botones(:href="obtenerLink('/downloads/Manual_patronaje_básico_interpretacion_diseños.pdf')" target="_blank")
+                      a.boton.color-acento-botones(:href="obtenerLink('/downloads/Manual_patronaje_basico_interpretacion_disenos.pdf')" target="_blank")
                         span Descargar
                         i.fas.fa-file-download
               .hr.mb-3
@@ -196,7 +196,7 @@
                   h4 Manual de interpretación de diseño
                   p.mb-0.irr Consulte el “Manual de patronaje básico e interpretación de diseños - Diseño de faldas”. Leer de la página 33 a 38.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Manual_patronaje_básico_interpretacion_diseños.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Manual_patronaje_basico_interpretacion_disenos.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
   
@@ -346,7 +346,7 @@
                   h4 Manual de patronaje básico e interpretación de diseños
                   p.mb-0.irr Consulte el “Manual de patronaje básico e interpretación de diseños - Conocimiento para hace patrón base superior femenino”. Leer de la página 20 a 25.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Manual_patronaje_básico_interpretacion_diseños.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Manual_patronaje_basico_interpretacion_disenos.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
           .hr.mb-3
@@ -594,7 +594,7 @@
               p.mb-3.my-3 Consulte el anexo “Variación del vestido”. Leer de la página 59 a 62.
               .row.justify-content-center.align-items-center
                 .col-sm-auto
-                  a.boton.color-acento-botones.my-4(:href="obtenerLink('/downloads/Manual_patronaje_básico_interpretacion_diseños.pdf')" target="_blank")
+                  a.boton.color-acento-botones.my-4(:href="obtenerLink('/downloads/Manual_patronaje_basico_interpretacion_disenos.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
@@ -727,7 +727,7 @@
                       h4.mx-4.my-2 Manual de patronaje básico para interpretación de diseños
                       p.mb-0.irr.mx-4 Consulte el “Manual de patronaje básico para interpretación de diseños”. Leer de la página 28 a la 30.
                     .col-sm-auto
-                      a.boton.color-acento-botones(:href="obtenerLink('/downloads/Manual_patronaje_básico_interpretacion_diseños.pdf')" target="_blank")
+                      a.boton.color-acento-botones(:href="obtenerLink('/downloads/Manual_patronaje_basico_interpretacion_disenos.pdf')" target="_blank")
                         span Descargar
                         i.fas.fa-file-download
         
@@ -881,7 +881,7 @@
               p.mb-2.my-3 Consulte el anexo “Manual de patronaje básico para interpretación de diseños”. Leer de la página 26 a 44.
               .row.justify-content-center.align-items-center
                 .col-sm-auto
-                  a.boton.color-acento-botones.my-1(:href="obtenerLink('/downloads/Manual_patronaje_básico_interpretacion_diseños.pdf')" target="_blank")
+                  a.boton.color-acento-botones.my-1(:href="obtenerLink('/downloads/Manual_patronaje_basico_interpretacion_disenos.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
@@ -923,7 +923,7 @@
               p.mb-2.my-3 Consulte el anexo “Manga Kimono”. Leer página 48 y manga ranglan formal e informal. Leer páginas 49 y 50.
               .row.justify-content-center.align-items-center
                 .col-sm-auto
-                  a.boton.color-acento-botones.my-2(:href="obtenerLink('/downloads/Manual_patronaje_básico_interpretacion_diseños.pdf')" target="_blank")
+                  a.boton.color-acento-botones.my-2(:href="obtenerLink('/downloads/Manual_patronaje_basico_interpretacion_disenos.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 

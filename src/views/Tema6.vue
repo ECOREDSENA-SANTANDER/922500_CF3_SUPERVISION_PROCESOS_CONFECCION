@@ -142,7 +142,7 @@
                       h4.mb-1 Manual de patronaje básico SENA
                       p.mb-0.irr Consulte “El Manual de patronaje básico SENA.” Leer páginas 66 y 67.
                     .col-sm-auto
-                      a.boton.color-acento-botones(:href="obtenerLink('/downloads/Manual_patronaje_básico_interpretacion_diseños.pdf')" target="_blank")
+                      a.boton.color-acento-botones(:href="obtenerLink('/downloads/Manual_patronaje_basico_interpretacion_disenos.pdf')" target="_blank")
                         span Descargar
                         i.fas.fa-file-download
           p.mb-5 
@@ -319,7 +319,7 @@
                       h4.mb-1 Manual de patronaje básico de interpretación de diseños
                       p.mb-0.irr Consulte “Manual de patronaje básico de interpretación de diseños.” Leer páginas 79.
                     .col-sm-auto
-                      a.boton.color-acento-botones(:href="obtenerLink('/downloads/Manual_patronaje_básico_interpretacion_diseños.pdf')" target="_blank")
+                      a.boton.color-acento-botones(:href="obtenerLink('/downloads/Manual_patronaje_basico_interpretacion_disenos.pdf')" target="_blank")
                         span Descargar
                         i.fas.fa-file-download 
           p.mb-5 
@@ -354,7 +354,7 @@
                         h4.mb-1 Manual de patronaje básico de interpretación de diseños
                         p.mb-0.irr Consulte “Manual de patronaje básico de interpretación de diseños.” Leer páginas 80.
                       .col-sm-auto
-                        a.boton.color-acento-botones(:href="obtenerLink('/downloads/Manual_patronaje_básico_interpretacion_diseños.pdf')" target="_blank")
+                        a.boton.color-acento-botones(:href="obtenerLink('/downloads/Manual_patronaje_basico_interpretacion_disenos.pdf')" target="_blank")
                           span Descargar
                           i.fas.fa-file-download 
             p.mb-5 
